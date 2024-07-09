@@ -1,0 +1,10 @@
+# zerolint exclusions for open-telemetry/opentelemetry-collector
+go.opentelemetry.io/collector/exporter/exporterhelper/internal/sizer.LogsBytesSizer
+go.opentelemetry.io/collector/exporter/exporterhelper/internal/sizer.MetricsBytesSizer
+go.opentelemetry.io/collector/exporter/exporterhelper/internal/sizer.TracesBytesSizer
+# go.opentelemetry.io/collector/exporter/exporterhelper/internal/sizer.MetricsCountSizer
+# go.opentelemetry.io/collector/exporter/exporterhelper/internal/sizer.TracesCountSizer
+go.opentelemetry.io/collector/pdata/plog.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/pmetric.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/pprofile.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/ptrace.ProtoMarshaler

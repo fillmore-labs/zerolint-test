@@ -1,0 +1,1 @@
+# zerolint exclusions for goccy/go-yaml
