@@ -1,0 +1,2 @@
+# zerolint exclusions for sigstore/k8s-manifest-sigstore
+github.com/sigstore/cosign/v2/pkg/cosign/pkcs11key.Key

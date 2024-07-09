@@ -1,0 +1,3 @@
+# zerolint exclusions for gofiber/recipes
+openapi/handlers.EmptyResponse
+struct{}

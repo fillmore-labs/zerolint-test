@@ -1,0 +1,2 @@
+# zerolint exclusions for quay/claircore
+github.com/quay/claircore/internal/mdbook.Separator

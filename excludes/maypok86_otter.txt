@@ -1,0 +1,2 @@
+# zerolint exclusions for maypok86/otter
+struct{}

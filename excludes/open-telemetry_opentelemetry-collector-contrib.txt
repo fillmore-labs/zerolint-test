@@ -1,0 +1,27 @@
+# zerolint exclusions for open-telemetry/opentelemetry-collector-contrib
+github.com/aws/aws-sdk-go-v2/feature/ec2/imds.GetInstanceIdentityDocumentInput
+github.com/Azure/azure-sdk-for-go/sdk/azcore/fake.AddPageOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armsubscriptions.ClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armsubscriptions.ClientListOptions
+github.com/Azure/go-amqp.ReceiveOptions
+github.com/DataDog/gohai/filesystem.FileSystem
+github.com/DataDog/gohai/processes.Processes
+github.com/grafana/loki/pkg/push.PushResponse
+github.com/open-telemetry/opentelemetry-collector-contrib/receiver/carbonreceiver/protocol.PlaintextConfig
+github.com/open-telemetry/opentelemetry-collector-contrib/receiver/solacereceiver.SaslExternalConfig
+go.opentelemetry.io/collector/pdata/plog.JSONMarshaler
+go.opentelemetry.io/collector/pdata/plog.JSONUnmarshaler
+go.opentelemetry.io/collector/pdata/plog.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/plog.ProtoUnmarshaler
+go.opentelemetry.io/collector/pdata/pmetric.JSONMarshaler
+go.opentelemetry.io/collector/pdata/pmetric.JSONUnmarshaler
+go.opentelemetry.io/collector/pdata/pmetric.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/pmetric.ProtoUnmarshaler
+go.opentelemetry.io/collector/pdata/pprofile.JSONMarshaler
+go.opentelemetry.io/collector/pdata/pprofile.JSONUnmarshaler
+go.opentelemetry.io/collector/pdata/pprofile.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/pprofile.ProtoUnmarshaler
+go.opentelemetry.io/collector/pdata/ptrace.JSONMarshaler
+go.opentelemetry.io/collector/pdata/ptrace.JSONUnmarshaler
+go.opentelemetry.io/collector/pdata/ptrace.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/ptrace.ProtoUnmarshaler

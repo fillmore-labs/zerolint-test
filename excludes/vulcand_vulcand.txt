@@ -1,0 +1,2 @@
+# zerolint exclusions for vulcand/vulcand
+github.com/mailgun/timetools.RealTime

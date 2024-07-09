@@ -1,0 +1,21 @@
+# zerolint exclusions for googleapis/google-cloud-go
+cloud.google.com/go/datastore.Commit
+cloud.google.com/go/internal/examples/fake.fakeTranslationServer
+cloud.google.com/go/pubsub.PubsubWrapper
+cloud.google.com/go/pubsublite.SeekSubscriptionResult
+cloud.google.com/go/storage.withGRPCBidiReadsConfig
+cloud.google.com/go/storage.withZonalBucketAPIsConfig
+cloud.google.com/go/vertexai/genai.withREST
+github.com/apache/arrow/go/v15/arrow.BinaryType
+github.com/apache/arrow/go/v15/arrow.BooleanType
+github.com/apache/arrow/go/v15/arrow.Date32Type
+github.com/apache/arrow/go/v15/arrow.Date64Type
+github.com/apache/arrow/go/v15/arrow.Float16Type
+github.com/apache/arrow/go/v15/arrow.Float32Type
+github.com/apache/arrow/go/v15/arrow.Float64Type
+github.com/apache/arrow/go/v15/arrow.Int16Type
+github.com/apache/arrow/go/v15/arrow.Int32Type
+github.com/apache/arrow/go/v15/arrow.Int64Type
+github.com/apache/arrow/go/v15/arrow.Int8Type
+github.com/apache/arrow/go/v15/arrow.StringType
+struct{cloud.google.com/go/iam/apiv1/iampb.UnimplementedIAMPolicyServer}

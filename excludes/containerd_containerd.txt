@@ -1,0 +1,5 @@
+# zerolint exclusions for containerd/containerd
+github.com/mdlayher/vsock.Config
+# non-empty on Linux
+github.com/containerd/containerd/v2/internal/cri/nri.API
+github.com/containerd/containerd/v2/internal/cri/nri.PluginSyncBlock

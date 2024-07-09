@@ -1,0 +1,6 @@
+# zerolint exclusions for seaweedfs/seaweedfs
+github.com/arangodb/go-driver.AbortTransactionOptions
+github.com/arangodb/go-driver.CommitTransactionOptions
+github.com/aws/aws-sdk-go-v2/service/s3.ListBucketsInput
+github.com/aws/aws-sdk-go/service/s3.ListBucketsInput
+google.golang.org/grpc/security/advancedtls.PostHandshakeVerificationResults

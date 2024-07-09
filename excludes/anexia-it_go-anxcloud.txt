@@ -1,0 +1,1 @@
+# zerolint exclusions for anexia-it/go-anxcloud

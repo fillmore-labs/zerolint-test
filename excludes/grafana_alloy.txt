@@ -1,0 +1,9 @@
+# zerolint exclusions for grafana/alloy
+github.com/aws/aws-sdk-go-v2/feature/ec2/imds.GetRegionInput
+github.com/grafana/alloy/internal/component/loki/process/stages.DecolorizeConfig
+github.com/grafana/alloy/internal/component/loki/process/stages.DockerConfig
+github.com/grafana/alloy/internal/component/otelcol/receiver/solace.SaslExternalConfig
+github.com/grafana/alloy/internal/service/otel.Service
+github.com/grafana/alloy/internal/static/server.WinCertStoreHandler
+github.com/hashicorp/go-discover/provider/k8s.Provider
+github.com/open-telemetry/opentelemetry-collector-contrib/receiver/solacereceiver.SaslExternalConfig

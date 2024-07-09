@@ -1,0 +1,11 @@
+# zerolint exclusions for cosmos/gaia
+github.com/cosmos/gaia/v25/x/liquid/types.MsgDisableTokenizeSharesResponse
+github.com/cosmos/gaia/v25/x/liquid/types.MsgTransferTokenizeShareRecordResponse
+github.com/cosmos/gaia/v25/x/liquid/types.MsgUpdateParamsResponse
+github.com/cosmos/gaia/v25/x/liquid/types.MsgWithdrawAllTokenizeShareRecordRewardResponse
+github.com/cosmos/gaia/v25/x/liquid/types.MsgWithdrawTokenizeShareRecordRewardResponse
+github.com/cosmos/gaia/v25/x/liquid/types.QueryLastTokenizeShareRecordIdRequest
+github.com/cosmos/gaia/v25/x/liquid/types.QueryParamsRequest
+github.com/cosmos/gaia/v25/x/liquid/types.QueryTotalLiquidStaked
+github.com/cosmos/gaia/v25/x/liquid/types.QueryTotalTokenizeSharedAssetsRequest
+github.com/tendermint/go-amino.ConcreteOptions

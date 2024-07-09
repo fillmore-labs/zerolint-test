@@ -1,0 +1,12 @@
+# zerolint exclusions for aws/copilot-cli
+github.com/aws/aws-sdk-go/service/cloudformation.CancelUpdateStackOutput
+github.com/aws/aws-sdk-go/service/cloudformation.DeleteChangeSetOutput
+github.com/aws/aws-sdk-go/service/cloudformation.DeleteStackOutput
+github.com/aws/aws-sdk-go/service/cloudformation.DeleteStackSetOutput
+github.com/aws/aws-sdk-go/service/cloudformation.ExecuteChangeSetOutput
+github.com/aws/aws-sdk-go/service/iam.DeleteRoleOutput
+github.com/aws/aws-sdk-go/service/iam.DeleteRolePolicyOutput
+github.com/aws/aws-sdk-go/service/ssm.AddTagsToResourceOutput
+github.com/aws/aws-sdk-go/service/ssm.DeleteParameterOutput
+github.com/aws/aws-sdk-go/service/sts.GetCallerIdentityInput
+github.com/aws/copilot-cli/internal/pkg/template.ExecuteCommandOpts

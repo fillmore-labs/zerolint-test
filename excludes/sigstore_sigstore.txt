@@ -1,0 +1,6 @@
+# zerolint exclusions for sigstore/sigstore
+github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys.CreateKeyOptions
+github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys.GetKeyOptions
+github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys.SignOptions
+github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys.VerifyOptions
+github.com/sigstore/sigstore/pkg/signature/kms/cliplugin/common.VerifySignatureResp

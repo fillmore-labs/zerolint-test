@@ -1,0 +1,6 @@
+# zerolint exclusions for grpc/grpc-go
+google.golang.org/grpc/gcp/observability.cloudMonitoring
+google.golang.org/grpc/security/advancedtls.PostHandshakeVerificationResults
+# non-empty on Linux
+google.golang.org/grpc/internal/channelz.SocketOptionData
+google.golang.org/grpc/internal/syscall.Rusage

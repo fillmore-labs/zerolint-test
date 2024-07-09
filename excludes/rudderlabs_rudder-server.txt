@@ -1,0 +1,5 @@
+# zerolint exclusions for rudderlabs/rudder-server
+github.com/aws/aws-sdk-go/service/personalizeevents.PutEventsOutput
+github.com/aws/aws-sdk-go/service/personalizeevents.PutItemsOutput
+github.com/aws/aws-sdk-go/service/personalizeevents.PutUsersOutput
+github.com/minio/minio-go/v7.ParquetInputOptions
