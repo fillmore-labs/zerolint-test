@@ -1,0 +1,1 @@
+# zerolint exclusions for temp/launchdarkly/go-server-sdk

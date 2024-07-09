@@ -1,0 +1,5 @@
+# zerolint exclusions for open-telemetry/opentelemetry-collector
+go.opentelemetry.io/collector/pdata/plog.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/pmetric.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/pprofile.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/ptrace.ProtoMarshaler

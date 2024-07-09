@@ -1,0 +1,1 @@
+# zerolint exclusions for temp/open-feature/go-sdk
