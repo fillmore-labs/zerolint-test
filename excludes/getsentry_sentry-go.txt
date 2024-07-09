@@ -1,0 +1,2 @@
+# zerolint exclusions for getsentry/sentry-go
+github.com/getsentry/sentry-go/otel.sentrySpanProcessor

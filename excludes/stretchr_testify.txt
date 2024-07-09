@@ -1,0 +1,3 @@
+# zerolint exclusions for stretchr/testify
+github.com/stretchr/testify/assert.customError
+struct{}

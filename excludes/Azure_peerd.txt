@@ -1,0 +1,2 @@
+# zerolint exclusions for Azure/peerd
+github.com/azure/peerd/tests/cmd.ScannerCmd

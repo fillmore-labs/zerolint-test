@@ -1,0 +1,20 @@
+# zerolint exclusions for Azure/azure-service-operator
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/apimanagement/armapimanagement/v2.SubscriptionClientListSecretsOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/cosmos/armcosmos.DatabaseAccountsClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/eventgrid/armeventgrid.TopicsClientListSharedAccessKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/eventhub/armeventhub.EventHubsClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/eventhub/armeventhub.NamespacesClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/iothub/armiothub.ResourceClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/keyvault/armkeyvault.KeysClientCreateIfNotExistOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/keyvault/armkeyvault.VaultsClientGetDeletedOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/machinelearning/armmachinelearning.WorkspacesClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/notificationhubs/armnotificationhubs.ClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/notificationhubs/armnotificationhubs.NamespacesClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/redhatopenshift/armredhatopenshift.OpenShiftClustersClientListAdminCredentialsOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/redhatopenshift/armredhatopenshift.OpenShiftClustersClientListCredentialsOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/redis/armredis.ClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/search/armsearch.AdminKeysClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/search/armsearch.QueryKeysClientListBySearchServiceOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/servicebus/armservicebus.NamespacesClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/signalr/armsignalr.ClientListKeysOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/subscription/armsubscription.ClientCancelOptions

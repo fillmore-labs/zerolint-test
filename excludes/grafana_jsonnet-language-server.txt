@@ -1,0 +1,2 @@
+# zerolint exclusions for grafana/jsonnet-language-server
+github.com/jdbaldry/go-language-server-protocol/lsp/protocol.InitializedParams

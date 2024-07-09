@@ -1,0 +1,2 @@
+# zerolint exclusions for cockroachdb/pebble
+github.com/cockroachdb/pebble/v2/objstorage/objstorageprovider/objiotracing.Tracer

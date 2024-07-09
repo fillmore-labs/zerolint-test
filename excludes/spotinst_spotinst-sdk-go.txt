@@ -1,0 +1,1 @@
+# zerolint exclusions for spotinst/spotinst-sdk-go
