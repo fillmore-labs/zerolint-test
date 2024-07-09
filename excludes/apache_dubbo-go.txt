@@ -1,0 +1,17 @@
+# zerolint exclusions for apache/dubbo-go
+dubbo.apache.org/dubbo-go/v3/common.testService
+dubbo.apache.org/dubbo-go/v3/filter/active.activeFilter
+dubbo.apache.org/dubbo-go/v3/filter/auth.authFilter
+dubbo.apache.org/dubbo-go/v3/filter/auth.defaultAccesskeyStorage
+dubbo.apache.org/dubbo-go/v3/filter/auth.defaultAuthenticator
+dubbo.apache.org/dubbo-go/v3/filter/auth.signFilter
+dubbo.apache.org/dubbo-go/v3/filter/echo.echoFilter
+dubbo.apache.org/dubbo-go/v3/filter/generic.genericFilter
+dubbo.apache.org/dubbo-go/v3/filter/generic.genericServiceFilter
+dubbo.apache.org/dubbo-go/v3/filter/metrics.metricsFilter
+dubbo.apache.org/dubbo-go/v3/filter/seata.seataFilter
+dubbo.apache.org/dubbo-go/v3/filter/sentinel.sentinelConsumerFilter
+dubbo.apache.org/dubbo-go/v3/filter/sentinel.sentinelProviderFilter
+dubbo.apache.org/dubbo-go/v3/filter/token.tokenFilter
+dubbo.apache.org/dubbo-go/v3/filter/tps.tpsLimitFilter
+struct{}

@@ -1,0 +1,4 @@
+# zerolint exclusions for kubeedge/kubeedge
+k8s.io/kubernetes/pkg/volume/util/subpath.FakeSubpath
+sigs.k8s.io/apiserver-network-proxy/cmd/agent/app.Agent
+sigs.k8s.io/controller-runtime/pkg/handler.EnqueueRequestForObject
