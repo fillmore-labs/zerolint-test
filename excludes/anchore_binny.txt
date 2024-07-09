@@ -1,0 +1,2 @@
+# zerolint exclusions for anchore/binny
+github.com/google/yamlfmt/formatters/basic.BasicFormatterFactory

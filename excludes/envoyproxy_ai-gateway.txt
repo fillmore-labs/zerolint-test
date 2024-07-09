@@ -1,0 +1,2 @@
+# zerolint exclusions for envoyproxy/ai-gateway
+sigs.k8s.io/controller-runtime/pkg/handler.EnqueueRequestForObject

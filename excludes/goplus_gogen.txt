@@ -1,0 +1,2 @@
+# zerolint exclusions for goplus/gogen
+github.com/goplus/gogen/internal/bar.Game
