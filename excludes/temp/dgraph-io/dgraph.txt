@@ -1,0 +1,2 @@
+# zerolint exclusions for dgraph-io/dgraph
+github.com/dgraph-io/dgo/v230/protos/api.Check

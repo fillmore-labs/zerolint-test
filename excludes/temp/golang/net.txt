@@ -1,0 +1,6 @@
+# zerolint exclusions for golang/net
+[0]byte
+golang.org/x/net/ipv4.ICMPFilter
+struct{}
+# Test calls .Elem()
+golang.org/x/net/webdav/internal/xml.MyMarshalerTest

@@ -1,0 +1,4 @@
+# zerolint exclusions for caddyserver/caddy
+github.com/caddyserver/caddy/v2.StderrWriter
+github.com/caddyserver/caddy/v2.StdoutWriter
+github.com/caddyserver/caddy/v2/modules/caddyhttp.Metrics
