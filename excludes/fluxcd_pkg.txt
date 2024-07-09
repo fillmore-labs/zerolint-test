@@ -1,0 +1,4 @@
+# zerolint exclusions for fluxcd/pkg
+github.com/aws/aws-sdk-go-v2/service/ecrpublic.GetAuthorizationTokenInput
+github.com/aws/aws-sdk-go-v2/service/sts.GetCallerIdentityInput
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/containerservice/armcontainerservice.ManagedClustersClientGetOptions

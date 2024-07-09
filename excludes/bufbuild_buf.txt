@@ -1,0 +1,5 @@
+# zerolint exclusions for bufbuild/buf
+github.com/bufbuild/buf/private/bufpkg/bufremoteplugin/bufremotepluginconfig.CmakeRegistryConfig
+github.com/bufbuild/buf/private/bufpkg/bufremoteplugin/bufremotepluginconfig.ExternalCmakeRegistryConfig
+github.com/bufbuild/buf/private/bufpkg/bufremoteplugin/bufremoteplugindocker.DeleteResponse
+go.lsp.dev/protocol.InitializedParams

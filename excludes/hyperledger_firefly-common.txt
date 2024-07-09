@@ -1,0 +1,2 @@
+# zerolint exclusions for hyperledger/firefly-common
+github.com/getkin/kin-openapi/openapi3gen.ExcludeSchemaSentinel

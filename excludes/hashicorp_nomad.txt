@@ -1,0 +1,15 @@
+# zerolint exclusions for hashicorp/nomad
+github.com/hashicorp/nomad/api.ConsulMeshConfigEntry
+github.com/hashicorp/nomad/client/allocrunner/interfaces.TaskExitedRequest
+github.com/hashicorp/nomad/client/allocrunner/interfaces.TaskExitedResponse
+github.com/hashicorp/nomad/client/allocrunner/interfaces.TaskPoststartResponse
+github.com/hashicorp/nomad/client/allocrunner/interfaces.TaskPreKillRequest
+github.com/hashicorp/nomad/client/allocrunner/interfaces.TaskPreKillResponse
+github.com/hashicorp/nomad/client/allocrunner/interfaces.TaskStopResponse
+github.com/hashicorp/nomad/client/allocrunner/interfaces.TaskUpdateResponse
+github.com/hashicorp/nomad/client/structs.ClientCSIControllerDeleteSnapshotResponse
+github.com/hashicorp/nomad/client/structs.ClientCSIControllerDeleteVolumeResponse
+github.com/hashicorp/nomad/client/structs.ClientCSIControllerDetachVolumeResponse
+github.com/hashicorp/nomad/client/structs.ClientCSIControllerValidateVolumeResponse
+github.com/hashicorp/nomad/nomad/structs.ConsulMeshConfigEntry
+github.com/hashicorp/nomad/plugins/csi.ControllerUnpublishVolumeResponse

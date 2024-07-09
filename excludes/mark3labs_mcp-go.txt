@@ -1,0 +1,2 @@
+# zerolint exclusions for mark3labs/mcp-go
+struct{}

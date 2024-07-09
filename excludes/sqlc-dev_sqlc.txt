@@ -1,0 +1,2 @@
+# zerolint exclusions for sqlc-dev/sqlc
+github.com/sqlc-dev/sqlc/internal/sql/ast.A_Star

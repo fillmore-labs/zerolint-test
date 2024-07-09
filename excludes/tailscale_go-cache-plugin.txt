@@ -1,0 +1,2 @@
+# zerolint exclusions for tailscale/go-cache-plugin
+github.com/creachadair/scheddle.Options

@@ -1,0 +1,3 @@
+# zerolint exclusions for openbao/go-secure-stdlib
+github.com/aws/aws-sdk-go-v2/feature/ec2/imds.GetRegionInput
+github.com/aws/aws-sdk-go-v2/service/sts.GetCallerIdentityInput

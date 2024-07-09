@@ -1,0 +1,2 @@
+# zerolint exclusions for buildpacks/lifecycle
+github.com/apex/log/handlers/discard.Handler

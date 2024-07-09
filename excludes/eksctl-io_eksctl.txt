@@ -1,0 +1,2 @@
+# zerolint exclusions for eksctl-io/eksctl
+github.com/aws/aws-sdk-go-v2/service/sts.GetCallerIdentityInput
