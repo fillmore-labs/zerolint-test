@@ -1,0 +1,9 @@
+# zerolint exclusions for opentofu/opentofu
+github.com/hashicorp/go-getter.BitBucketDetector
+github.com/hashicorp/go-getter.GCSDetector
+github.com/hashicorp/go-getter.GitDetector
+github.com/hashicorp/go-getter.GitHubDetector
+github.com/hashicorp/go-getter.S3Detector
+# github.com/hashicorp/hcl/v2/gohcl.DecodeBody needs a pointer
+github.com/opentofu/opentofu/internal/encryption/method/unencrypted.config
+struct{}
