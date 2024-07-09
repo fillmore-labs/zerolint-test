@@ -1,0 +1,4 @@
+# zerolint exclusions for hashicorp/terraform
+github.com/aws/aws-sdk-go-v2/service/s3.ListBucketsInput
+github.com/hashicorp/terraform/internal/cloud.MockRunEvents
+struct{}
