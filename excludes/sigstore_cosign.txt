@@ -1,0 +1,4 @@
+# zerolint exclusions for sigstore/cosign
+github.com/sigstore/cosign/v2/pkg/cosign/pivkey.empty
+github.com/sigstore/cosign/v2/pkg/cosign/pivkey.Key
+github.com/sigstore/cosign/v2/pkg/cosign/pkcs11key.Key

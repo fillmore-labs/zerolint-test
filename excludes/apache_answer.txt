@@ -1,0 +1,2 @@
+# zerolint exclusions for apache/answer
+github.com/apache/answer/internal/schema.GetUserInfoResp

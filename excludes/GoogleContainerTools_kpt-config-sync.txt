@@ -1,0 +1,4 @@
+# zerolint exclusions for GoogleContainerTools/kpt-config-sync
+sigs.k8s.io/controller-runtime/pkg/cache.ErrCacheNotStarted
+sigs.k8s.io/controller-runtime/pkg/handler.EnqueueRequestForObject
+sigs.k8s.io/kustomize/api/hasher.Hasher

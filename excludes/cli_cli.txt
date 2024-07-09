@@ -1,0 +1,3 @@
+# zerolint exclusions for cli/cli
+github.com/henvic/httpretty.JSONFormatter
+github.com/cenkalti/backoff/v4.ZeroBackOff
