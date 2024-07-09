@@ -1,0 +1,2 @@
+# zerolint exclusions for go-delve/delve
+github.com/go-delve/delve/pkg/proc/internal/ebpf.EBPFContext

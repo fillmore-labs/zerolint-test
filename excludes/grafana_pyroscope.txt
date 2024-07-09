@@ -1,0 +1,3 @@
+# zerolint exclusions for grafana/pyroscope
+github.com/parquet-go/parquet-go/encoding/delta.BinaryPackedEncoding
+github.com/parquet-go/parquet-go/encoding/rle.DictionaryEncoding
