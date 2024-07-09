@@ -1,0 +1,2 @@
+# zerolint exclusions for protocolbuffers/protobuf-go
+google.golang.org/protobuf/internal/impl_test.LegacyTestMessageName2

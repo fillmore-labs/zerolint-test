@@ -1,0 +1,5 @@
+# zerolint exclusions for dash0hq/dash0-operator
+go.opentelemetry.io/collector/pdata/plog.JSONUnmarshaler
+go.opentelemetry.io/collector/pdata/pmetric.JSONUnmarshaler
+go.opentelemetry.io/collector/pdata/ptrace.JSONUnmarshaler
+sigs.k8s.io/controller-runtime/pkg/handler.EnqueueRequestForObject
