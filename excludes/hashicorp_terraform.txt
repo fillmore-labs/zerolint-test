@@ -1,0 +1,3 @@
+# zerolint exclusions for hashicorp/terraform
+github.com/hashicorp/terraform/internal/cloud.MockRunEvents
+struct{}

@@ -1,0 +1,5 @@
+# zerolint exclusions for rclone/rclone
+github.com/rclone/rclone/backend/onedrive/api.DeletedFacet
+storj.io/uplink.CopyObjectOptions
+storj.io/uplink.MoveObjectOptions
+struct{}
