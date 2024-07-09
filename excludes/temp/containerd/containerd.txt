@@ -1,0 +1,3 @@
+# zerolint exclusions for containerd/containerd
+github.com/containerd/containerd/v2/internal/cri/nri.API
+github.com/mdlayher/vsock.Config

@@ -1,0 +1,2 @@
+# zerolint exclusions for open-telemetry/opentelemetry-go-contrib
+go.opencensus.io/examples/exporter.PrintExporter

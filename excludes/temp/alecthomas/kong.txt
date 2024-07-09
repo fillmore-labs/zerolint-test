@@ -1,0 +1,2 @@
+# zerolint exclusions for alecthomas/kong
+github.com/alecthomas/kong.zrror
