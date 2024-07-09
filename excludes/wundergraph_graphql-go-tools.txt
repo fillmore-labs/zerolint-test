@@ -1,0 +1,3 @@
+# zerolint exclusions for wundergraph/graphql-go-tools
+github.com/wundergraph/graphql-go-tools/pkg/engine/resolve.DeferField
+github.com/wundergraph/graphql-go-tools/v2/pkg/engine/resolve.DeferField
