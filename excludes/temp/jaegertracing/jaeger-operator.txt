@@ -1,0 +1,2 @@
+# zerolint exclusions for jaegertracing/jaeger-operator
+github.com/operator-framework/operator-lib/handler.InstrumentedEnqueueRequestForObject
