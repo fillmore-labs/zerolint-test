@@ -1,0 +1,4 @@
+# zerolint exclusions for olric-data/olric
+github.com/olric-data/olric/internal/protocol.ClusterMembers
+github.com/olric-data/olric/internal/protocol.ClusterRoutingTable
+github.com/olric-data/olric/internal/protocol.PubSubNumpat

@@ -1,0 +1,2 @@
+# zerolint exclusions for rs/zerolog
+github.com/rs/zerolog.nilError

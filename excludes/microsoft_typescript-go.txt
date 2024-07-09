@@ -1,0 +1,4 @@
+# zerolint exclusions for microsoft/typescript-go
+# only on Linux
+github.com/microsoft/typescript-go/internal/ls.importStatementCompletionInfo
+struct{}

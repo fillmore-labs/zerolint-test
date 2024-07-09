@@ -1,0 +1,3 @@
+# zerolint exclusions for volcano-sh/volcano
+k8s.io/kubernetes/pkg/scheduler/framework/plugins/nodeports.NodePorts
+k8s.io/kubernetes/pkg/scheduler/framework/plugins/nodeunschedulable.NodeUnschedulable

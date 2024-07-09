@@ -1,0 +1,2 @@
+# zerolint exclusions for operator-framework/operator-lifecycle-manager
+sigs.k8s.io/controller-runtime/pkg/handler.EnqueueRequestForObject
