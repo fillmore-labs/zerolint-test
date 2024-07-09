@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/trinodb/trino-go-client/trino.ErrTrino

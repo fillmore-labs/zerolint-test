@@ -1,0 +1,2 @@
+# zerolint exclusions for charmbracelet/soft-serve
+github.com/golang-jwt/jwt/v5.SigningMethodEd25519

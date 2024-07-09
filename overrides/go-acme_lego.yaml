@@ -1,0 +1,4 @@
+---
+pointer:
+  - github.com/go-acme/lego/v4/acme.AlreadyReplacedError
+  - github.com/go-acme/lego/v4/acme.NonceError

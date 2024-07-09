@@ -1,0 +1,14 @@
+---
+pointer:
+  - github.com/junioryono/godi/v4.AlreadyRegisteredError
+  - github.com/junioryono/godi/v4.BuildError
+  - github.com/junioryono/godi/v4.ConstructorInvocationError
+  - github.com/junioryono/godi/v4.DisposalError
+  - github.com/junioryono/godi/v4.GraphOperationError
+  - github.com/junioryono/godi/v4.LifetimeConflictError
+  - github.com/junioryono/godi/v4.ReflectionAnalysisError
+  - github.com/junioryono/godi/v4.RegistrationError
+  - github.com/junioryono/godi/v4.ResolutionError
+  - github.com/junioryono/godi/v4.TimeoutError
+  - github.com/junioryono/godi/v4.TypeMismatchError
+  - github.com/junioryono/godi/v4.ValidationError

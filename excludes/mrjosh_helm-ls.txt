@@ -1,0 +1,2 @@
+# zerolint exclusions for mrjosh/helm-ls
+go.lsp.dev/protocol.InitializedParams

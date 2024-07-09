@@ -1,0 +1,7 @@
+# zerolint exclusions for traefik/traefik
+github.com/cenkalti/backoff/v4.StopBackOff
+github.com/cenkalti/backoff/v4.ZeroBackOff
+github.com/traefik/traefik/v3/integration/helloworld.StreamExampleRequest
+github.com/traefik/traefik/v3/pkg/config/dynamic.HealthCheck
+github.com/traefik/traefik/v3/pkg/provider/acme.TLSChallenge
+struct{}

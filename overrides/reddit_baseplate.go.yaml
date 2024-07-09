@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/reddit/baseplate.go/httpbp.ClientError

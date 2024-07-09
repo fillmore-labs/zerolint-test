@@ -1,0 +1,8 @@
+---
+pointer:
+  - github.com/quay/clair/v4/clair-error.ErrBadNotification
+  - github.com/quay/clair/v4/clair-error.ErrDeliveryFailed
+  - github.com/quay/clair/v4/clair-error.ErrNoReceipt
+  - github.com/quay/clair/v4/clair-error.ErrNotInitialized
+  - github.com/quay/clair/v4/clair-error.ErrPutNotifications
+  - github.com/quay/clair/v4/clair-error.ErrReceipt

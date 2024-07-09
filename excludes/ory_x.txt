@@ -1,0 +1,3 @@
+# zerolint exclusions for ory/x
+github.com/grpc-ecosystem/go-grpc-prometheus/examples/testproto.Empty
+github.com/seatgeek/logrus-gelf-formatter.GelfFormatter

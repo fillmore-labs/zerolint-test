@@ -1,0 +1,3 @@
+---
+value:
+  - github.com/grafana/alloy/internal/converter/diag.Diagnostics

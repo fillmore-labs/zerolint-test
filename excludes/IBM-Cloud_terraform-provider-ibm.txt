@@ -1,0 +1,2 @@
+# zerolint exclusions for IBM-Cloud/terraform-provider-ibm
+github.com/IBM/go-sdk-core/v5/core.NoAuthAuthenticator

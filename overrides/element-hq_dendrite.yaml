@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/element-hq/dendrite/federationapi/api.FederationClientError

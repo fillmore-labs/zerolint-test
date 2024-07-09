@@ -1,0 +1,3 @@
+# zerolint exclusions for Azure/draft
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/authorization/armauthorization/v3.RoleAssignmentsClientCreateByIDOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/subscription/armsubscription.TenantsClientListOptions

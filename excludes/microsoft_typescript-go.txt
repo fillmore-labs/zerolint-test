@@ -1,0 +1,4 @@
+# zerolint exclusions for microsoft/typescript-go
+github.com/microsoft/typescript-go/internal/ls.autoImportData
+github.com/microsoft/typescript-go/internal/ls.importStatementCompletionInfo
+struct{}

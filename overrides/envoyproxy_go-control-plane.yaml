@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/envoyproxy/go-control-plane/pkg/cache/types.SkipFetchError

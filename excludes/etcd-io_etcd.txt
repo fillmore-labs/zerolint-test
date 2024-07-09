@@ -1,0 +1,4 @@
+# zerolint exclusions for etcd-io/etcd
+github.com/golang-jwt/jwt/v5.SigningMethodEd25519
+go.etcd.io/etcd/api/v3/etcdserverpb.UnimplementedAuthServer
+go.etcd.io/etcd/tests/v3/robustness/model.DefragmentRequest
