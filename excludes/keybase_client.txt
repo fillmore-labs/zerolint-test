@@ -1,0 +1,15 @@
+# zerolint exclusions for keybase/client
+github.com/keybase/backoff.ZeroBackOff
+github.com/keybase/client/go/kbfs/dokan/winacl.SID
+github.com/keybase/client/go/protocol/chat1.MessageLeave
+github.com/keybase/client/go/protocol/chat1.RemoteClearBotCommandsFilterPublic
+github.com/keybase/client/go/protocol/chat1.RpInherit
+github.com/keybase/client/go/protocol/chat1.RpRetain
+github.com/keybase/client/go/protocol/chat1.TrackGiphySelectRes
+github.com/keybase/client/go/protocol/chat1.UnfurlYoutube
+github.com/keybase/client/go/protocol/chat1.UnfurlYoutubeDisplay
+github.com/keybase/client/go/protocol/chat1.UnfurlYoutubeRaw
+github.com/keybase/client/go/protocol/keybase1.BlockPingResponse
+github.com/keybase/client/go/protocol/stellar1.AccountBundleSecretUnsupported
+github.com/keybase/client/go/protocol/stellar1.BundleSecretUnsupported
+github.com/keybase/go-framed-msgpack-rpc/rpc.DummyInstrumentationStorage

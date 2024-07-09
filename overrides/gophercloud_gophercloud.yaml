@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/gophercloud/gophercloud/v2.ErrEndpointNotFound

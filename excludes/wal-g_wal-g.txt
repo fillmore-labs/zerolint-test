@@ -1,0 +1,2 @@
+# zerolint exclusions for wal-g/wal-g
+github.com/jackc/pgx/v5/pgproto3.CopyDone

@@ -1,0 +1,5 @@
+---
+pointer:
+  - github.com/syself/cluster-api-provider-hetzner/pkg/secrets.HCloudTokenValidationError
+  - github.com/syself/cluster-api-provider-hetzner/pkg/secrets.ResolveSecretRefError
+  - github.com/syself/cluster-api-provider-hetzner/pkg/services/baremetal/client.CredentialsValidationError

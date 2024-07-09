@@ -1,0 +1,1 @@
+# zerolint exclusions for caarlos0/env

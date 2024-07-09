@@ -1,0 +1,10 @@
+# zerolint exclusions for openbao/openbao-plugins
+github.com/aws/aws-sdk-go/service/iam.DeleteAccessKeyOutput
+github.com/aws/aws-sdk-go/service/s3.ListBucketsInput
+github.com/aws/aws-sdk-go/service/sts.GetCallerIdentityInput
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/authorization/armauthorization/v2.RoleAssignmentsClientCreateOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/authorization/armauthorization/v2.RoleDefinitionsClientGetByIDOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/msi/armmsi.UserAssignedIdentitiesClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/msi/armmsi.UserAssignedIdentitiesClientListByResourceGroupOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources.ClientGetByIDOptions
+google.golang.org/api/cloudresourcemanager/v1.GetAncestryRequest

@@ -1,0 +1,5 @@
+---
+pointer:
+  - github.com/pulumi/pulumi/pkg/v3/backend/backenderr.OverStackLimitError
+  - github.com/pulumi/pulumi/pkg/v3/backend/backenderr.StackAlreadyExistsError
+  - github.com/pulumi/pulumi/sdk/v3/go/common/apitype.ErrorResponse

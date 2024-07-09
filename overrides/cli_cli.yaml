@@ -1,0 +1,5 @@
+---
+value:
+  - github.com/letsencrypt/boulder/errors.SubBoulderError
+pointer:
+  - github.com/cli/cli/v2/pkg/cmd/root.ExternalCommandExitError

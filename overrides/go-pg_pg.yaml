@@ -1,0 +1,3 @@
+---
+value:
+  - github.com/go-pg/pg/v10/internal/pool.BadConnError

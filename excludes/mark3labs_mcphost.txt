@@ -1,0 +1,1 @@
+# zerolint exclusions for mark3labs/mcphost

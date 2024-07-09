@@ -1,0 +1,6 @@
+---
+pointer:
+  - github.com/DataDog/datadog-agent/pkg/security/secl/compiler/eval.ErrFieldReadOnly
+  - github.com/DataDog/datadog-agent/pkg/security/secl/compiler/eval.ErrValueOutOfRange
+  - github.com/DataDog/datadog-agent/pkg/security/secl/compiler/eval.ErrValueTypeMismatch
+

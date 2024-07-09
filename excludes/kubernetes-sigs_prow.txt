@@ -1,0 +1,3 @@
+# zerolint exclusions for kubernetes-sigs/prow
+golang.org/x/lint.Linter
+struct{}

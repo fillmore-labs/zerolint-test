@@ -1,0 +1,3 @@
+---
+value:
+  - sigs.k8s.io/prow/pkg/github.StateCannotBeChanged

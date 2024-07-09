@@ -1,0 +1,8 @@
+---
+pointer:
+  - github.com/golang-migrate/migrate/v4/database.Error
+value:
+  - github.com/coder/coder/v2/coderd/rbac.UnauthorizedError
+  - github.com/coder/coder/v2/codersdk.ValidationError
+suppress:
+  - github.com/coder/coder/v2/coderd/idpsync.HTTPError

@@ -1,0 +1,5 @@
+# zerolint exclusions for GoogleContainerTools/skaffold
+github.com/GoogleContainerTools/skaffold/v2/pkg/skaffold/schema/latest.InputDigest
+github.com/GoogleContainerTools/skaffold/v2/pkg/skaffold/schema/latest.ShaTagger
+github.com/GoogleContainerTools/skaffold/v2/pkg/skaffold/schema/v2beta8.Auto
+github.com/GoogleContainerTools/skaffold/v2/pkg/skaffold/schema/validation.emptyStruct

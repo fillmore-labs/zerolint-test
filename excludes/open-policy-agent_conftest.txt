@@ -1,0 +1,7 @@
+# zerolint exclusions for open-policy-agent/conftest
+github.com/hashicorp/go-getter.BitBucketDetector
+github.com/hashicorp/go-getter.FileDetector
+github.com/hashicorp/go-getter.GCSDetector
+github.com/hashicorp/go-getter.GitDetector
+github.com/hashicorp/go-getter.GitHubDetector
+github.com/hashicorp/go-getter.S3Detector

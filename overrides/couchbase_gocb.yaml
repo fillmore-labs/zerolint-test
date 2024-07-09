@@ -1,0 +1,4 @@
+---
+pointer:
+  - github.com/couchbase/gocbcore/v10.HTTPError
+  - github.com/couchbase/gocbcore/v10.dwError

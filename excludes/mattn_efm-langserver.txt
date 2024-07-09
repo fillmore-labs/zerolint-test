@@ -1,0 +1,1 @@
+# zerolint exclusions for mattn/efm-langserver

@@ -1,0 +1,3 @@
+# zerolint exclusions for coredns/coredns
+github.com/coredns/coredns/pb.UnimplementedDnsServiceServer
+github.com/quic-go/quic-go.IdleTimeoutError

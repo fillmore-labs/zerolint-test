@@ -1,0 +1,2 @@
+# zerolint exclusions for reviewdog/reviewdog
+contrib.go.opencensus.io/exporter/stackdriver/propagation.HTTPFormat

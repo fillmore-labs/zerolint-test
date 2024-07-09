@@ -1,0 +1,4 @@
+---
+pointer:
+  - go.woodpecker-ci.org/woodpecker/v3/server/pipeline.ErrBadRequest
+  - go.woodpecker-ci.org/woodpecker/v3/server/pipeline.ErrNotFound

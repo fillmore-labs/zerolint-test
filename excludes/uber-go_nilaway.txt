@@ -1,0 +1,1 @@
+# zerolint exclusions for uber-go/nilaway

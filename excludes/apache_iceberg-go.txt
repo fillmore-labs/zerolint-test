@@ -1,0 +1,20 @@
+# zerolint exclusions for apache/iceberg-go
+github.com/apache/arrow-go/v18/arrow.BinaryType
+github.com/apache/arrow-go/v18/arrow.BooleanType
+github.com/apache/arrow-go/v18/arrow.Date32Type
+github.com/apache/arrow-go/v18/arrow.Float16Type
+github.com/apache/arrow-go/v18/arrow.Float32Type
+github.com/apache/arrow-go/v18/arrow.Float64Type
+github.com/apache/arrow-go/v18/arrow.Int16Type
+github.com/apache/arrow-go/v18/arrow.Int32Type
+github.com/apache/arrow-go/v18/arrow.Int64Type
+github.com/apache/arrow-go/v18/arrow.Int8Type
+github.com/apache/arrow-go/v18/arrow.LargeBinaryType
+github.com/apache/arrow-go/v18/arrow.LargeStringType
+github.com/apache/arrow-go/v18/arrow.StringType
+github.com/apache/arrow-go/v18/arrow.Uint16Type
+github.com/apache/arrow-go/v18/arrow.Uint32Type
+github.com/apache/arrow-go/v18/arrow.Uint64Type
+github.com/apache/arrow-go/v18/arrow.Uint8Type
+gocloud.dev/blob/azureblob.Options
+gocloud.dev/blob/memblob.Options

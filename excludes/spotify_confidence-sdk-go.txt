@@ -1,0 +1,1 @@
+# zerolint exclusions for spotify/confidence-sdk-go

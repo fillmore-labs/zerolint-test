@@ -1,0 +1,3814 @@
+{
+    "99designs/gqlgen": {
+        "tag": "v0.17.81",
+        "sha": "4ded4eb5d7ce6f312ef2eb931587022c7636cc93"
+    },
+    "AccumulateNetwork/jsonrpc2": {
+        "tag": "v15.0",
+        "sha": "43d2d974a106924882cd9e6cd391eed52afd538b"
+    },
+    "AdamSLevy/jsonrpc2": {
+        "tag": "v14.1.0",
+        "sha": "0fb8d99aaff00d006a51844afb40f62fa9cc2afb"
+    },
+    "AdguardTeam/AdGuardHome": {
+        "tag": "v0.108.0-b.77",
+        "sha": "2f810068a30f25e2d3ad72f300d755a14f00ad77"
+    },
+    "Azure/azure-service-operator": {
+        "tag": "v2.15.1",
+        "sha": "079194d1c4882362369e2e337249f914a8370400"
+    },
+    "Azure/dalec": {
+        "tag": "v0.18.0",
+        "sha": "79c72e6dcbf2f15e0a91edd4a165f953fd8c3b92"
+    },
+    "Azure/draft": {
+        "tag": "v0.17.13",
+        "sha": "8f655458cacfeba1538a76401fddddf90e3f1ec0"
+    },
+    "Azure/go-amqp": {
+        "tag": "v1.5.0",
+        "sha": "0c03085eafb1a6a003344669632afbeef0f90692"
+    },
+    "Azure/peerd": {
+        "tag": "v0.0.14-alpha",
+        "sha": "f4334b6b6f5655c0a7b7be931986aaa8bb99b650"
+    },
+    "BurntSushi/toml": {
+        "tag": "v1.5.0",
+        "sha": "d97def528e83313822a9f98946334ffccd542bdf"
+    },
+    "CMS-Enterprise/easi-app": {
+        "branch": "main",
+        "sha": "18b49f4cd3c9b3c0248d52a153ea610d0d03d9f1"
+    },
+    "DataDog/datadog-agent": {
+        "tag": "7.71.2",
+        "sha": "a13e1609206501722c3dab6e3329f9087b7d7b92",
+        "use-releases": true
+    },
+    "DataDog/datadog-lambda-go": {
+        "tag": "v1.29.0",
+        "sha": "156931bc879bccdcd326ca8260e47298df4c1225"
+    },
+    "DataDog/dd-trace-go": {
+        "tag": "v2.2.3",
+        "sha": "4d4a4623d7c5c04c832d6b7f2e2f6ce3be3ca585"
+    },
+    "DataDog/kafka-kit": {
+        "tag": "v4.2.1",
+        "sha": "ba1662675dc37debfea0300c9e6eb0fd280dc723"
+    },
+    "DataDog/opentelemetry-ebpf-profiler": {
+        "branch": "datadog",
+        "sha": "f5c7be4f1db8c3dc5d01bc4a1fed342d6db95111"
+    },
+    "DataDog/orchestrion": {
+        "tag": "v1.5.0",
+        "sha": "2362ae7979976311462f0f82966a3fa14f9bad95"
+    },
+    "DataDog/zstd": {
+        "tag": "v1.5.7",
+        "sha": "06fc470c217ed173e17990d0a65a95b7d638a6ee"
+    },
+    "Done-0/fuck-u-code": {
+        "branch": "main",
+        "sha": "a68e5a8437408b32a2408fac9322c57b4d838f37"
+    },
+    "FerretDB/FerretDB": {
+        "tag": "v2.5.0",
+        "sha": "b4eda04f375ca6eb63867d36901787e5af6d0eb6"
+    },
+    "FerretDB/wire": {
+        "tag": "v0.1.7",
+        "sha": "712828f8388233be9b87f5b392294d9908abbc26"
+    },
+    "FiloSottile/age": {
+        "tag": "v1.2.1",
+        "sha": "482cf6fc9babd3ab06f6606762aac10447222201"
+    },
+    "FiloSottile/sunlight": {
+        "tag": "v0.6.3",
+        "sha": "364c01d03a76ddb6d626674b63e2c04f59cd4260"
+    },
+    "GetStream/getstream-go": {
+        "tag": "v3.3.0",
+        "sha": "74455955b1edd52218932f097bfa041d96f71138",
+        "use-releases": true
+    },
+    "GetStream/stream-chat-go": {
+        "tag": "v7.14.2",
+        "sha": "0ed6e2055b149d184881896ec337b548c09b5ba3"
+    },
+    "GetStream/stream-cli": {
+        "tag": "v1.7.2",
+        "sha": "0edab62300d434445fa25ea8eff05e3716dfc3fc"
+    },
+    "GetStream/stream-go2": {
+        "tag": "v8.9.0",
+        "sha": "a11d21243da0e3dbc905119091f2c2969dab124e"
+    },
+    "GoogleCloudPlatform/grpc-gcp-go": {
+        "tag": "grpcgcp/v1.5.3",
+        "sha": "6a9ee9d2228727861a4e351c90cce9f33262479d"
+    },
+    "GoogleCloudPlatform/kubectl-ai": {
+        "tag": "v0.0.26",
+        "sha": "009e60ffe2b3f4b1d67f0c4b68596300b806d764"
+    },
+    "GoogleCloudPlatform/microservices-demo": {
+        "tag": "v0.10.3",
+        "sha": "cd1cb59f6fce3e2ccf08be7cea743e3784932d73"
+    },
+    "GoogleCloudPlatform/ops-agent": {
+        "tag": "2.60.0",
+        "sha": "55f2990c38d75914fbe83c8aebae1347bbc4f591",
+        "use-releases": true
+    },
+    "GoogleContainerTools/config-sync": {
+        "tag": "v1.22.2",
+        "sha": "c2a9de2f1410adb160374007e931cbcd92a63448"
+    },
+    "GoogleContainerTools/container-debug-support": {
+        "tag": "v1.7.0",
+        "sha": "64a1c14276b7052571523b1242c7a501356e4b61"
+    },
+    "GoogleContainerTools/kpt-config-sync": {
+        "tag": "v1.22.2",
+        "sha": "c2a9de2f1410adb160374007e931cbcd92a63448"
+    },
+    "GoogleContainerTools/skaffold": {
+        "tag": "v2.16.1",
+        "sha": "95fb592deb61a4e290edca4925bd7c9c2fa93f6c"
+    },
+    "IBM-Cloud/terraform-provider-ibm": {
+        "tag": "v1.84.1",
+        "sha": "8293a3ff58f1348f1ca1e210cd06a48c907e5530"
+    },
+    "IBM/fp-go": {
+        "tag": "v1.0.155",
+        "sha": "25e3d1d85c8fbe910f9c7cb81d0a5c8fa8495c9c"
+    },
+    "IBM/go-sdk-core": {
+        "tag": "v5.21.0",
+        "sha": "4d3c69a064b105211322225c46c045e18f858e57"
+    },
+    "IBM/keyprotect-go-client": {
+        "tag": "v0.15.1",
+        "sha": "769b6a9000e4be3e93643207b11530d0b817c38a"
+    },
+    "IBM/platform-services-go-sdk": {
+        "tag": "v0.89.0",
+        "sha": "b3fce7fc7ebc4eb6df0bfee7fb3f48f9feb96993"
+    },
+    "IBM/sarama": {
+        "tag": "v1.46.2",
+        "sha": "4c387a20ac093c8f5417d2b437a21eca421f2ce3"
+    },
+    "JanDeDobbeleer/oh-my-posh": {
+        "tag": "v27.2.1",
+        "sha": "22f828ed17b6f583dab85ca78243807363012823"
+    },
+    "Mirantis/ktl": {
+        "branch": "main",
+        "sha": "90a9490ca46eb4bb49c3d9261448081ab23f732a"
+    },
+    "Netflix/chaosmonkey": {
+        "tag": "v2.1.3",
+        "sha": "eaa28fb761c0ebe8644d1333e5d164e9cc3071e9"
+    },
+    "OffchainLabs/prysm": {
+        "tag": "v6.1.2",
+        "sha": "38955fd08c57516226a84f880e25d19283343352"
+    },
+    "PaloAltoNetworks/addedeffect": {
+        "tag": "v1.82.0",
+        "sha": "affcb24f4d4398ed2be6bab3f475bee93a764529"
+    },
+    "PaloAltoNetworks/barrier": {
+        "branch": "master",
+        "sha": "b7188280258fd429db2fd47cb5e255f06f23c150"
+    },
+    "PaloAltoNetworks/elemental": {
+        "tag": "v1.123.0",
+        "sha": "1359f29997033f229d01c5c7a0a888b2226822b5"
+    },
+    "PaloAltoNetworks/manipulate": {
+        "tag": "v1.135.0",
+        "sha": "baaf62c209449e37d6aeab614e9afc60c71c92a4"
+    },
+    "PaloAltoNetworks/midgard-lib": {
+        "tag": "v1.72.0",
+        "sha": "22b45c0b3f166e6d15d695d8c5fd72d3ed6f2ea6"
+    },
+    "PaloAltoNetworks/pan-os-codegen": {
+        "tag": "v2.0.1",
+        "sha": "50b791e6708cef64f5aa73cce77fbf964ee8ef73"
+    },
+    "PaloAltoNetworks/pango": {
+        "tag": "v2.0.0-rc.6",
+        "sha": "6f29f20c81abcb796e8d7f1d6195679749aa946f"
+    },
+    "PaloAltoNetworks/regolithe": {
+        "tag": "v1.72.0",
+        "sha": "4e113e694da45f3ae52e0cca4cbc6acd2d5cabeb"
+    },
+    "PaloAltoNetworks/scm-go": {
+        "tag": "v1.0.2",
+        "sha": "473b2a6050546dde38be4d54c5d4419a4c2a388a"
+    },
+    "PaloAltoNetworks/wsc": {
+        "tag": "v1.52.0",
+        "sha": "ab5794e78d7abd58bfc28eb9ebe6653e476310dd"
+    },
+    "ProtonMail/gluon": {
+        "tag": "v0.17.0",
+        "sha": "cb3fabd3ef656df8ff416b5a7fe09a6ad9b0fb05"
+    },
+    "ProtonMail/go-crypto": {
+        "tag": "v1.3.0",
+        "sha": "3b22d8539b95b3b7e76a911053023e6ef9ef51d6"
+    },
+    "ProtonMail/gopenpgp": {
+        "tag": "v3.3.0",
+        "sha": "5739705cf74198ac1e1b3110e0d1f080c7c65e80"
+    },
+    "RichardKnop/machinery": {
+        "tag": "v2.0.16",
+        "sha": "dd7a77465b8cba89d5aa04ddf164c6a0b4ba175a"
+    },
+    "Shopify/toxiproxy": {
+        "tag": "v2.12.0",
+        "sha": "3ccd6a79cbc6c6a72b884d295ad314b75cdf3962"
+    },
+    "Southclaws/fault": {
+        "tag": "v0.8.2",
+        "sha": "15e49aecd6730e9cd848ad43775e82f05ce0329f"
+    },
+    "StackExchange/blackbox": {
+        "tag": "v1.20220610",
+        "sha": "66b65751c41b891a694de5a623243cbebbeed88c"
+    },
+    "StackExchange/dnscontrol": {
+        "tag": "v4.26.0",
+        "sha": "db21e30abb949756945ecef242dea677fa54386f"
+    },
+    "Tensai75/nzb-monkey-go": {
+        "tag": "v0.1.18",
+        "sha": "3b648416dac221391325ba21faa2cdac521944c7"
+    },
+    "ThalesGroup/gose": {
+        "tag": "v0.12.0",
+        "sha": "d843a43cc8dc033aa1f1b3d645ad4d14a9aed9f7"
+    },
+    "TwiN/gatus": {
+        "tag": "v5.27.0",
+        "sha": "91931e48b46cddffeeeef934118ece177409814b"
+    },
+    "TykTechnologies/tyk": {
+        "tag": "v5.10.0",
+        "sha": "f81d3b8a3846b71af92c7b5f3de9e8c8382b527e"
+    },
+    "TykTechnologies/tyk-pump": {
+        "tag": "v1.13.0-rc2",
+        "sha": "5965206739905943c15d8191b658f715ae96904f"
+    },
+    "VictoriaMetrics/VictoriaMetrics": {
+        "tag": "v1.127.0",
+        "sha": "31adbf909431fc85e5b2eddc350adc99f268d161"
+    },
+    "WireGuard/wireguard-go": {
+        "branch": "master",
+        "sha": "f333402bd9cbe0f3eeb02507bd14e23d7d639280"
+    },
+    "ZeroHawkeye/wordZero": {
+        "tag": "v1.3.9",
+        "sha": "6e28fef1b7c7a5272674a93a407a39afafcc61ea"
+    },
+    "aaPanel/BillionMail": {
+        "tag": "v4.7",
+        "sha": "f6f120823146eb43a99f675341b85b872ceb958f"
+    },
+    "absmach/magistrala": {
+        "tag": "v0.18.0",
+        "sha": "3413564148007ded09855fe19f962a9dae7ae673"
+    },
+    "actions/actions-runner-controller": {
+        "tag": "v0.27.6",
+        "sha": "b511953df7a8a752faf0a0f840bd832e02796c10"
+    },
+    "aerospike/aerolab": {
+        "tag": "7.9.0",
+        "sha": "07f67753851f0461c9ab29f093336a28a17dd23f",
+        "use-releases": true
+    },
+    "aerospike/aerospike-client-go": {
+        "tag": "v8.3.0",
+        "sha": "7088af0de1569961d8b9d406c6bc532b58a3deec"
+    },
+    "aerospike/aerospike-management-lib": {
+        "tag": "v1.8.0",
+        "sha": "504da4668525110dd75aa2bd5aa33d52a12e8233"
+    },
+    "aerospike/backup-go": {
+        "tag": "v0.7.0",
+        "sha": "f15b6a2c45c82f9e000f1db6f0bf91602f03c5b2"
+    },
+    "aerospike/tools-common-go": {
+        "tag": "v0.3.0",
+        "sha": "fdddaefc6ad00997ce1c3a2fb6bfdcab5782748e"
+    },
+    "agilira/argus": {
+        "tag": "v1.0.5",
+        "sha": "32204ef1032eee0056fa319dcb376eb7da7f04f9"
+    },
+    "agilira/go-errors": {
+        "tag": "v1.1.1",
+        "sha": "ffab165e00fe67367d6b7d8ce779bb5a560486b5"
+    },
+    "air-verse/air": {
+        "tag": "v1.63.0",
+        "sha": "53e3fb858de84a75d227eb784479b88d11d00754"
+    },
+    "airbrake/gobrake": {
+        "tag": "v5.6.2",
+        "sha": "7617de80a658e2ca4168e9768b6a7c03921a7467"
+    },
+    "akuity/kargo": {
+        "tag": "v1.8.0-rc.6",
+        "sha": "9338ede38a31e477f79cc698107da7f2df933b92"
+    },
+    "aldinokemal/go-whatsapp-web-multidevice": {
+        "tag": "v7.8.0",
+        "sha": "ee3bfa3dd03264e92007ea4564840cf555eaca04"
+    },
+    "alecthomas/kong": {
+        "tag": "v1.12.1",
+        "sha": "efa36914bb4edb92533ff436d8d934ba32d08395"
+    },
+    "alexellis/k3sup": {
+        "tag": "0.13.11",
+        "sha": "5e5228b9d25c8c3dd1bb82d0f78a3944933529ed",
+        "use-releases": true
+    },
+    "alexflint/go-arg": {
+        "tag": "v1.6.0",
+        "sha": "a36ed1e7b3fe64227244048a90289a5d365bf2f1"
+    },
+    "alibaba/schedulerx-worker-go": {
+        "tag": "v1.0.8",
+        "sha": "7b517c8b8ed2342a91a1666ab1388ab034b19d4f"
+    },
+    "alibaba/sentinel-golang": {
+        "tag": "v1.0.4",
+        "sha": "ea8c74ff026a264e19ac48fa659975fd7e787030"
+    },
+    "alicebob/miniredis": {
+        "tag": "v2.35.0",
+        "sha": "b5891af8747f10e624ebce16c5eedefa31b85e77"
+    },
+    "alingse/sundrylint": {
+        "branch": "main",
+        "sha": "aece048f0a8d85767bf1abb2b6fdca6ea2730b00"
+    },
+    "anchore/binny": {
+        "tag": "v0.10.0",
+        "sha": "a8139a697f6c1d311ec6adbcaf282c06b97e6ce2"
+    },
+    "anchore/clio": {
+        "branch": "main",
+        "sha": "f418e0b4892cc3f22db4ad73956f667e2b7adc33"
+    },
+    "anchore/grype": {
+        "tag": "v0.101.1",
+        "sha": "dccc91b95904c40fb7585875d9ce46eeb3b497df"
+    },
+    "anchore/quill": {
+        "tag": "v0.5.1",
+        "sha": "026e6f927f9b7ddfc764f205fd681cdc2be9380e"
+    },
+    "anchore/syft": {
+        "tag": "v1.34.2",
+        "sha": "0c98a364d503789ff8d7f122763bb8748de9772f"
+    },
+    "anexia-it/go-anxcloud": {
+        "tag": "v0.8.0",
+        "sha": "15a049355e821080c2f9c062bcb190ac290db319"
+    },
+    "anexia-it/go-cloudlog": {
+        "tag": "v2.0.3",
+        "sha": "18fed94e64ba81e1b5892f582076da14bf5de4dd"
+    },
+    "anexia-it/terraform-provider-anxcloud": {
+        "tag": "v0.7.4",
+        "sha": "dd9b7d3e67ae8536c0dbfa3248d6acbe9c1bbe28"
+    },
+    "antchfx/xpath": {
+        "tag": "v1.3.5",
+        "sha": "511abd57bc74e9644fe27f4e52b559065e686e92"
+    },
+    "anthropics/anthropic-sdk-go": {
+        "tag": "v1.14.0",
+        "sha": "7fbe034f74544414475ed46a5dce5b6388524dbf"
+    },
+    "apache/arrow-go": {
+        "tag": "v18.4.1",
+        "sha": "c6ce2ef4e55009a786cf04b3845eba5170c98066"
+    },
+    "apache/camel-k": {
+        "tag": "v2.8.0",
+        "sha": "b9855e2dd2003e5d88e77a756883a273794c0ab7"
+    },
+    "apache/cassandra-gocql-driver": {
+        "tag": "v2.0.0",
+        "sha": "f3e2b397adaaf5f8742068dfbd88958c824934ee"
+    },
+    "apache/doris": {
+        "tag": "4.0.0-rc02",
+        "sha": "522414ca9bbaaa4e4415a22d1ef08707ce9450e5",
+        "use-releases": true
+    },
+    "apache/dubbo-go": {
+        "tag": "v3.3.0",
+        "sha": "012a247993ba63a9e9033761c85ac9ccc950c594"
+    },
+    "apache/iceberg-go": {
+        "tag": "v0.4.0",
+        "sha": "c082326e5d23ff0b2e10ec09847e6e943f0d1860"
+    },
+    "apache/thrift": {
+        "tag": "v0.22.0",
+        "sha": "af9ac170f4de895266de4b6f9f3e68a58f113760"
+    },
+    "apple/pkl-go": {
+        "tag": "v0.11.1",
+        "sha": "7acfaca7c730460f78d72c040659d243fe13cc28"
+    },
+    "appleboy/gorush": {
+        "tag": "v1.19.0",
+        "sha": "d0b748323191d64e0d8778636a3a1fbe05b55408"
+    },
+    "apptainer/sif": {
+        "tag": "v2.21.1",
+        "sha": "0d98e5eb81ec1b6edee5fd6643081013fff43483"
+    },
+    "apricote/hcloud-upload-image": {
+        "tag": "v1.1.0",
+        "sha": "b9af8855d5c0c1e40ddfaa670296731b2ed0c53e"
+    },
+    "apricote/releaser-pleaser": {
+        "tag": "v0.7.1",
+        "sha": "fa27415be5a0b3feff8a0a07a6299b15743f412f"
+    },
+    "aquaproj/aqua": {
+        "tag": "v2.55.0",
+        "sha": "a2735750163c59236fda276b1a84fe301a549406"
+    },
+    "aquasecurity/kube-bench": {
+        "tag": "v0.13.0",
+        "sha": "295b5e6aa98939ca5d1a823d408ae0a24a4e55af"
+    },
+    "aquasecurity/trivy": {
+        "tag": "v0.67.2",
+        "sha": "60c57ad5ad7f270cecb51dff2dbf4d680114f6f8"
+    },
+    "argoproj/argo-cd": {
+        "tag": "v3.1.9",
+        "sha": "8665140f96f6b238a20e578dba7f9aef91ddac51"
+    },
+    "argoproj/argo-events": {
+        "tag": "v1.9.7",
+        "sha": "c695dbf57162e04e7d30b2134d4724feccf878a3"
+    },
+    "argoproj/argo-rollouts": {
+        "tag": "v1.8.3",
+        "sha": "49fa1516cf71672b69e265267da4e1d16e1fe114"
+    },
+    "argoproj/argo-workflows": {
+        "tag": "v3.7.3",
+        "sha": "bded09fe4abd37cb98d7fc81b4c14a6f5034e9ab"
+    },
+    "ariga/atlas": {
+        "tag": "v0.37.0",
+        "sha": "73240a06b97007e4d7c4deb3724dc1929f508280"
+    },
+    "arturoeanton/goja": {
+        "branch": "master",
+        "sha": "effbb74d6b6b47e12ea717cb344591d63b1dbb4f"
+    },
+    "asynkron/protoactor-go": {
+        "tag": "0.4.0",
+        "sha": "49001705a0fefbae5c4ffd0acb8ed39be3eb5292"
+    },
+    "at-wat/mqtt-go": {
+        "tag": "v0.19.6",
+        "sha": "9f06b1c9d755e69fd7e2b76c1f2629e4c680687c"
+    },
+    "avast/retry-go": {
+        "tag": "v4.7.0",
+        "sha": "375037b55dceec39815fd3d0c5bfbccf30255a38"
+    },
+    "aws/aws-lambda-go": {
+        "tag": "v1.50.0",
+        "sha": "43d6b2124da21e8ee29ddc740851a2b516d16543"
+    },
+    "aws/aws-sdk-go-v2": {
+        "tag": "v1.39.3",
+        "sha": "b9b0c6553b80f99603b4f8356b88f5baf1328deb"
+    },
+    "aws/copilot-cli": {
+        "tag": "v1.34.1",
+        "sha": "ba701ec1251deda94ba5842ef1d3c144858491cc"
+    },
+    "aws/smithy-go": {
+        "tag": "v1.23.1",
+        "sha": "695755c8eb501de6899f71cd19e8249daff8f8b9"
+    },
+    "awslabs/amazon-ecr-credential-helper": {
+        "tag": "v0.10.1",
+        "sha": "19e692887fab4b6ce0fdef3d4ae6284381914c01"
+    },
+    "awslabs/ar-go-tools": {
+        "tag": "v0.4.10",
+        "sha": "1cb580c81b9eef0d0d0a19db5fd80c551309adf0"
+    },
+    "awslabs/aws-lambda-go-api-proxy": {
+        "tag": "v0.16.2",
+        "sha": "3f6c8160ae0c22b0bd05b2e3a9122736f035c74b"
+    },
+    "awslabs/diagram-as-code": {
+        "tag": "v0.22.3",
+        "sha": "697691091c8bb8cc41228c51260e4d99dbe74d14"
+    },
+    "bazelbuild/bazel-toolchains": {
+        "tag": "v5.1.3-rc1",
+        "sha": "6146252bda912a77a25c3b0ebe55ed0d00a1fa4d"
+    },
+    "bazelbuild/bazel-watcher": {
+        "tag": "v0.27.0",
+        "sha": "bb173f1d3e729db11e7fd9e44836aa302dfd48fb"
+    },
+    "bazelbuild/bazelisk": {
+        "tag": "v1.27.0",
+        "sha": "d4deac0ac354f4b46f16607776de26f860352e34"
+    },
+    "benbjohnson/clock": {
+        "tag": "v1.3.5",
+        "sha": "96c602caabb567343046c08a8fca8560b4f00bb4"
+    },
+    "blevesearch/bleve": {
+        "tag": "v2.5.3",
+        "sha": "991cbcd219e39e973b58c9cd93898d688ac61e68"
+    },
+    "blevesearch/zapx": {
+        "tag": "v16.2.6",
+        "sha": "015f3f2e9cb796348da6b9cb7db77e5d9cb8e9b5"
+    },
+    "bluenviron/mediamtx": {
+        "tag": "v1.15.2",
+        "sha": "26b6be02db91f4d62d0fbf3be4d06d036a565f2b"
+    },
+    "bluesky-social/indigo": {
+        "branch": "main",
+        "sha": "1e8718ae9f339b3c745ff0e66f4c59dd98c21d94"
+    },
+    "bluesky-social/jetstream": {
+        "branch": "main",
+        "sha": "7d7efa58d7f14101a80ccc4f1085953948b7d5de"
+    },
+    "bmatcuk/doublestar": {
+        "tag": "v4.9.1",
+        "sha": "8b690afa33319b0a1869367f594e53977e38bc99"
+    },
+    "bobg/modver": {
+        "tag": "v2.12.0",
+        "sha": "f646e42936f006762d533d8dae3908cb7065adc9"
+    },
+    "brave/go-sync": {
+        "tag": "v0.1.21",
+        "sha": "d7439414e3c6a895e532ef7b5b0f612d09617eaa"
+    },
+    "brave/go-update": {
+        "branch": "master",
+        "sha": "e10fd3c47c878a7504e3d8d259dc0fa170157201"
+    },
+    "brave/nitriding-daemon": {
+        "tag": "v1.4.2",
+        "sha": "efde3854070055d2a632e3c7bbf231f89ac09656"
+    },
+    "buchgr/bazel-remote": {
+        "tag": "v2.6.1",
+        "sha": "f46bc2030d3f30604d79ef4bf040e3a9c7a4ff89"
+    },
+    "bufbuild/buf": {
+        "tag": "v1.58.0",
+        "sha": "106d2653183a84ceac4738170483a0251bc635cd"
+    },
+    "bufbuild/bufisk": {
+        "tag": "v0.1.0",
+        "sha": "a7da41d33ef8dffd7866747e1a7cb38eb10b4ad2"
+    },
+    "bufbuild/protocompile": {
+        "tag": "v0.14.1",
+        "sha": "4082cf0effa602efd1a38af1d586cfa8b56a7ae2"
+    },
+    "bufbuild/protovalidate": {
+        "tag": "v1.0.0",
+        "sha": "7b740a4656581654c9f577c7001e8c6e768f8456"
+    },
+    "bufbuild/protovalidate-go": {
+        "tag": "v1.0.0",
+        "sha": "927264e51dc4660cdd60275841d6053f7cf3f268"
+    },
+    "bufbuild/protoyaml-go": {
+        "tag": "v0.6.0",
+        "sha": "688eb3d25504a64ca6c7c6f88ba5e77406bbb8a5"
+    },
+    "bugsnag/bugsnag-go": {
+        "tag": "v2.6.2",
+        "sha": "577e387465b84b888651abfa480f734457931a90"
+    },
+    "buildpacks/github-actions": {
+        "tag": "v5.9.5",
+        "sha": "272592019840154a9e6919abf147eaffe6845877"
+    },
+    "buildpacks/lifecycle": {
+        "tag": "v0.20.14",
+        "sha": "957e0085e441342996da75c11cfd933908bbb647"
+    },
+    "buildpacks/pack": {
+        "tag": "v0.38.2",
+        "sha": "f1c347c6a645f1ff682dabc2b11fcdf3154f2aa9"
+    },
+    "bytedance/gopkg": {
+        "tag": "v0.1.3",
+        "sha": "c97c000df42d1e797ab1e1bc107c98f4ec442112"
+    },
+    "caarlos0/env": {
+        "tag": "v11.3.1",
+        "sha": "9bf044aa0830bee858473a7bf6484cae2bf40b21"
+    },
+    "caddyserver/caddy": {
+        "tag": "v2.10.2",
+        "sha": "551f793700fe1550845c824470b623fd1aa03d36"
+    },
+    "caddyserver/certmagic": {
+        "tag": "v0.25.0",
+        "sha": "5a448ab0085daed947633838ca0a4c7cc17bab15"
+    },
+    "caddyserver/zerossl": {
+        "tag": "v0.1.3",
+        "sha": "a61ebebdf4a1f2d044bc31db9010ff1e688f20b0"
+    },
+    "canonical/chisel": {
+        "tag": "v1.2.0",
+        "sha": "567ecfe8b15846c4367ab6c9e86f4f9844a85e38"
+    },
+    "canonical/notary": {
+        "branch": "main",
+        "sha": "8c90e122bb8f3ed76a47be84199312d1e78da733"
+    },
+    "canonical/sqlair": {
+        "branch": "main",
+        "sha": "6ea67895601df579cbf2fce75ca315271e6c70c5"
+    },
+    "capnproto/go-capnp": {
+        "tag": "v3.1.0-alpha.1",
+        "sha": "5f984c42aa2e273c87c7568c32938af740677e50"
+    },
+    "casbin/casbin": {
+        "tag": "v2.128.0",
+        "sha": "87e9956dfd0209e5148faa65f6ef06814e8c704f"
+    },
+    "casbin/xorm-adapter": {
+        "tag": "v3.5.0",
+        "sha": "ca101185da8ae7d88f82756ae407415c9a358405"
+    },
+    "ccfos/nightingale": {
+        "tag": "v8.4.0",
+        "sha": "037112a9e65ec25cd3b00befa8dd0ffa172ef78e"
+    },
+    "cenkalti/backoff": {
+        "tag": "v5.0.3",
+        "sha": "7cad66a637c4ffff09d0795608116ddcc7eb1769"
+    },
+    "centrifugal/centrifuge": {
+        "tag": "v0.37.2",
+        "sha": "c2a324629fe33581dc3ee088f53206d2275c7151"
+    },
+    "centrifugal/centrifugo": {
+        "tag": "v6.4.0",
+        "sha": "48db4129ae60542f6e1678518c80805c39bb75ed"
+    },
+    "cespare/xxhash": {
+        "tag": "v2.3.0",
+        "sha": "998dce232f17418a7a5721ecf87ca714025a3243"
+    },
+    "chainguard-dev/actions": {
+        "tag": "v1.5.6",
+        "sha": "94249a4828defae94ef3eaeaafaff2f95f1b446f"
+    },
+    "charmbracelet/bubbletea": {
+        "tag": "v2.0.0-beta.4",
+        "sha": "81ed4ba5b8878ad1f34ea7300c483b8db48b47ee"
+    },
+    "charmbracelet/glow": {
+        "tag": "v2.1.1",
+        "sha": "d37e9887875a2faa4baee6a7d090eb357dd63771"
+    },
+    "charmbracelet/gum": {
+        "tag": "v0.17.0",
+        "sha": "6045525ab92f75c169d3c69596844d8748437e37"
+    },
+    "charmbracelet/lipgloss": {
+        "tag": "v2.0.0-beta.3",
+        "sha": "a391435c3fa7faa899d5c42deb80829cd7df26c3"
+    },
+    "charmbracelet/mods": {
+        "tag": "v1.8.1",
+        "sha": "9b36cf882989cf6807ec82f8afbc56d418ba9264"
+    },
+    "charmbracelet/soft-serve": {
+        "tag": "v0.10.0",
+        "sha": "6856877cd42acf302776258142009c4ffc0d0fa0"
+    },
+    "charmbracelet/wish": {
+        "tag": "v1.4.7",
+        "sha": "5385cd3883bd6eedaf8b6dc42cba4a57ca0cce6b"
+    },
+    "chromedp/chromedp": {
+        "tag": "v0.14.2",
+        "sha": "7d3ca7908248b2305a27d5d3c262df1ef52fb548"
+    },
+    "cilium/cilium-cli": {
+        "tag": "v0.18.7",
+        "sha": "024e340cca1465e2a6336521f12370c7ca58c59a"
+    },
+    "cilium/ebpf": {
+        "tag": "v0.19.0",
+        "sha": "c221969e96d6d5bd69253caeb6237717b0bb7553"
+    },
+    "cilium/hive": {
+        "branch": "main",
+        "sha": "21f6f6e081b5c9961beb949fbf8161ee34778d96"
+    },
+    "claceio/clace": {
+        "tag": "v0.15.8",
+        "sha": "8cc9a98a5376caed0405db36332ad7bc23873e15"
+    },
+    "cli/cli": {
+        "tag": "v2.82.0",
+        "sha": "d2535897fd14a9c9697f3c6f112ce34007a6bf95"
+    },
+    "cli/go-gh": {
+        "tag": "v2.12.2",
+        "sha": "e1048dfe671b9aee9367a5e3e720831f4d64b33a"
+    },
+    "cli/oauth": {
+        "tag": "v1.2.0",
+        "sha": "6c44f6875c117410fdc56db8e0b265c8d6f7efdb"
+    },
+    "cloudevents/sdk-go": {
+        "tag": "v2.16.2",
+        "sha": "af3e8599b3316ab6b4b73ff69aa8ec0efddbb5bb"
+    },
+    "cloudflare/circl": {
+        "tag": "v1.6.1",
+        "sha": "c6d33e35234ebf5c4319d12ae7d77d7d17053e56"
+    },
+    "cloudflare/cloudflare-go": {
+        "tag": "v6.1.0",
+        "sha": "f44f95b944c3878805c06a536965eb14a1edfcaf"
+    },
+    "cloudflare/cloudflared": {
+        "tag": "2025.10.0",
+        "sha": "e10e0725992d9fd6238ad896fa630468f1e4a4aa",
+        "use-releases": true
+    },
+    "cloudfoundry/bytefmt": {
+        "tag": "v0.55.0",
+        "sha": "614c62ab5b813a0bb66938cc123f0506e307826f"
+    },
+    "cloudfoundry/korifi": {
+        "tag": "v0.16.1",
+        "sha": "c16b9dcb043598b89f2ec81b3a1c31a4673ad98f"
+    },
+    "cncf/xds": {
+        "branch": "main",
+        "sha": "2ee22ca5838277e4cff0f0219b1c62e5c0cd3cc1"
+    },
+    "cockroachdb/errors": {
+        "tag": "v1.12.0",
+        "sha": "2008f7c3ac42391b26a4bbb1cf0bbf7057605610"
+    },
+    "cockroachdb/swiss": {
+        "branch": "main",
+        "sha": "d6e517c1d9613846e210cd32c57ed5f80435a5cb"
+    },
+    "coder/coder": {
+        "tag": "v2.27.1",
+        "sha": "230b55bfa043c6cb1c2be7e00fa347f27a65ebe7"
+    },
+    "coder/websocket": {
+        "tag": "v1.8.14",
+        "sha": "7d7c644330e727379c3e33fddc154ac208b925f3"
+    },
+    "coder/wush": {
+        "tag": "v0.4.1",
+        "sha": "ecdc4288f27b417b938b84b0eba8e883f468112b"
+    },
+    "cohere-ai/cohere-go": {
+        "tag": "v2.15.3",
+        "sha": "54bd3fa2a5ad8c587f234c431ba657da38287816"
+    },
+    "containerd/containerd": {
+        "tag": "v2.1.4",
+        "sha": "75cb2b7193e4e490e9fbdc236c0e811ccaba3376"
+    },
+    "containerd/imgcrypt": {
+        "tag": "v2.0.1",
+        "sha": "c377ec98ff79ec9205eabf555ebd2ea784738c6c"
+    },
+    "containerd/otelttrpc": {
+        "tag": "v0.1.0",
+        "sha": "fa91cafe17adf59a0edc10650135dfd1dfb761c2"
+    },
+    "containerd/ttrpc": {
+        "tag": "v1.2.7",
+        "sha": "3b8c8b75577584e412043afb7b561193a4a47d2e"
+    },
+    "containers/kubernetes-mcp-server": {
+        "tag": "v0.0.53",
+        "sha": "086afefc75fb22e4ac6d96b07f94bb5420998b7f"
+    },
+    "containers/podman": {
+        "tag": "v5.6.2",
+        "sha": "9dd5e1ed33830612bc200d7a13db00af6ab865a4"
+    },
+    "corazawaf/coraza": {
+        "tag": "v3.3.3",
+        "sha": "4722c9ad0d502abd56b8d6733c6b47eb4111742d"
+    },
+    "coredns/coredns": {
+        "tag": "v1.13.1",
+        "sha": "1db4568df6aaacda6ebbce87717156bd855f8103"
+    },
+    "coreos/go-oidc": {
+        "tag": "v3.16.0",
+        "sha": "e9584733f8bb6c4683d1e98b4fb22eee121f7dff"
+    },
+    "cosmos/cosmos-sdk": {
+        "tag": "v0.54.0-rc.1",
+        "sha": "6a55f4bf4ffddf23a81b07d44d17a15bf0d0f7ed"
+    },
+    "cosmos/gaia": {
+        "tag": "v25.1.1",
+        "sha": "f9ba7e236b050126a9be68e9eb3808cc2e6980c9"
+    },
+    "cosmos/ibc-go": {
+        "tag": "v10.4.0",
+        "sha": "ed3b125c7b6fb7cbb6f9535d62f4c19f572a0c53"
+    },
+    "couchbase/gocb": {
+        "tag": "v2.11.1",
+        "sha": "1ab0d406f5f15e52550f520107ceca3f47e7c337"
+    },
+    "couchbase/gocbcore": {
+        "tag": "v10.8.1",
+        "sha": "990cf0911447fa29b89acf4885b5b741bef4a9f8"
+    },
+    "crewjam/saml": {
+        "tag": "v0.5.1",
+        "sha": "e3d0323a999e14876893e394b91573ba5e5cd453"
+    },
+    "crossplane/crossplane": {
+        "tag": "v2.0.2",
+        "sha": "7d9ef017110d6d1d716f886df9cce02b0378f5e1"
+    },
+    "crossplane/upjet": {
+        "tag": "v2.0.0",
+        "sha": "4c6bfc216d3bbccc7af63cd0f7a984985dd54987"
+    },
+    "crowci/crow": {
+        "repo": "https://codeberg.org",
+        "tag": "v4.3.0",
+        "sha": "04ce1b2fd8fd7ed0480ba980ecec10bdbec0ae3a"
+    },
+    "cue-lang/cue": {
+        "tag": "v0.14.2",
+        "sha": "d3fd2fbddb651a4f5c73754e7834af3056c8eaad"
+    },
+    "cvilsmeier/sqinn-go": {
+        "tag": "v2.1.0",
+        "sha": "f1099bf5e633b89e164badd9b2c51b6263927a1e"
+    },
+    "daixiang0/gci": {
+        "tag": "v0.13.7",
+        "sha": "5f21beee3f887dd1545545c206722a5f86c2e63e"
+    },
+    "dapr/dapr": {
+        "tag": "v1.16.1",
+        "sha": "133e3847acd3bba2f0a22f9e82af25ef6a63f5a3"
+    },
+    "dapr/kit": {
+        "tag": "v0.16.1",
+        "sha": "d5a23c2cb68d99f4d9482c2c8b567e427814e9c4"
+    },
+    "darccio/mergo": {
+        "tag": "v1.0.2",
+        "sha": "7b33b2b01026fbbbbfcfbb1ee2c9c0a5e0c9a9f7"
+    },
+    "databus23/helm-diff": {
+        "tag": "v3.13.1",
+        "sha": "46b8d909efc100ab2e5106984c6b73041af6f246"
+    },
+    "datazip-inc/olake": {
+        "tag": "v0.2.8",
+        "sha": "45ef2d16b828f0eadbca836d7f648ba6a46392fd"
+    },
+    "davecheney/httpstat": {
+        "tag": "v1.2.1",
+        "sha": "c64e6dee9402449a92375ec361f6c9ebaddc9a9e"
+    },
+    "daveshanley/vacuum": {
+        "tag": "v0.18.7",
+        "sha": "ef453f3981e7b43c9a908b22d4317efc7652b8e9"
+    },
+    "depot/cli": {
+        "tag": "v2.100.9",
+        "sha": "f6ce3530e512576158ebb80de816a3ae95c8552d"
+    },
+    "derailed/k9s": {
+        "tag": "v0.50.15",
+        "sha": "72ea1d48513a467ccdbff8e238396a278c3f4dd6"
+    },
+    "derailed/popeye": {
+        "tag": "v0.22.1",
+        "sha": "35b554961dcdabfa7aba6bd070673c6c24c70884"
+    },
+    "deviceinsight/kafkactl": {
+        "tag": "v5.13.0",
+        "sha": "34c60cb700b919680cfa3bde26ecdcaa0aeee279"
+    },
+    "dexidp/dex": {
+        "tag": "v2.44.0",
+        "sha": "2dce75009acfcd9df77d57f2d144aae999a4c569"
+    },
+    "dgraph-io/dgraph": {
+        "tag": "v25.0.0",
+        "sha": "e6980befe54103c67f353ffaa311345747ebb147"
+    },
+    "dlclark/regexp2": {
+        "tag": "v1.11.5",
+        "sha": "bbde16d0994ae4d2812b31a9fd3798e56ea1d723"
+    },
+    "dlvhdr/gh-dash": {
+        "tag": "v4.18.0",
+        "sha": "467ce193020dd20fc1679432cb881565379e883d"
+    },
+    "docker/compose": {
+        "tag": "v2.40.1",
+        "sha": "be8c7e6c60c6dad95527fa4a338a1490ea5f3f97"
+    },
+    "docker/docker-language-server": {
+        "tag": "v0.20.1",
+        "sha": "cb62b8b3710e81988521238c89232e95ef728111"
+    },
+    "dolthub/dolt": {
+        "tag": "v1.75.0",
+        "sha": "070e51a19381a69527325e71cb9094d3ba59608a"
+    },
+    "dolthub/dolt-mcp": {
+        "tag": "v0.2.2",
+        "sha": "7e035ded6cf2838edaf18e84d67e15ac18da8c0a"
+    },
+    "dolthub/driver": {
+        "tag": "v0.2.0",
+        "sha": "b7878a7541f841625269196d125530ad76af9eea"
+    },
+    "dolthub/go-mysql-server": {
+        "tag": "v0.20.0",
+        "sha": "5d724882692f259bcd232753076f18e38343dec8"
+    },
+    "dominikh/go-tools": {
+        "tag": "v0.6.1",
+        "sha": "b8ec13ce4d00445d75da053c47498e6f9ec5d7d6"
+    },
+    "dop251/goja": {
+        "branch": "master",
+        "sha": "cf18d89f3cf612fca36ebf06c10cc70ad66c1ac8"
+    },
+    "dragonflyoss/dragonfly": {
+        "tag": "v2.3.3",
+        "sha": "0ba122f2df192d259646a2eab333945a936e1455"
+    },
+    "dromara/carbon": {
+        "tag": "v2.6.13",
+        "sha": "64dcb40f57175b199ec232e1ff92ae108bc4dec2"
+    },
+    "dropbox/dropbox-sdk-go-unofficial": {
+        "tag": "v6.0.5",
+        "sha": "d842034a55db400cf56c594cfc36e17a362f5ce4"
+    },
+    "e2b-dev/infra": {
+        "tag": "2025.41",
+        "sha": "c23dd0ef2b225cbf77f4a1e4909f073162db1957",
+        "use-releases": true
+    },
+    "easegress-io/easegress": {
+        "tag": "v2.10.1",
+        "sha": "a2577c8f2de016b6d48cafc4ab106bbcf5ac3e82"
+    },
+    "ebitengine/purego": {
+        "tag": "v0.10.0-alpha.2",
+        "sha": "73cecc9f4127e8ae88b26bc76c1bb2c9c7c3065a"
+    },
+    "editorconfig/editorconfig-core-go": {
+        "tag": "v2.6.3",
+        "sha": "d4f384d926d6b3dfa183863ee4c1d991861bf138"
+    },
+    "eksctl-io/eksctl": {
+        "tag": "v0.215.0",
+        "sha": "1df868edbf06679085b11025f1544ad92b5ef812"
+    },
+    "elastic/apm-server": {
+        "tag": "v9.1.5",
+        "sha": "0acb73c4bc8f7a3456897223060a5be5d0dce99a"
+    },
+    "elastic/beats": {
+        "tag": "v9.1.5",
+        "sha": "49b225eb6f526f48c9a77f583b772ef97d90b387"
+    },
+    "elastic/elastic-agent": {
+        "tag": "v9.1.5",
+        "sha": "7bee013e95ad3bdca704daf1924df27d880efbf1"
+    },
+    "elastic/elastic-package": {
+        "tag": "v0.115.0",
+        "sha": "a4dc5bfc8e2e7d8bee92dca953ff4d533646f5ed"
+    },
+    "elastic/go-elasticsearch": {
+        "tag": "v9.1.0",
+        "sha": "94ae1cb8b536fd7373c76ff73797b71b9ebf3661"
+    },
+    "elastic/go-sysinfo": {
+        "tag": "v1.15.4",
+        "sha": "d0ddb7f6aac780a6de84ae5d45980829f3b17b39"
+    },
+    "elazarl/goproxy": {
+        "tag": "v1.7.2",
+        "sha": "09a5680351ad4b2271bce85eda4414b1afc6efd0"
+    },
+    "element-hq/dendrite": {
+        "tag": "v0.15.2",
+        "sha": "e546df2e1ec9f53244a066c070ba5134af565f28"
+    },
+    "elves/elvish": {
+        "tag": "v0.21.0",
+        "sha": "b22e1b921ec1edcd94035b980cec0db482451138"
+    },
+    "emicklei/go-restful": {
+        "tag": "v3.13.0",
+        "sha": "3fae6e4c6809ebc26315d163196ea7ab8e0685cb"
+    },
+    "emprcl/runal": {
+        "tag": "v0.8.0",
+        "sha": "7d11e9fc484f736ada4e21c0fd77493d6b3c619f"
+    },
+    "ent/contrib": {
+        "tag": "v0.7.0",
+        "sha": "8a7f182943cbf3d958f3fd3f7184ddf723da2cfe"
+    },
+    "ent/ent": {
+        "tag": "v0.14.5",
+        "sha": "9442826ba628d9fe309e91cc3331c695c32b1db6"
+    },
+    "envoyproxy/ai-gateway": {
+        "tag": "v0.3.0",
+        "sha": "da86fc6a22bf754666e69c9e988f1580ef53f5b8"
+    },
+    "envoyproxy/gateway": {
+        "tag": "v1.5.3",
+        "sha": "25d158912b9474b04ab9737be6c67eb5dc9c95e0"
+    },
+    "envoyproxy/go-control-plane": {
+        "tag": "envoy/v1.35.0",
+        "sha": "5321204dac14eb3ef389be392c36364d9bad4302"
+    },
+    "envoyproxy/ratelimit": {
+        "tag": "v1.4.0",
+        "sha": "0dd5b8bf85d6f9d4976c4b4ae512310a6bf700b1"
+    },
+    "ericcornelissen/ades": {
+        "tag": "v25.10",
+        "sha": "cac83c206b470d48b25b34b61d2b77ff2e8952ba",
+        "use-releases": true
+    },
+    "errata-ai/vale": {
+        "tag": "v3.12.0",
+        "sha": "44c18b3d2ebc971c160cec26cd179a3f73d37f58"
+    },
+    "etcd-io/bbolt": {
+        "tag": "v1.4.3",
+        "sha": "68e6b96e6b74ebc396ac1aa7186c92e616960bd1"
+    },
+    "etcd-io/etcd": {
+        "tag": "v3.6.5",
+        "sha": "a0614505aff9b8ff469e9c59c2d979a5936d13f4"
+    },
+    "etcd-io/gofail": {
+        "tag": "v0.2.0",
+        "sha": "ed9ca8045cc22a3045168306f2039e9f0a5b397e"
+    },
+    "etcd-io/raft": {
+        "tag": "v3.6.0",
+        "sha": "f35a02212416d045c574e30aa59d4b07c4b8d732"
+    },
+    "evanphx/json-patch": {
+        "tag": "v5.9.11",
+        "sha": "84a4bb100ade42a86fce2647c95a7dbcbf569cb2"
+    },
+    "evanw/esbuild": {
+        "tag": "v0.25.11",
+        "sha": "6b7c4f2dcbcaa1238bca0f7a4a1d95918296c82e"
+    },
+    "evilmartians/lefthook": {
+        "tag": "v1.13.6",
+        "sha": "539f66c92f10e20ed369d769afee1cd6e93d5735"
+    },
+    "evmos/evmos": {
+        "tag": "v20.0.0",
+        "sha": "eca13ef2521a9ef13c32e80b1b147230bdb155b5"
+    },
+    "expectto/be": {
+        "tag": "v0.2.3",
+        "sha": "492e52ed47eb37e829af07be6b347a86d6cee0ad"
+    },
+    "expr-lang/expr": {
+        "tag": "v1.17.6",
+        "sha": "87df78319489e4c4e00bb3ac1256c63aa8bd63f1"
+    },
+    "external-secrets/external-secrets": {
+        "tag": "v0.20.3",
+        "sha": "bd12d56f1b81122f7827507553f04f2af4d447e3"
+    },
+    "ezpkg/ezpkg": {
+        "branch": "main",
+        "sha": "815a46aec6742dbca8086e3d31dcde4d10546ae4"
+    },
+    "fastly/cli": {
+        "tag": "v12.1.0",
+        "sha": "24540729a80eee2cc2b2e32ab7294068c5ac1db7"
+    },
+    "fastly/compute-sdk-go": {
+        "tag": "v1.5.0",
+        "sha": "9447559782dd80af475bf9cab79601a9c05b4da8"
+    },
+    "fastly/fastly-go": {
+        "tag": "v1.0.0-beta.44",
+        "sha": "498855316d87b4ff4fdcf8c8c047b8a73897ac37"
+    },
+    "fastly/go-fastly": {
+        "tag": "v12.1.0",
+        "sha": "6e4a65c1285febc7e87a57c44e4e27f58a2ad06b"
+    },
+    "fastly/mcp": {
+        "tag": "v0.1.9",
+        "sha": "8eed9a467602b2171d5d1ec7589e01a6eb25887b"
+    },
+    "fatedier/frp": {
+        "tag": "v0.65.0",
+        "sha": "2f5e1f79457b5e9d769f2ac063443b62640185a9"
+    },
+    "fatedier/golib": {
+        "tag": "v0.5.1",
+        "sha": "1d420232725a7128a54b05fdb3c7026ae382816f"
+    },
+    "fiatjaf/eventstore": {
+        "tag": "v0.17.2",
+        "sha": "96b573dea0d5af5ddde884bc88f2f9197806530e"
+    },
+    "firebase/firebase-admin-go": {
+        "tag": "v4.18.0",
+        "sha": "26dec0b7589ef7641eefd6681981024079b8524c"
+    },
+    "firebase/genkit": {
+        "tag": "go/v1.1.0",
+        "sha": "f7257e196255a7f4e0dae17ed33fca5bef52c35f"
+    },
+    "flux-iac/tofu-controller": {
+        "tag": "v0.16.0-rc.5",
+        "sha": "01bbcd1540eb90d6f453739756ab43d092f241e4"
+    },
+    "fluxcd/flagger": {
+        "tag": "v1.42.0",
+        "sha": "3a27fd147f8302cb08b0cac3750563c10f3b048e"
+    },
+    "fluxcd/flux2": {
+        "tag": "v2.7.2",
+        "sha": "4a15fa6a023259353ef750acf1c98fe88407d4d0"
+    },
+    "fluxcd/pkg": {
+        "branch": "main",
+        "sha": "73010683d7aeae5f904da879e8bd8bc3f86a0cf7"
+    },
+    "flyteorg/flyte": {
+        "tag": "v2.0.12",
+        "sha": "4a883cf6a69c3b26f0fe256de66737f6b2edf318"
+    },
+    "forgejo/forgejo": {
+        "repo": "https://codeberg.org",
+        "tag": "v13.0.1",
+        "sha": "714b88f8b2947125ef829329744ce0a3cce48690"
+    },
+    "fsnotify/fsnotify": {
+        "tag": "v1.9.0",
+        "sha": "ae0e7923765f64fb8061396db7edebb558cf6093"
+    },
+    "fullstorydev/grpcui": {
+        "tag": "v1.5.1",
+        "sha": "3fa3d076ff96447dbcb2e0916cd9bf0499546be6"
+    },
+    "fullstorydev/grpcurl": {
+        "tag": "v1.9.3",
+        "sha": "d00c28104be4b06f4dd887196ccfc57b054aa069"
+    },
+    "garden-io/garden": {
+        "tag": "edge-cedar",
+        "sha": "362c812cac75665edf170a5e2f1537958d97a5e2",
+        "use-releases": true
+    },
+    "gardener/gardener": {
+        "tag": "v1.129.2",
+        "sha": "b6e2e63825a5e5d89511fd31c3c38fe949d9e0a6"
+    },
+    "gdamore/tcell": {
+        "tag": "v2.9.0",
+        "sha": "e5785a44313902810c1d855154516ba332c7494f"
+    },
+    "getgauge/gauge": {
+        "tag": "v1.6.21",
+        "sha": "7d3f2cf7fe2bc2d37a585a9deb7d6f6b82f559c3"
+    },
+    "getkin/kin-openapi": {
+        "tag": "v0.133.0",
+        "sha": "2baea3d16906f92e241304527137592a8251afc9"
+    },
+    "getsentry/sentry-go": {
+        "tag": "v0.36.0",
+        "sha": "fe877a9b588baf3485270860b69185d9a8080982"
+    },
+    "getsentry/vroom": {
+        "tag": "25.10.0",
+        "sha": "d7a2fe1578ea066a61e046ea8336f5339e68d761",
+        "use-releases": true
+    },
+    "giantswarm/operatorkit": {
+        "tag": "v7.3.0",
+        "sha": "0c9817bfd6308b69204df19981832b916ea657a3"
+    },
+    "gin-gonic/gin": {
+        "tag": "v1.11.0",
+        "sha": "6ad6205e9c94a4b8a320219e28c37c29d22a7a2c"
+    },
+    "git-bug/git-bug": {
+        "tag": "v0.10.1",
+        "sha": "f2070b53255724f58ce2b70f235fe5cf1b99f2fe"
+    },
+    "gitea/go-sdk": {
+        "repo": "https://gitea.com/",
+        "tag": "gitea/v0.22.0",
+        "sha": "ef237cd0c0b333a5f8dd1dadbe1f9f0e1aaf1812"
+    },
+    "github/freno": {
+        "tag": "v1.3.1",
+        "sha": "14d9dfa1095691372dd606dc51e60e98aa064ae8"
+    },
+    "github/gh-combine": {
+        "tag": "v0.0.32",
+        "sha": "1cececeb765a37e73522f65567849127f66fce3c"
+    },
+    "github/gh-ost": {
+        "tag": "v1.1.7",
+        "sha": "d5ab048c1f046821f3c7384a386fc1c3ae399c92"
+    },
+    "github/git-sizer": {
+        "tag": "v1.5.0",
+        "sha": "cc6b856f85a99f8ce188275c3554ad27ba7adfde"
+    },
+    "github/github-mcp-server": {
+        "tag": "v0.18.0",
+        "sha": "f9343e62fd825d77ff741c7909016c461402783b"
+    },
+    "github/go-pipe": {
+        "tag": "v1.0.2",
+        "sha": "3f37633cc05bd3d0952f778193e892e5f97417a4"
+    },
+    "github/go-spdx": {
+        "tag": "v2.3.3",
+        "sha": "59ab544ad61079c0335f0613d1c17ac2673eda67"
+    },
+    "gittower/git-flow-next": {
+        "tag": "v0.1.1",
+        "sha": "1dae71774384b5a1787df990964d77fbbe3f8ebb"
+    },
+    "gliderlabs/sigil": {
+        "tag": "v0.11.5",
+        "sha": "e26b73c1fff26e17153a62a816912d646b2c972f"
+    },
+    "gliderlabs/ssh": {
+        "tag": "v0.3.8",
+        "sha": "a8ecd3ed244fb77c863c0cf30ccdcca44436974a"
+    },
+    "gnolang/gno": {
+        "branch": "master",
+        "sha": "9cb09af99665ed073ce1c219d038d12438fb56ac"
+    },
+    "go-acme/lego": {
+        "tag": "v4.27.0",
+        "sha": "a58c45ee4fc63ff17fb63898764791df88eab65a"
+    },
+    "go-chi/chi": {
+        "tag": "v5.2.3",
+        "sha": "9b9fb55def404397748a9fc7e044efe9db1d618e"
+    },
+    "go-critic/go-critic": {
+        "tag": "v0.14.0",
+        "sha": "26869a49fbd58c340966010967cfbd8293712194"
+    },
+    "go-delve/delve": {
+        "tag": "v1.25.2",
+        "sha": "498ee9c27223fed032af8856f7a62590a63b9439"
+    },
+    "go-errors/errors": {
+        "tag": "v1.5.1",
+        "sha": "1b7bbfb2f065f79536b843f8e2047e36aadd7846"
+    },
+    "go-git/gcfg": {
+        "tag": "v2.0.2",
+        "sha": "dd6e8523911e61adac51a3f76b87a0508dd78021"
+    },
+    "go-git/go-billy": {
+        "tag": "v5.6.2",
+        "sha": "9f8b16d30b0a071884faba91fd4edff482af5bde"
+    },
+    "go-git/go-git": {
+        "tag": "v5.16.3",
+        "sha": "ad9a3a542e845d368853848ef5a2de9ec1f79b1a"
+    },
+    "go-gitea/gitea": {
+        "tag": "v1.24.6",
+        "sha": "08c6ea6728ee35a16f9a39588e725044b7f389cd"
+    },
+    "go-gorm/gorm": {
+        "tag": "v1.31.0",
+        "sha": "b289563d54de23e742e2a4cba9d77af01f641b0f"
+    },
+    "go-gorm/postgres": {
+        "tag": "v1.6.0",
+        "sha": "1ffb5a75de20776ce5d266d62436e23ec0cfe60e"
+    },
+    "go-goyave/goyave": {
+        "tag": "v5.10.0",
+        "sha": "7748b3390aa87bcbc90679b108440d2bced7ab3a"
+    },
+    "go-json-experiment/json": {
+        "branch": "master",
+        "sha": "cc2cfa0554c3b4e80f3a96fc9f080ccf753e77aa"
+    },
+    "go-kit/kit": {
+        "tag": "v0.13.0",
+        "sha": "dfe43fa6a8d72c23e2205d0b80e762346e203f78"
+    },
+    "go-kivik/kivik": {
+        "tag": "v4.5.0",
+        "sha": "be57cf841df33ac6593a1f810cbb3d99ffde1bcb"
+    },
+    "go-kratos/kratos": {
+        "tag": "v2.9.1",
+        "sha": "25b6c0fb9f38ecdb0394f99e038edb5fd6c72d10"
+    },
+    "go-language-server/jsonrpc2": {
+        "tag": "v0.10.0",
+        "sha": "8c68d4fd37cd4bd06b62b3243f0d2292c681d164"
+    },
+    "go-language-server/nytimes-openapi2proto": {
+        "tag": "v0.2.2",
+        "sha": "96cd4a9269a4749a493cef472578de974ada6380"
+    },
+    "go-language-server/protocol": {
+        "tag": "v0.12.0",
+        "sha": "da30f9ae0326cc45b76adc5cd8920ac1ffa14a15"
+    },
+    "go-logr/logr": {
+        "tag": "v1.4.3",
+        "sha": "38a1c47ef633fa6b2eee6b8f2e1371ba8626e557"
+    },
+    "go-openapi/jsonpointer": {
+        "tag": "v0.22.1",
+        "sha": "64079a404bcfdf40f8ab8ccf9e0d86d56bd0bce1"
+    },
+    "go-openapi/jsonreference": {
+        "tag": "v0.21.2",
+        "sha": "65f09e70a62bf809a88e179cea1bd314c8a30c89"
+    },
+    "go-openapi/swag": {
+        "tag": "v0.25.1",
+        "sha": "e8de8a1b47e96efe146006b65f70f0dc2d96591d"
+    },
+    "go-pg/pg": {
+        "tag": "v10.15.0",
+        "sha": "2dc6c2bf9d9ae5bab0bf0891775c3971a897b298"
+    },
+    "go-playground/validator": {
+        "tag": "v10.28.0",
+        "sha": "bdc3a7d31bd8269baa07904324e8fb22fb2f9372"
+    },
+    "go-resty/resty": {
+        "tag": "v2.16.5",
+        "sha": "1e19d6bc6a102df59e1997a09850d0c0532e7f9a"
+    },
+    "go-shiori/go-epub": {
+        "tag": "v1.2.1",
+        "sha": "2f668451ef95fd27bce83491cd85a41f4a4dcf5e"
+    },
+    "go-swagger/go-swagger": {
+        "tag": "v0.33.1",
+        "sha": "2af7725271cf99ace5d44ab134acb53bffcc5734"
+    },
+    "go-task/task": {
+        "tag": "v3.45.4",
+        "sha": "048d92709aaa10c0cf8acc54fb59c163627ff9f4"
+    },
+    "go-viper/encoding": {
+        "branch": "main",
+        "sha": "6a9547539a58a2a8128abf557a3fa200d1d1ea10"
+    },
+    "go-viper/mapstructure": {
+        "tag": "v2.4.0",
+        "sha": "b9794a5f0e73d425210d6614ed833067029155f5"
+    },
+    "go-yaml/yaml": {
+        "tag": "v3.0.1",
+        "sha": "f6f7691b1fdeb513f56608cd2c32c51f8194bf51"
+    },
+    "go101/golds": {
+        "tag": "v0.8.2",
+        "sha": "bc29975d59514b0bd64f5bac4c87f975971c670d"
+    },
+    "goadesign/goa": {
+        "tag": "v3.22.6",
+        "sha": "a7ed2382a5754bf95b0a66a3221f0bf8bfd4de7b"
+    },
+    "gobuffalo/buffalo": {
+        "tag": "v1.1.3",
+        "sha": "c494582aecaee63fa34c93061533f88d14805b74"
+    },
+    "gobuffalo/pop": {
+        "tag": "v6.1.1",
+        "sha": "fbb24cf549d29625b23e88c4d7f4a4ab0e95e44d"
+    },
+    "goccy/go-yaml": {
+        "tag": "v1.18.0",
+        "sha": "52dacb84f31d55f1d4f0916d48707456a7c90ecb"
+    },
+    "gocolly/colly": {
+        "tag": "v2.2.0",
+        "sha": "fe55a16e8d16a006df76b5edc57cfaf83ae0b3ea"
+    },
+    "gofiber/contrib": {
+        "branch": "main",
+        "sha": "4b10c92f12e102df41ae124beaac5ef7c3ae74ca"
+    },
+    "gofiber/fiber": {
+        "tag": "v3.0.0-rc.2",
+        "sha": "529b36dae4dff02619dc179446b2634b9035c7a6"
+    },
+    "gofiber/recipes": {
+        "branch": "master",
+        "sha": "4ae1b9edc93748a41f0e2ff18820223707ad5563"
+    },
+    "gofiber/storage": {
+        "branch": "main",
+        "sha": "f790a481d02b47c87baeaaa6fe1fe95e15fbbec4"
+    },
+    "gofr-dev/gofr": {
+        "tag": "v1.46.3",
+        "sha": "7338d51fe1a6496d03fcb2ba135d91dcbc931e47"
+    },
+    "gogf/gf": {
+        "tag": "v2.9.4",
+        "sha": "2b7b4c85814f7dc33678f788cb4bbf0b06c417d1"
+    },
+    "gogs/gogs": {
+        "tag": "v0.13.3",
+        "sha": "5084b4a9b77a506f5e287e82e945e1c6882b827a"
+    },
+    "gohugoio/hugo": {
+        "tag": "v0.151.2",
+        "sha": "a3574f6f70c9b272e3de53cf976018ee3ff16fd1"
+    },
+    "golang-jwt/jwt": {
+        "tag": "v5.3.0",
+        "sha": "e9547a11aa603c52a31e315cdcaa71d0f25b921a"
+    },
+    "golang-migrate/migrate": {
+        "tag": "v4.19.0",
+        "sha": "8b9c5f77128ef93d65a082208a2009a3911fe6d4"
+    },
+    "golang/appengine": {
+        "tag": "v2.0.6",
+        "sha": "3ab9c40c53fc8b2b053d3fe76ccd03fdc3178ab6"
+    },
+    "golang/crypto": {
+        "tag": "v0.43.0",
+        "sha": "627cb894b6b2021e34c4ad4af4c0a963127491e4"
+    },
+    "golang/debug": {
+        "branch": "master",
+        "sha": "50276fecbe943f86311074ee213334126875bfde"
+    },
+    "golang/exp": {
+        "branch": "master",
+        "sha": "90e834f514dbf992a91a09053daed7e1a04fc58a"
+    },
+    "golang/glog": {
+        "tag": "v1.2.5",
+        "sha": "2b790ef78571cd58d29ce909a8d4e3f71cc4c47e"
+    },
+    "golang/groupcache": {
+        "branch": "master",
+        "sha": "2c02b8208cf8c02a3e358cb1d9b60950647543fc"
+    },
+    "golang/mod": {
+        "tag": "v0.29.0",
+        "sha": "bba3e065a67271df90253c78c98f2cea7f572948"
+    },
+    "golang/net": {
+        "tag": "v0.46.0",
+        "sha": "2002a064a49010d8b881673c73f04e0b741e7c32"
+    },
+    "golang/oauth2": {
+        "tag": "v0.32.0",
+        "sha": "792c8776358f0c8689d84eef0d0c966937d560fb"
+    },
+    "golang/oscar": {
+        "branch": "master",
+        "sha": "337aeca887a520d19befcaef6c77b711fcb71d19"
+    },
+    "golang/perf": {
+        "branch": "master",
+        "sha": "42ba72fec400250adf41f274171521cc0e82aea7"
+    },
+    "golang/pkgsite": {
+        "branch": "master",
+        "sha": "31e4cbb15040258abb9a4e5eb0d5fcef6f8e0562"
+    },
+    "golang/pkgsite-metrics": {
+        "branch": "master",
+        "sha": "c48b0320a2ffe4079a255b0504a1a27201e51bfc"
+    },
+    "golang/sync": {
+        "tag": "v0.17.0",
+        "sha": "04914c200cb38d4ea960ee6a4c314a028c632991"
+    },
+    "golang/telemetry": {
+        "tag": "config/v0.69.0",
+        "sha": "7e357f2cc9eb81241038e7e2211fd4dd2990282f"
+    },
+    "golang/text": {
+        "tag": "v0.30.0",
+        "sha": "c6abd0305e90ada9293824462268d0ec20d02e5e"
+    },
+    "golang/tools": {
+        "tag": "v0.38.0",
+        "sha": "a22b5e8a9b8d2234e1e960ec2473e4011f012a6b"
+    },
+    "golang/vscode-go": {
+        "tag": "v0.51.0",
+        "sha": "cc5b5f70a49fd0a9628b9f501b3c8cb9422f46f6"
+    },
+    "golang/vuln": {
+        "tag": "v1.1.4",
+        "sha": "d1f380186385b4f64e00313f31743df8e4b89a77"
+    },
+    "golang/website": {
+        "branch": "master",
+        "sha": "df1bc8bd395f9ed87f0aa464d839d7ceb2512e6e"
+    },
+    "golangci/golangci-lint": {
+        "tag": "v2.5.0",
+        "sha": "ff63786c30d6c2926f99d677ab2ecf089e9390ad"
+    },
+    "golingon/lingon": {
+        "branch": "main",
+        "sha": "00297048be1fdd7d58f7b79281bc5beec0bf8565"
+    },
+    "gomods/athens": {
+        "tag": "v0.16.1",
+        "sha": "825d457af12054f0835404f088e3e6739060ea07"
+    },
+    "gomodule/redigo": {
+        "tag": "v1.9.3",
+        "sha": "7364aaec75e6d67a4699b99deef88995ad11d6a2",
+        "maxv": "v2"
+    },
+    "gomodules/jsonpatch": {
+        "tag": "v3.0.1",
+        "sha": "e2d6410c0299d49b797482dc765a3b49ecc8a4b6"
+    },
+    "gonum/gonum": {
+        "tag": "v0.16.0",
+        "sha": "7826ba4358a76646a8bd1f852201c4fed2c81c38"
+    },
+    "gonum/plot": {
+        "tag": "v0.16.0",
+        "sha": "efc7fc82ed6aeb4df6e5f82145b265bd2b6a13c4"
+    },
+    "google/cel-go": {
+        "tag": "v0.26.1",
+        "sha": "8e7beb65e9a70f501fd743c3b70b2a0a2fadac52"
+    },
+    "google/certificate-transparency-go": {
+        "tag": "v1.3.2",
+        "sha": "d1b16ca3b342e091d4122deb8c7f62b3213a2169"
+    },
+    "google/gnostic-models": {
+        "tag": "v0.7.0",
+        "sha": "82b4ba06c153dcd30e1dbcf93601b3bee5cb3792"
+    },
+    "google/go-cloud": {
+        "tag": "v0.43.0",
+        "sha": "6f120f16538dea7d1d4b3247a41d718d9b023119"
+    },
+    "google/go-cmp": {
+        "tag": "v0.7.0",
+        "sha": "9b12f366a942ebc7254abc7f32ca05068b455fb7"
+    },
+    "google/go-containerregistry": {
+        "tag": "v0.20.6",
+        "sha": "59a4b85930392a30c39462519adc8a2026d47181"
+    },
+    "google/go-github": {
+        "tag": "v76.0.0",
+        "sha": "c93693f368562c43017f9bed3243195bee7d5b8d"
+    },
+    "google/go-licenses": {
+        "tag": "v2.0.1",
+        "sha": "3e084b0caf710f7bfead967567539214f598c0a2"
+    },
+    "google/keep-sorted": {
+        "tag": "v0.7.1",
+        "sha": "c71803fd297b5736f3bfab1cfd84424ca52e961a"
+    },
+    "google/mangle": {
+        "tag": "v0.3.0",
+        "sha": "8cc2024351971eb99384b56f2fa2e2a86db906b1"
+    },
+    "google/oss-rebuild": {
+        "branch": "main",
+        "sha": "e156db99e9366f4f6787f0a8c6a342e684ecf091"
+    },
+    "google/osv-scalibr": {
+        "tag": "v0.3.5",
+        "sha": "13ac1cb2927ecb98f24bd6f22729a48b788ba5dd"
+    },
+    "google/osv-scanner": {
+        "tag": "v2.2.3",
+        "sha": "a66ef4bd60622d94e536ee3ee5592ea1e3e9a382"
+    },
+    "google/pprof": {
+        "branch": "main",
+        "sha": "5df77e3f7d1d5101648487e994475b4b5fe2145c"
+    },
+    "google/skia-buildbot": {
+        "branch": "main",
+        "sha": "8f1191a68210f3d2cea5f5ccef9e37ae1e3846d7"
+    },
+    "google/starlark-go": {
+        "branch": "master",
+        "sha": "bf296ed553ea1715656054a7f64ac6a6dd161360"
+    },
+    "google/test-server": {
+        "tag": "v0.2.8",
+        "sha": "8b6b05d8ecb74c4ce804cb83e47ef78b06793720"
+    },
+    "google/uuid": {
+        "tag": "v1.6.0",
+        "sha": "0f11ee6918f41a04c201eceeadf612a377bc7fbc"
+    },
+    "google/wire": {
+        "tag": "v0.7.0",
+        "sha": "9c25c9016f6825302537c4efdd5e897976f9c826"
+    },
+    "google/yamlfmt": {
+        "tag": "v0.19.0",
+        "sha": "6363006b56bb602bc4859099ff1106f907cb6646"
+    },
+    "googleapis/api-linter": {
+        "tag": "v1.71.0",
+        "sha": "1265bd4ec7317a58f9ba7b24e4bdaea62e543a82"
+    },
+    "googleapis/gapic-generator-go": {
+        "tag": "v0.54.0",
+        "sha": "d0bf8c35a5513c397ed756b6434835bb08509437"
+    },
+    "googleapis/gax-go": {
+        "tag": "v2.15.0",
+        "sha": "cb080069bb4bc31f6598655e94555d9f495f8c1e"
+    },
+    "googleapis/google-api-go-client": {
+        "tag": "v0.252.0",
+        "sha": "88c288c3544fb39b71e48e545d4284f8ffe0c6a1"
+    },
+    "googleapis/google-cloud-go": {
+        "branch": "main",
+        "sha": "a109cf6bde9675f8bc5edba61dce49f4852709d6"
+    },
+    "googleapis/librarian": {
+        "branch": "main",
+        "sha": "739ce0d58362174afc132582bd70c76cbe00a1f2"
+    },
+    "gopasspw/gopass": {
+        "tag": "v1.15.18",
+        "sha": "02ccdf847b38191521b974997d4e9e04257a3e48"
+    },
+    "gophercloud/gophercloud": {
+        "tag": "v2.8.0",
+        "sha": "0f5d6e587f9920357fe6f9cc5462085f5312357e"
+    },
+    "goplus/gogen": {
+        "tag": "v1.19.5",
+        "sha": "9c8c1fc32919fd0ed013dd8d41029b6708c5c144"
+    },
+    "goplus/mcp": {
+        "tag": "v0.9.5",
+        "sha": "9e19a5babeb2e8b334f501f2d034de53f7019acd"
+    },
+    "goptics/varmq": {
+        "tag": "v1.3.1",
+        "sha": "5d09b24cce21f52b056953fe36e759a9a71e6bb6"
+    },
+    "goreleaser/goreleaser": {
+        "tag": "v2.12.5",
+        "sha": "8696231b52efc02e322102545fbe97a74c4a60fa"
+    },
+    "gorilla/mux": {
+        "tag": "v1.8.1",
+        "sha": "b4617d0b9670ad14039b2739167fd35a60f557c5"
+    },
+    "gorilla/sessions": {
+        "tag": "v1.4.0",
+        "sha": "bb4cd60c952a9ce48ea0dc6cc7b282ff79c38263"
+    },
+    "gorilla/websocket": {
+        "tag": "v1.5.3",
+        "sha": "ce903f6d1d961af3a8602f2842c8b1c3fca58c4d"
+    },
+    "gorules/zen-go": {
+        "tag": "v0.16.0",
+        "sha": "f714698a8ede417ccb7d84d5f3d079437bda8012"
+    },
+    "goss-org/goss": {
+        "tag": "v0.4.9",
+        "sha": "5704120d25902119cb1139e04bca3db7742a9f73"
+    },
+    "gotestyourself/gotest.tools": {
+        "tag": "v3.5.2",
+        "sha": "0b81523ff268a1f1b0baf4a5da67e42fbb86880b"
+    },
+    "gotestyourself/gotestsum": {
+        "tag": "v1.13.0",
+        "sha": "c4a0df2e75a225d979a444342dd3db752b53619f"
+    },
+    "grafana/alloy": {
+        "tag": "v1.11.2",
+        "sha": "4a8f93cd1755dd8205c3a9d6c35b136c476cff92"
+    },
+    "grafana/grafana": {
+        "tag": "v12.2.0",
+        "sha": "92f1fba9b4b6700328e99e97328d6639df8ddc3d"
+    },
+    "grafana/grafana-app-sdk": {
+        "tag": "v0.48.0",
+        "sha": "4f5efe4377edda95df93b9006e8eff1b4495ad3f"
+    },
+    "grafana/grafana-plugin-sdk-go": {
+        "tag": "v0.280.0",
+        "sha": "896568c764b7dc295d652f527fc21ab937078543"
+    },
+    "grafana/jsonnet-language-server": {
+        "tag": "v0.16.0",
+        "sha": "f0fec5aebf6125d1f0a626ff3eb278f81b25eb37"
+    },
+    "grafana/k6": {
+        "tag": "v1.3.0",
+        "sha": "5870e99ae8a690a2b0bfc9a7dd2b5feb7c9851bb"
+    },
+    "grafana/loki": {
+        "tag": "v3.5.7",
+        "sha": "d5b382b90738505d8bf7217ff3a1a8c90fc09b7e"
+    },
+    "grafana/mimir": {
+        "tag": "mimir-2.17.1",
+        "sha": "c5ebb8f3e8de7b8c0c429152c2109db0be4f3ab4",
+        "use-releases": true
+    },
+    "grafana/nanogit": {
+        "branch": "main",
+        "sha": "36546af59156e4c0edb28ebb1c10a1729e71f1bf"
+    },
+    "grafana/pyroscope": {
+        "tag": "v1.15.0",
+        "sha": "38a40a93f921d7e66b0ef346d59e5d9dc28632bf"
+    },
+    "graphql-go/graphql": {
+        "tag": "v0.8.1",
+        "sha": "a9741863816e423e4287fd8947731d637451cf6c"
+    },
+    "gravitational/teleport": {
+        "tag": "v18.2.4",
+        "sha": "b7ab8694b2256c53b226875b58ad18ced86ae225"
+    },
+    "grpc-ecosystem/go-grpc-middleware": {
+        "tag": "v2.3.2",
+        "sha": "26edc2647555e12050b6def407c0544a49713529"
+    },
+    "grpc-ecosystem/grpc-gateway": {
+        "tag": "v2.27.3",
+        "sha": "ab243acfa3bcc5495c4e3923ca44aad7537e834c"
+    },
+    "grpc/grpc-go": {
+        "tag": "v1.76.0",
+        "sha": "d96c2ef4f3339142d20a47797d8a5a4fae948607"
+    },
+    "gruntwork-io/terragrunt": {
+        "tag": "v0.91.1",
+        "sha": "0ddeac17bab54a67e1be8db00210225d2de0fe22"
+    },
+    "gtsteffaniak/filebrowser": {
+        "tag": "v0.8.9-beta",
+        "sha": "728d80b9bb15644fa111f5de621cf3c7d43dbde3"
+    },
+    "guregu/dynamo": {
+        "tag": "v2.4.0",
+        "sha": "0b7190aeeff4afa14228cdec30e918689031fa6b"
+    },
+    "hamba/avro": {
+        "tag": "v2.30.0",
+        "sha": "59f4ba41ba131f4935a1c191c6d443a2c44b6f49"
+    },
+    "harvester/go-common": {
+        "branch": "main",
+        "sha": "a03d83f41a0f9bbc763c96e9934fd786cc81cc91"
+    },
+    "harvester/harvester-installer": {
+        "tag": "v1.6.1",
+        "sha": "67ab2c570a06f8382d0fbdbb1f933e0b07b5c8f6"
+    },
+    "hashicorp/consul": {
+        "tag": "v1.22.0-rc2",
+        "sha": "8f954fd3e5ac9dc712808cb44eb68faa79b92f9e"
+    },
+    "hashicorp/go-metrics": {
+        "tag": "v0.5.4",
+        "sha": "e30ca647817214904f3fd472775d359b5687b3ec"
+    },
+    "hashicorp/go-plugin": {
+        "tag": "v1.7.0",
+        "sha": "92fb14e530db1a4d6d1053adb0f823155f52165d"
+    },
+    "hashicorp/go-secure-stdlib": {
+        "branch": "main",
+        "sha": "594f3ad4e7ec0d6dfa4fd86481001ed6cab284ff"
+    },
+    "hashicorp/golang-lru": {
+        "tag": "v2.0.7",
+        "sha": "d8515860cebc7b25ff2d29fada3f10a43611c28b"
+    },
+    "hashicorp/hcl": {
+        "tag": "v2.24.0",
+        "sha": "6b5068090eef06b1f127f61529db5ba0be7ed343"
+    },
+    "hashicorp/mdns": {
+        "tag": "v1.0.6",
+        "sha": "5e3f63d678845523cfab47ea1e464942295a438a"
+    },
+    "hashicorp/nomad": {
+        "tag": "v1.10.5",
+        "sha": "a3b86c697f38ab032e1acaae8503ed10815bc4a2"
+    },
+    "hashicorp/packer": {
+        "tag": "v1.14.2",
+        "sha": "e703473a9baf87dfd62ea1c9a3dc6200decd5e32"
+    },
+    "hashicorp/terraform": {
+        "tag": "v1.13.4",
+        "sha": "e15f8b30b6e1ecf0d09bbe143c1525d9d2d51b54"
+    },
+    "hashicorp/terraform-exec": {
+        "tag": "v0.24.0",
+        "sha": "ec1840082254397b676b94cf10850fec6a819ae2"
+    },
+    "hashicorp/terraform-ls": {
+        "tag": "v0.38.2",
+        "sha": "a8eadc6277b76f02b69e5dfd7fd842715f9da9af"
+    },
+    "hashicorp/terraform-svchost": {
+        "tag": "v0.1.1",
+        "sha": "e07df17b6a8abe1a8056885f9a434226f9d58ad2"
+    },
+    "hashicorp/vault": {
+        "tag": "v1.20.4",
+        "sha": "55bd8f18c6c84aa89fdede4850a622c57f03bd7e"
+    },
+    "heetch/avro": {
+        "tag": "v0.4.79",
+        "sha": "c612002e62474559797b2b51de4b14e33bf5beec"
+    },
+    "helmfile/helmfile": {
+        "tag": "v1.1.7",
+        "sha": "4de4c46f87511e1f197d06d93cbdeb71f44dbb3a"
+    },
+    "heroku/heroku-go": {
+        "tag": "v6.1.0",
+        "sha": "605eb02728e186d820e626f1d2f75c4a96675bcf"
+    },
+    "heroku/x": {
+        "tag": "v0.5.2",
+        "sha": "fd66f9376bc07fa15ee0024b961e9cad8277848b"
+    },
+    "hetznercloud/cli": {
+        "tag": "v1.54.0",
+        "sha": "4240171d5be6808cab2453ef83f5be7779376d11"
+    },
+    "hetznercloud/hcloud-cloud-controller-manager": {
+        "tag": "v1.27.0",
+        "sha": "f5345d100f9b558fa3c2f06e9dfafa895e6acf48"
+    },
+    "hetznercloud/hcloud-go": {
+        "tag": "v2.27.0",
+        "sha": "7a591b7c57103f451f85e797f8818b38f0c3d1aa"
+    },
+    "hetznercloud/packer-plugin-hcloud": {
+        "tag": "v1.7.0",
+        "sha": "e6fa01c244fadd6e5ec8b48be61433ffb12f09cf"
+    },
+    "hjson/hjson-go": {
+        "tag": "v4.5.0",
+        "sha": "f3219653412abdb7bf061c55f58bde481db46051"
+    },
+    "hugelgupf/p9": {
+        "tag": "v0.3.0",
+        "sha": "474d91ee85f93c16693fd275fe41df393fb94c42"
+    },
+    "hyperjumptech/grule-rule-engine": {
+        "tag": "v1.20.4",
+        "sha": "9564ed9b66f5f916ef598e2f14d4224ec6aff4c3"
+    },
+    "hyperledger/firefly": {
+        "tag": "v1.4.0",
+        "sha": "dc3d2fa0d0552c38e350218e40112bf6d8fb9b47"
+    },
+    "hyperledger/firefly-common": {
+        "tag": "v1.5.7",
+        "sha": "06fda94c21eb96e87eb6f8bb8ed505e220367ac5"
+    },
+    "hypermodeinc/badger": {
+        "tag": "v4.8.0",
+        "sha": "b43f4aa69abb80cdbaadfc038d8cd7031d7892fd"
+    },
+    "hypermodeinc/dgo": {
+        "tag": "v250.0.0",
+        "sha": "1ce3fe0eac9085b5b433e241af0689090db072b6"
+    },
+    "hypermodeinc/dgraph": {
+        "tag": "v25.0.0",
+        "sha": "e6980befe54103c67f353ffaa311345747ebb147"
+    },
+    "hypermodeinc/ristretto": {
+        "tag": "v2.3.0",
+        "sha": "c9051e064a5eb98ad44e95c51a6a984a12052f84"
+    },
+    "ichiban/prolog": {
+        "tag": "v1.2.2",
+        "sha": "6375564ab31421106e3e1d727e4c0274750cfcd7"
+    },
+    "inconshreveable/log15": {
+        "tag": "v3.1.0",
+        "sha": "a6bfd6f6d697d710ad1736c30bd76b4fe25f867e"
+    },
+    "influxdata/influxdb-client-go": {
+        "tag": "v2.14.0",
+        "sha": "3a279a81be19d929e44e46020db0afde26730d72"
+    },
+    "influxdata/influxql": {
+        "tag": "v1.4.1",
+        "sha": "8c3e70e7de2b9c819f61c51fd1c9a694bafdc5c7"
+    },
+    "influxdata/telegraf": {
+        "tag": "v1.36.2",
+        "sha": "8bdd02655095ba64b18c3957d3f3ded16e1b7464"
+    },
+    "interuss/dss": {
+        "tag": "interuss/dss/v0.20.1",
+        "sha": "18c1d34ea241d26a9fd83701b10b49e61c58b9dd"
+    },
+    "ipfs/boxo": {
+        "tag": "v0.35.0",
+        "sha": "69ec427f5a604640cede7fc0a83446b96b1a5891"
+    },
+    "ipfs/go-ipfs-cmds": {
+        "tag": "v0.15.0",
+        "sha": "c40e32a0a2196eea5d0c819878f66fa854d5ea6e"
+    },
+    "ipfs/go-ipld-format": {
+        "tag": "v0.6.3",
+        "sha": "b4411f42758b6504d7796e5b812a9860e8a22fc9"
+    },
+    "ipfs/kubo": {
+        "tag": "v0.38.1",
+        "sha": "6bf52ae44b291504116fee635f58382ba7d35a8d"
+    },
+    "itchyny/gojq": {
+        "tag": "v0.12.17",
+        "sha": "f4c2cfe4c7ef54436cc791250bc66cf33dc44c7b"
+    },
+    "iyashjayesh/monigo": {
+        "tag": "v1.1.0",
+        "sha": "9284aaee53f2366536f529c547f9d98e8999be71"
+    },
+    "jackc/pgx": {
+        "tag": "v5.7.6",
+        "sha": "a2fca037434a0a7096b095d4ed87cdffb03b626e"
+    },
+    "jaegertracing/jaeger": {
+        "tag": "v2.11.0",
+        "sha": "c17f97d4add9f96e52852f8f238689568e8a48d9"
+    },
+    "jaegertracing/jaeger-operator": {
+        "tag": "v1.65.0",
+        "sha": "77c2ee4de53d07267002d6088e75eb7a34e5000d"
+    },
+    "jedib0t/go-pretty": {
+        "tag": "v6.6.8",
+        "sha": "3c86af826bbe2883c693e0ff28b0fdd4fc3a9846"
+    },
+    "jesseduffield/lazydocker": {
+        "tag": "v0.24.1",
+        "sha": "be051153525b018a46f71a2b2ed42cde39a1110c"
+    },
+    "jesseduffield/lazygit": {
+        "tag": "v0.55.1",
+        "sha": "3de12b7fde56cec5d0fc27b1986180c27e50d971"
+    },
+    "jezek/xgb": {
+        "tag": "v1.1.1",
+        "sha": "173fab59d6200a1502285d5d66cc21c732122a96"
+    },
+    "jmattheis/goverter": {
+        "tag": "v1.9.2",
+        "sha": "635b101998a6cc2e5e90287cc4c681ecd97bf223"
+    },
+    "joho/godotenv": {
+        "tag": "v1.6.0-pre.2",
+        "sha": "3a7a19020151b45a29896c9142723efe5b11a061"
+    },
+    "joomcode/errorx": {
+        "tag": "v1.2.0",
+        "sha": "3280086cb5400e2900300ba010ddf658fa717fc4"
+    },
+    "joyme123/thrift-ls": {
+        "tag": "v0.2.9",
+        "sha": "14a67cbfd9d27214df4ca4b9972a7f6a2c609f3c"
+    },
+    "jpillora/chisel": {
+        "tag": "v1.11.3",
+        "sha": "d56938d7a26e5ee9f50f390822a6a334ad8fd70d"
+    },
+    "jroimartin/gocui": {
+        "tag": "v0.5.0",
+        "sha": "de100503e6c3afcfd3ed101e7263ada4166f634c"
+    },
+    "jschaf/pggen": {
+        "tag": "2023-10-16",
+        "sha": "8ecc0cbb97740104749b48689c6a47515d83d16a",
+        "use-releases": true
+    },
+    "juanfont/headscale": {
+        "tag": "v0.26.1",
+        "sha": "474ea236d0c6d393dbcf7baa98da240ad20c1b66"
+    },
+    "juju/errors": {
+        "tag": "v1.0.0",
+        "sha": "54a94488269b924b361ff837cd38e75fb507e48c"
+    },
+    "junegunn/fzf": {
+        "tag": "v0.66.0",
+        "sha": "8cdfb23df69df0a991d122185b00e8900875a8cf"
+    },
+    "junioryono/godi": {
+        "tag": "v4.2.0",
+        "sha": "95718a43647bb674b5a7ff595ac8425f60ea0385"
+    },
+    "k1LoW/deck": {
+        "tag": "v1.21.5",
+        "sha": "c527096f36174157794001a57d36511e459a9e9f"
+    },
+    "k8snetworkplumbingwg/multus-cni": {
+        "tag": "v4.2.2",
+        "sha": "00adf22482945de41ff702258593aaf867a48e2d"
+    },
+    "k8snetworkplumbingwg/whereabouts": {
+        "tag": "v0.9.2",
+        "sha": "ca9999047360f45de7a05dd584c6e52771b3e91a"
+    },
+    "kcp-dev/kcp": {
+        "tag": "v0.28.3",
+        "sha": "b4fde00e6be6f4a1a45c217405059cdd84e55a35"
+    },
+    "kcp-dev/kcp-operator": {
+        "branch": "main",
+        "sha": "3b0930f664d853934671fe187cdf3d7528195c28"
+    },
+    "keploy/keploy": {
+        "tag": "v2.11.9",
+        "sha": "de98d704cf90f9a7fc805af3d6d26f8b7997cf85"
+    },
+    "keptn/lifecycle-toolkit": {
+        "tag": "metrics-operator-v2.1.0",
+        "sha": "73bbba208ca6184a0406fd2e251472f22e2d4463"
+    },
+    "kevinburke/ssh_config": {
+        "tag": "v1.4.0",
+        "sha": "d87420c3e28c1ebb3b8a1f39592c925bfbb8174c"
+    },
+    "keybase/client": {
+        "tag": "v6.5.1",
+        "sha": "19f9cfeddb22d7206404987aed5300bfd667d7df"
+    },
+    "keybase/go-keychain": {
+        "tag": "v0.0.1",
+        "sha": "dd79abb5f55f5239037126b5943c0b1335a84abc"
+    },
+    "kisielk/errcheck": {
+        "tag": "v1.9.0",
+        "sha": "11c27a7ce69d583465d80d808817d22d6653ee34"
+    },
+    "klauspost/compress": {
+        "tag": "v1.18.0",
+        "sha": "8e79dc4b98d4c5a09c62a2546b79c14edf7c3e38"
+    },
+    "klauspost/cpuid": {
+        "tag": "v2.3.0",
+        "sha": "f871662950fd6434e19bb056fb1f6efb6eba6144"
+    },
+    "kmodules/objectstore-api": {
+        "tag": "v0.32.2",
+        "sha": "49315ac48b7fcf950ab026a8618740dbb7f7bba9"
+    },
+    "kmodules/peer-finder": {
+        "tag": "v1.3.0",
+        "sha": "b91059b3ae76b679cf38ee1cd2def47e7c348f9f"
+    },
+    "kmodules/resource-metadata": {
+        "tag": "v0.37.1",
+        "sha": "a75da1f2637e01674ce60920d4c274068623c26f"
+    },
+    "knadh/listmonk": {
+        "tag": "v5.1.0",
+        "sha": "30846f84154659ad0b365a3d7c9fe2231dd0d3c2"
+    },
+    "knative/serving": {
+        "tag": "v0.46.6",
+        "sha": "634af56a66521e8312dc81d262223deae07705e3"
+    },
+    "ko-build/ko": {
+        "tag": "v0.18.0",
+        "sha": "d2060342e9c7884194861b400435d9c93d35fa2b"
+    },
+    "kptdev/kpt": {
+        "tag": "v1.0.0-beta.58",
+        "sha": "4b19eb8d71daa3c802946d6de41cb61a10d650ac"
+    },
+    "kptdev/krm-functions-sdk": {
+        "branch": "master",
+        "sha": "03a9634d08094f910c74570951435a1d0bd66855"
+    },
+    "kro-run/kro": {
+        "tag": "v0.4.1",
+        "sha": "e5bb334d42df910fc27b100eb14ac2e1bbe26339"
+    },
+    "kubeedge/kubeedge": {
+        "tag": "v1.21.0",
+        "sha": "2aa397a72e538821afde98a63b33d00052e23dec"
+    },
+    "kuberhealthy/kuberhealthy": {
+        "tag": "v2.8.0-rc2",
+        "sha": "d19c1074e3a1db8cfba1269bcb622e75d46f54fe"
+    },
+    "kubermatic/dashboard": {
+        "tag": "v2.28.3",
+        "sha": "edb954a16a5b5887077f053de5c9411479b9c35f"
+    },
+    "kubermatic/kubermatic": {
+        "tag": "v2.28.3",
+        "sha": "d8c06e9d6064fd360fdeffccf9a5036285a8aa5e"
+    },
+    "kubernetes-sigs/cli-utils": {
+        "tag": "v0.37.2",
+        "sha": "0a569f59bebe08eb86f0fb530741343b10e01249"
+    },
+    "kubernetes-sigs/cluster-api": {
+        "tag": "v1.11.2",
+        "sha": "a3139c21c0dbd6d7a930abbe6bd2050c60f328bc"
+    },
+    "kubernetes-sigs/controller-runtime": {
+        "tag": "v0.22.3",
+        "sha": "3e8b2594ffc4811fc59888a3edab739e3e222e25"
+    },
+    "kubernetes-sigs/external-dns": {
+        "tag": "v0.19.0",
+        "sha": "eafce22825a6565c5f228e49bcfc117b128786a9"
+    },
+    "kubernetes-sigs/gateway-api": {
+        "tag": "v1.4.0",
+        "sha": "5e5891a5adad272363de782eb02a042166f1913c"
+    },
+    "kubernetes-sigs/krew": {
+        "tag": "v0.4.5",
+        "sha": "e7e5b619d0defd3fe53f66ce7e7330b21386e944"
+    },
+    "kubernetes-sigs/kube-api-linter": {
+        "branch": "main",
+        "sha": "502783c08f9db0a94a45f4cae1b0bd53a6ee3642"
+    },
+    "kubernetes-sigs/kubebuilder": {
+        "tag": "v4.9.0",
+        "sha": "5e331e74c7a25c8e8fc0d9d5c33c319b7268f395"
+    },
+    "kubernetes-sigs/kueue": {
+        "tag": "v0.14.1",
+        "sha": "bcdc1e482ba64f56fee107a1e5a27646825ab9e6"
+    },
+    "kubernetes-sigs/kustomize": {
+        "tag": "v3.3.1",
+        "sha": "f2ac5a2d0df13c047fb20cbc12ef1a3b41ce2dad"
+    },
+    "kubernetes-sigs/prow": {
+        "branch": "main",
+        "sha": "82874076e6948ca009ad262e723ba4eadaa01873"
+    },
+    "kubernetes-sigs/tejolote": {
+        "tag": "v0.4.1",
+        "sha": "095bd638d7b6684ae55db3798db598467d2f0a55"
+    },
+    "kubernetes-sigs/yaml": {
+        "tag": "v1.6.0",
+        "sha": "048d724aca2d37ddb5b03c90b5b4550a3a48766d"
+    },
+    "kubernetes-sigs/zeitgeist": {
+        "tag": "v0.5.4",
+        "sha": "9bef11d4dab10ee15d10fa56dcc3c3f63290648d"
+    },
+    "kubernetes/apimachinery": {
+        "tag": "v0.35.0-alpha.1",
+        "sha": "9137522523dd636bf8e188bed8cf5c9ff93ab371"
+    },
+    "kubernetes/client-go": {
+        "tag": "v0.35.0-alpha.1",
+        "sha": "4256cfda8622b83ea02063014d4261a66a3102a7",
+        "maxv": "v1"
+    },
+    "kubernetes/dashboard": {
+        "tag": "web/v1.7.0",
+        "sha": "7198d4a2a6170111a05a6daadaf8b18473f2ce67"
+    },
+    "kubernetes/endpointslice": {
+        "tag": "v0.35.0-alpha.1",
+        "sha": "826c7f9f5d88887a5fa948c0f104d2d856bc183e"
+    },
+    "kubernetes/klog": {
+        "tag": "v2.130.1",
+        "sha": "75663bb798999a49e3e4c0f2375ed5cca8164194"
+    },
+    "kubernetes/kompose": {
+        "tag": "v1.37.0",
+        "sha": "fb0539e64caa417fd2c99b7196c34ccfb95c5027"
+    },
+    "kubernetes/kops": {
+        "tag": "v1.33.1",
+        "sha": "fa63cb3b047ec28b45aebe0b179e2125cb9efb23"
+    },
+    "kubernetes/kube-openapi": {
+        "branch": "master",
+        "sha": "589584f1c912f4367fe8954f649a59a98b912da5"
+    },
+    "kubernetes/kubectl": {
+        "tag": "v0.35.0-alpha.1",
+        "sha": "6f27988ee2640f03056c38cf7372ae216d08a29d"
+    },
+    "kubernetes/kubernetes": {
+        "tag": "v1.35.0-alpha.1",
+        "sha": "2e2c63ef731ff1526321b4f81508734d68df2872"
+    },
+    "kubernetes/utils": {
+        "branch": "master",
+        "sha": "bc988d571ff40eb17793769e9c1b71ecf8ee9c0f"
+    },
+    "kyverno/chainsaw": {
+        "tag": "v0.2.13",
+        "sha": "2fa48df73e91ca316b2466d3178ffb46f03d8203"
+    },
+    "kyverno/kyverno": {
+        "tag": "v1.15.2",
+        "sha": "f4ffc2d43d2d93b3daf3e5a9cb8a5d42738aba4b"
+    },
+    "kyverno/policy-reporter": {
+        "tag": "v3.5.0",
+        "sha": "6bd9f8e9d97381006142df5a724e71c544753fde"
+    },
+    "labstack/echo": {
+        "tag": "v4.13.4",
+        "sha": "98ca08e7dd64075b858e758d6693bf9799340756"
+    },
+    "launchdarkly/go-server-sdk": {
+        "tag": "v7.13.4",
+        "sha": "36dad5079d3d5601fe349e70658ffb974141aec0"
+    },
+    "ldez/gomoddirectives": {
+        "tag": "v0.7.1",
+        "sha": "0fdd912ad2a374e2dd46d07cdef31b57e42d9251"
+    },
+    "letsencrypt/boulder": {
+        "tag": "v0.20251014.0",
+        "sha": "d1422d2b158851746b4bcc04dda054d352ffdd42",
+        "use-releases": true
+    },
+    "letsencrypt/pebble": {
+        "tag": "v2.8.0",
+        "sha": "d52948ce25e7c1576bcd18ff0e20a1c24ec7c44b"
+    },
+    "letsencrypt/unbound_exporter": {
+        "tag": "v0.4.6",
+        "sha": "ab17c00752b8988e5045db3d8395d3715eae5aad"
+    },
+    "lib/pq": {
+        "tag": "v1.10.9",
+        "sha": "2a217b94f5ccd3de31aec4152a541b9ff64bed05"
+    },
+    "libdns/cloudflare": {
+        "tag": "v0.2.1",
+        "sha": "48429caecdd7a9aff9dcabd4b5fe8f45a7bf35b3"
+    },
+    "libdns/googleclouddns": {
+        "tag": "v2.0.0",
+        "sha": "d10a7b19c04ad689bce0e44ac59ccfb94f7570f3"
+    },
+    "libdns/libdns": {
+        "tag": "v1.1.1",
+        "sha": "6071c1f4fbaa59dac34d456c5b701dc8ecb73bbe"
+    },
+    "libdns/netcup": {
+        "tag": "v1.0.0",
+        "sha": "7f6b953a312527df00029a15f808c6eb725e7eb1"
+    },
+    "libp2p/go-libp2p": {
+        "tag": "v0.44.0",
+        "sha": "bc0a6d52f507f378b7e6e66979b5cbd82c239bef"
+    },
+    "libp2p/go-reuseport": {
+        "tag": "v0.4.0",
+        "sha": "ac34b4fb35437abcc176b5bb97cc431d62d983e0"
+    },
+    "linkedin/Burrow": {
+        "tag": "v1.9.5",
+        "sha": "ced55ba90f6b833a45a124d411fd5eef63a70933"
+    },
+    "linkedin/diderot": {
+        "tag": "v0.3.0",
+        "sha": "0f097ed7e7c2188c66ef2b60a883444090f17d0b"
+    },
+    "linkedin/goavro": {
+        "tag": "v2.14.0",
+        "sha": "727e6cd8c3dd095d925f6eca18e3814d3fa94aa7"
+    },
+    "linkerd/linkerd2": {
+        "tag": "edge-25.10.4",
+        "sha": "83181ba713529fbecae363dee030d897b735defa",
+        "use-releases": true
+    },
+    "linode/linodego": {
+        "tag": "v1.60.0",
+        "sha": "3ed046671e6c49f84a5d61f3e386dc20d4a71b76"
+    },
+    "livekit/livekit": {
+        "tag": "v1.9.2",
+        "sha": "484f784a436d58169e9cf0884e56cbbe305966dc"
+    },
+    "logrusorgru/aurora": {
+        "tag": "v4",
+        "sha": "45e9eab282ea00a58e43fca3074c14e1c0c8cef9"
+    },
+    "loov/goda": {
+        "tag": "v0.7.1",
+        "sha": "821a04674f37c3721112e9766dde58ea48d84259"
+    },
+    "lovoo/goka": {
+        "tag": "v1.1.14",
+        "sha": "e3997d4ef01a22bb53b6d3728350b2e70ea44aba"
+    },
+    "luci/luci-go": {
+        "branch": "main",
+        "sha": "803b717cb0b9fac5fb138c6f931ade6ef44390e1"
+    },
+    "magiconair/properties": {
+        "tag": "v1.8.10",
+        "sha": "281f515b93cf755020c587f2ffcbdee2322f3615"
+    },
+    "mark3labs/mcp-go": {
+        "tag": "v0.41.1",
+        "sha": "a1dd4efa3cc999c162642c4bd19016219d837072"
+    },
+    "mark3labs/mcphost": {
+        "tag": "v0.31.3",
+        "sha": "d3281a2f01db46c8a8c8567e3b3854e07c82a98a"
+    },
+    "matryer/moq": {
+        "tag": "v0.6.0",
+        "sha": "66a933417c1a7ca1302529db332fecbf77e166d9"
+    },
+    "mattermost/mattermost": {
+        "tag": "v11.0.2",
+        "sha": "7977e7e6dae3e13ded929a1bef2897d455456e5e"
+    },
+    "mattn/efm-langserver": {
+        "tag": "v0.0.54",
+        "sha": "bad115b56bd96f517e25d66ca660d5f194af629e"
+    },
+    "mattn/go-mastodon": {
+        "tag": "v0.0.10",
+        "sha": "6efc40b8f8029c38be08215233405cfd0cfbf67d"
+    },
+    "matzefriedrich/parsley": {
+        "tag": "v1.1.5",
+        "sha": "8c4659ae487b9bef9d333efdbbd9346b526dc671"
+    },
+    "mautrix/whatsapp": {
+        "tag": "v0.2510.0",
+        "sha": "9802479e6b67c71d04113cb1721848f0d37c236e"
+    },
+    "mdp/qrterminal": {
+        "tag": "v3.2.1",
+        "sha": "4e76afd10340aac2b71923d765da2ad506870bbb"
+    },
+    "mediocregopher/radix": {
+        "tag": "v4.1.4",
+        "sha": "a23d6b1ac412101d35f887bbfd1996a74de8d31d"
+    },
+    "mercedes-benz/car-integrated-service-mesh-architecture": {
+        "branch": "main",
+        "sha": "bcbb505a3a291ced8eb551c6c1c804d26da9f5f6"
+    },
+    "mercedes-benz/gitflow-cli": {
+        "tag": "v1.2.0",
+        "sha": "0c7640787a5d45af5c24a8d8e133d5418e40512b"
+    },
+    "metoro-io/mcp-golang": {
+        "tag": "v0.16.0",
+        "sha": "1572ffcc9c00e9666a210a56815942720ca73f39"
+    },
+    "mgechev/revive": {
+        "tag": "v1.12.0",
+        "sha": "e1d05f7a0e941fe7377279012e22b631e6e3df26"
+    },
+    "mholt/acmez": {
+        "tag": "v3.1.4",
+        "sha": "f6b8d4a2ad00390c25d0c66f7000b2992b4a8ff6"
+    },
+    "mholt/archives": {
+        "tag": "v0.1.5",
+        "sha": "e30ac601072652c24878b23f9af87ede968dca24"
+    },
+    "microsoft/fabric-sdk-go": {
+        "tag": "v0.12.0",
+        "sha": "ba2fd5b096114980bbcddb9b5404dc52d86f4305"
+    },
+    "microsoft/tyger": {
+        "tag": "v0.13.5",
+        "sha": "ecb337e7e331bbe719b446a49cf61d8596749406"
+    },
+    "microsoft/typescript-go": {
+        "branch": "main",
+        "sha": "80e287b8e3670718a0d427efd44a8e0633aee765"
+    },
+    "miekg/dns": {
+        "repo": "https://codeberg.org",
+        "tag": "v0.5.14",
+        "sha": "f425febc81a103c6b6e5c238354b5478b22c2275"
+    },
+    "miekg/gitopper": {
+        "tag": "v0.7.1",
+        "sha": "7b7d91e6be2f6a2a60c73f00a7e053d86804ef6d"
+    },
+    "mikefarah/yq": {
+        "tag": "v4.48.1",
+        "sha": "0ecdce24e83f0fa127940334be98c86b07b0c488"
+    },
+    "mindersec/minder": {
+        "tag": "v0.1.1",
+        "sha": "fe48fe93525bc09c8f1f91bd56bc7a6b2204ec81"
+    },
+    "minio/minio": {
+        "tag": "RELEASE.2025-10-15T17-29-55Z",
+        "sha": "9e49d5e7a648f00e26f2246f4dc28e6b07f8c84a",
+        "use-releases": true
+    },
+    "minio/minio-go": {
+        "tag": "v7.0.95",
+        "sha": "bd91926e6b4d828b4b5072088fd8b4a6a7a44eab"
+    },
+    "minio/minlz": {
+        "tag": "v1.0.1",
+        "sha": "87eb42fe8882cf08d25a932300ffcaa7ea8eafd8"
+    },
+    "minio/pkg": {
+        "tag": "v3.4.2",
+        "sha": "3ed3c211a063b62dffbb77206fa605a55b347aee"
+    },
+    "moby/buildkit": {
+        "tag": "v0.25.1",
+        "sha": "1d4469a951d329d6815394b21084aeca512fcb0d"
+    },
+    "moby/go-archive": {
+        "tag": "v0.1.0",
+        "sha": "9ec1e6e329273f4a3f0a445d8c0fb73c9b16bbe5"
+    },
+    "moby/swarmkit": {
+        "tag": "v2.1.1",
+        "sha": "3a23580599a45034467695b859a0e794e62bddfa"
+    },
+    "modelcontextprotocol/go-sdk": {
+        "tag": "v1.0.0",
+        "sha": "1c3f38f777421774329bc81aefec0e8c0caffdb0"
+    },
+    "modelcontextprotocol/registry": {
+        "tag": "v1.3.3",
+        "sha": "0828bc483c5a8466b250c3c370c02d79e1c16c47"
+    },
+    "mongodb/mongo-go-driver": {
+        "tag": "v2.3.1",
+        "sha": "d38fa23cf48c819969724492d5c942904ce9d6c2"
+    },
+    "mongodb/mongo-tools": {
+        "branch": "master",
+        "sha": "61405b8ff290567a4e5d76300825ce4946b27b12"
+    },
+    "mostafa/xk6-kafka": {
+        "tag": "v1.1.0",
+        "sha": "911dee5bba21fbd7e6e1c23f0ee07509d5186348"
+    },
+    "mrjosh/helm-ls": {
+        "tag": "v0.5.2",
+        "sha": "ca06a300b65ad198c20a676b92c3d9ff5d6a45eb"
+    },
+    "mudler/yip": {
+        "tag": "v1.18.1",
+        "sha": "88e21bcca12acec94f03d1caf615ac51c60459f9"
+    },
+    "muesli/termenv": {
+        "tag": "v0.16.0",
+        "sha": "2e6fa35162bb1c735367736319813b2dc01a77a4"
+    },
+    "multiformats/go-multiaddr": {
+        "tag": "v0.16.1",
+        "sha": "3b99966d90a2cefddd7a3a03996a11721dad6589"
+    },
+    "mutagen-io/mutagen": {
+        "tag": "v0.18.1",
+        "sha": "a225ae50aee3d7ebb59139203cb84e8a6a3ff4bf"
+    },
+    "mvdan/gofumpt": {
+        "tag": "v0.9.1",
+        "sha": "ea1909574445e99958cdcd3416c6bf3a4bb64dfa"
+    },
+    "mvdan/sh": {
+        "tag": "v3.12.0",
+        "sha": "8202166b7d1e3473a7c65eeac53ddbdb55d5b808"
+    },
+    "mvdkleijn/forgejo-sdk": {
+        "repo": "https://codeberg.org",
+        "tag": "forgejo/v2.2.0",
+        "sha": "d5304d0d71f528ab213d0cadc289d5771f935e97"
+    },
+    "nalgeon/redka": {
+        "tag": "v0.6.0",
+        "sha": "0b64e86e69b99946a641bd5a3665f913c8cb8d3e"
+    },
+    "nats-io/graft": {
+        "branch": "main",
+        "sha": "97395d62ec95c16d74e205c1e9176b008c80e9f8"
+    },
+    "nats-io/jsm.go": {
+        "tag": "v0.3.0",
+        "sha": "82167acbdcf0957c21d504bf7c7a5c3c9bc048ea"
+    },
+    "nats-io/nats-server": {
+        "tag": "v2.12.1",
+        "sha": "fab5f999a25dfcdbd4c80d6f7c43cf87f571968f"
+    },
+    "nats-io/nats.go": {
+        "tag": "v1.47.0",
+        "sha": "01f1814fb350e62ed67a8125bcaaa63c391cc932"
+    },
+    "nats-io/nkeys": {
+        "tag": "v0.4.11",
+        "sha": "cf5e93d3187a266d33f60aa95de13bb216db0469"
+    },
+    "nektos/act": {
+        "tag": "v0.2.82",
+        "sha": "3d71542867d7cbdac6a75e540be6f64362e94de2"
+    },
+    "nephio-project/nephio": {
+        "tag": "v5.0.0",
+        "sha": "a4e188f05e18e0bcfdcea1d093bba451a39e4ae5"
+    },
+    "nephio-project/porch": {
+        "tag": "v4.1.2",
+        "sha": "64530808e0228ec8da8081a2e50c3e87738d8dad"
+    },
+    "nezhahq/nezha": {
+        "tag": "v1.14.9",
+        "sha": "9d1ee6f54326974659260b4793fbdbaae4ecfc0d"
+    },
+    "ngrok/ngrok-go": {
+        "tag": "v2.1.0",
+        "sha": "68351cc649fd46714d32b61c61fdf18d439aec8f"
+    },
+    "njayp/ophis": {
+        "tag": "v1.0.5",
+        "sha": "1c1cf0517d57c29288d3d928471f04700767e78b"
+    },
+    "noneback/go-taskflow": {
+        "tag": "v1.1.3",
+        "sha": "db2a424ec6b6f2c35b8bc1dd77da63973de5c93b"
+    },
+    "notaryproject/notation": {
+        "tag": "v1.3.2",
+        "sha": "001cc919603c1dc16c6aad387c94b4209cb9c901"
+    },
+    "notaryproject/notation-core-go": {
+        "tag": "v1.3.0",
+        "sha": "ef8789627fc3c764e1563a2999b33381e7992963"
+    },
+    "notaryproject/notation-go": {
+        "tag": "v1.3.2",
+        "sha": "34a1aba2261cbe97b597ec96e440a61f6aadc416"
+    },
+    "notaryproject/ratify": {
+        "tag": "v1.4.0",
+        "sha": "f3f6229dee1051e4beb580ec17ad68b7a45f23af"
+    },
+    "notaryproject/tspclient-go": {
+        "tag": "v1.0.0",
+        "sha": "543cd58803b6c7260bad9bc78973a47ab02f249a"
+    },
+    "nytimes/openapi2proto": {
+        "tag": "v0.2.2",
+        "sha": "96cd4a9269a4749a493cef472578de974ada6380"
+    },
+    "oapi-codegen/oapi-codegen": {
+        "tag": "v2.5.0",
+        "sha": "13eea66b2bf673f56fc270af5699830187d01daf"
+    },
+    "oauth2-proxy/oauth2-proxy": {
+        "tag": "v7.12.0",
+        "sha": "5082db0bec432132651cc62a9cecba8d9c718823"
+    },
+    "oklog/run": {
+        "tag": "v1.2.0",
+        "sha": "c769e58231538f7fd0d007938f68e8caae45608c"
+    },
+    "ollama/ollama": {
+        "tag": "v0.12.6",
+        "sha": "1813ff85a027d7d4d76761a2bf12c2198dfaa0cf"
+    },
+    "olric-data/olric": {
+        "tag": "v0.7.0",
+        "sha": "23297a60229b70fa5188ec5c4cc61668573e03ea"
+    },
+    "onsi/ginkgo": {
+        "tag": "v2.26.0",
+        "sha": "02f7324631e5805325d0a44a41210e38bfd4c1e0"
+    },
+    "onsi/gomega": {
+        "tag": "v1.38.2",
+        "sha": "79b8a75a10e36ee598344c040317f5ab1c907f53"
+    },
+    "open-feature/go-sdk": {
+        "tag": "v1.16.0",
+        "sha": "40fe27eca801dc7ffb4865e403bc2f407fddc339"
+    },
+    "open-policy-agent/cert-controller": {
+        "tag": "v0.14.0",
+        "sha": "e66da79b5e8ba244baf5380c2fe2d60e829cba50"
+    },
+    "open-policy-agent/conftest": {
+        "tag": "v0.63.0",
+        "sha": "c7aa1d404a8650de80236983ee77b7626bb31048"
+    },
+    "open-policy-agent/frameworks": {
+        "tag": "v0.18.1",
+        "sha": "a139325b6501cb78a63c5d69dd87f75df53a6a84"
+    },
+    "open-policy-agent/gatekeeper": {
+        "tag": "v3.21.0-beta.0",
+        "sha": "62f8921e2a06da20fae50139b0a27a81c7164c28"
+    },
+    "open-policy-agent/opa": {
+        "tag": "v1.9.0",
+        "sha": "c49e670294e45bb3fd76b9e945cf821478a4bbfc"
+    },
+    "open-policy-agent/opa-envoy-plugin": {
+        "tag": "v1.9.0-envoy",
+        "sha": "6456fcf9841fb47825bdf24ae96907c6d3a45857"
+    },
+    "open-telemetry/opentelemetry-collector": {
+        "tag": "v0.137.0",
+        "sha": "3b5555471b93052c4fbe4ef412d974a999d1b27f"
+    },
+    "open-telemetry/opentelemetry-collector-contrib": {
+        "tag": "v0.137.0",
+        "sha": "7e4bf11279e5b454980626237ccd1417b7e0e26a"
+    },
+    "open-telemetry/opentelemetry-go": {
+        "tag": "v1.38.0",
+        "sha": "84e3f3ac8b25204f3a0f77a805437a5e08573b35"
+    },
+    "open-telemetry/opentelemetry-go-contrib": {
+        "tag": "v1.38.0",
+        "sha": "80c9316336ebb4f4c67d8e1011a3add889213fb7"
+    },
+    "openai/openai-go": {
+        "tag": "v3.5.0",
+        "sha": "d83922b7171eac4ddd5f28bea9c39c47d865590e"
+    },
+    "openbao/go-secure-stdlib": {
+        "branch": "main",
+        "sha": "dd6f764b8f0bc880ae2e7025455835c577b5042f"
+    },
+    "openbao/openbao": {
+        "tag": "v2.4.1",
+        "sha": "efb9efa12f550e8322f3cec040862355e966f565"
+    },
+    "openbao/openbao-plugins": {
+        "tag": "secrets-aws-v0.2.0",
+        "sha": "d0dbd6ade7d99623f86185b9221d069a24657fa5",
+        "use-releases": true
+    },
+    "opencode-ai/opencode": {
+        "tag": "v0.0.55",
+        "sha": "4427df587f3c636002b66dba467a338fe948c828"
+    },
+    "openfga/openfga": {
+        "tag": "v1.10.3",
+        "sha": "293893b22a53d8a130a5f7c97cab4bc8e91bcaa4"
+    },
+    "openhue/openhue-go": {
+        "tag": "v0.4.0",
+        "sha": "4463ff6b442329afdcf8858a86a3e58f3a148231"
+    },
+    "opensearch-project/opensearch-go": {
+        "tag": "v4.5.0",
+        "sha": "1e740607bb9629b32080ed83afc117acf60ee652"
+    },
+    "opentelekomcloud/gophertelekomcloud": {
+        "tag": "v0.9.5",
+        "sha": "25465abc3e1abaf7d0fff1f1a9a0134cfd72340d"
+    },
+    "opentelekomcloud/provider-opentelekomcloud": {
+        "tag": "v0.5.0",
+        "sha": "3e1589717003484baba1c51bdf98dc6f18ea2bd8"
+    },
+    "opentofu/opentofu": {
+        "tag": "v1.10.6",
+        "sha": "1f0c3de8dc7471db05eb2411cee7a90185693200"
+    },
+    "opentofu/registry": {
+        "branch": "main",
+        "sha": "afab3ad6a4eaf1fbf65e4fbb3af62b698e7a0932"
+    },
+    "opentofu/tofu-ls": {
+        "tag": "v0.1.1",
+        "sha": "b18214d77e8e5fb8d4632f9d0dd67977a4d9dcd4"
+    },
+    "operator-framework/api": {
+        "tag": "v0.35.0",
+        "sha": "bef2351bb84e27fb2deee8ee78e0d670120efb8f"
+    },
+    "operator-framework/operator-lib": {
+        "tag": "v0.19.0",
+        "sha": "44e6f81c9b0be120bda038184b1de61fb6136d21"
+    },
+    "operator-framework/operator-lifecycle-manager": {
+        "tag": "v0.36.0",
+        "sha": "589a5d0cc11ee76518173c9a21ce3f1adc15fa78"
+    },
+    "ory/cli": {
+        "tag": "v1.2.0",
+        "sha": "0e0da3c44491277d0aabeb720dc90e0c046bfc4a"
+    },
+    "ory/dockertest": {
+        "tag": "v3.12.0",
+        "sha": "8a76ff064a81dda59a3839f908b85e4df79d755a"
+    },
+    "ory/fosite": {
+        "tag": "v0.49.0",
+        "sha": "653c812bc40cbda049857b432ad3346f1a53d42d"
+    },
+    "ory/herodot": {
+        "tag": "v0.10.6",
+        "sha": "3a4a6e70433ea4c612b1058ccb47e1ac6aa011ad"
+    },
+    "ory/hydra": {
+        "tag": "v2.3.0",
+        "sha": "ee8c339ddada3a42529c0416897abc32bad03bbb"
+    },
+    "ory/keto": {
+        "tag": "v0.14.0",
+        "sha": "613779b6dad89f6fb6b4fa6968f13ede11963c97"
+    },
+    "ory/kratos": {
+        "tag": "v1.3.1",
+        "sha": "36e624c716e45ab405599c71b42c384dd45bdfbb"
+    },
+    "ory/ladon": {
+        "tag": "v1.3.0",
+        "sha": "972387f17e29c529ad3ff42a8423117825409cd7"
+    },
+    "ory/oathkeeper": {
+        "tag": "v0.40.9",
+        "sha": "05493f338b14d8cfcd5c9eefdaf194a65c606726"
+    },
+    "ory/x": {
+        "tag": "v0.0.729",
+        "sha": "dc85614cf20e5d2ffa44d5e2108fcd1244f62157"
+    },
+    "osmosis-labs/osmosis": {
+        "tag": "v30.0.5",
+        "sha": "ecdfe692cb3fc6e683472e119d8e3acc6d08509e"
+    },
+    "ossf/allstar": {
+        "tag": "v4.5",
+        "sha": "7fac64aa00eaeebfa9e6a21b582f34ed715df560"
+    },
+    "ossf/scorecard": {
+        "tag": "v5.3.0",
+        "sha": "c22063e786c11f9dd714d777a687ff7c4599b600"
+    },
+    "ovh/cds": {
+        "tag": "v0.56.0",
+        "sha": "8e42419d243d7eb6c0a36d1acb6c126ef2632fae"
+    },
+    "ovh/configstore": {
+        "tag": "v0.8.2",
+        "sha": "b8491c017ff8db7feda93c93f4751e0ba081fc00"
+    },
+    "ovh/go-ovh": {
+        "tag": "v1.9.0",
+        "sha": "4d1c12e91714a48f1a6985702a052770e2477cf9"
+    },
+    "ovh/kmip-go": {
+        "tag": "v0.7.1",
+        "sha": "732e497c53638088acc3cbad00b1227d40346b7d"
+    },
+    "ovh/terraform-provider-ovh": {
+        "tag": "v2.8.0",
+        "sha": "115794e20d7ad37e63ccfc83869e3136860ecd6d"
+    },
+    "ovh/utask": {
+        "tag": "v1.33.3",
+        "sha": "22c45f9cee64c80fcc2640ae58bd81a0017d4ac7"
+    },
+    "ovh/venom": {
+        "tag": "v1.3.0-beta.3",
+        "sha": "db5709b2c50adc01905136d1c27ed69edd5c1b05"
+    },
+    "parca-dev/oomprof": {
+        "branch": "main",
+        "sha": "ec00408377fba70a12cada4e0c2fca5b04314ce7"
+    },
+    "parca-dev/parca-agent": {
+        "tag": "v0.42.0",
+        "sha": "2fd5666bf8204d640ed23447cb2d9b4a45b91986"
+    },
+    "parquet-go/parquet-go": {
+        "tag": "v0.25.1",
+        "sha": "7588a8d7ac48b819d2329c8426181fc9c215a463"
+    },
+    "pb33f/libopenapi": {
+        "tag": "v0.28.0",
+        "sha": "a946f440acbe57f634cd0500a2f3c074267243d9"
+    },
+    "pb33f/libopenapi-validator": {
+        "tag": "v0.7.0",
+        "sha": "69c8af16c501facb7e10684b494484b02ba8e426",
+        "maxv": "v0.40"
+    },
+    "pdfcpu/pdfcpu": {
+        "tag": "v0.11.0",
+        "sha": "9a9da0955f053dffb0db24b77993a1ed49b6e2c1"
+    },
+    "pelletier/go-toml": {
+        "tag": "v2.2.4",
+        "sha": "ee07c9203b72060f12e31c04ace80e8a187d5a67"
+    },
+    "peterbourgon/ff": {
+        "tag": "v4.0.0-beta.1",
+        "sha": "012e82713b8ac4f2a59810ababd78e034c57f8c6"
+    },
+    "peterbourgon/trc": {
+        "tag": "v0.0.3",
+        "sha": "fd19c3aa5eaf1a484f8b23bbee6b0b57e7e4d668"
+    },
+    "phuslu/fastdns": {
+        "tag": "v0.15.4",
+        "sha": "dc0ed895857e1577d0fff35d421ec102822dbcb3"
+    },
+    "phuslu/log": {
+        "tag": "v1.0.120",
+        "sha": "5f015069480e507328d2af56da6d1af199b6284e"
+    },
+    "phuslu/lru": {
+        "tag": "v1.0.18",
+        "sha": "3f464ecdbbbc0b0cf8eea855c5b82d531c978a99"
+    },
+    "picosh/git-pr": {
+        "tag": "v0.3.0",
+        "sha": "b8ce91af92b3ae9ed4871173c61998e4b55edacc"
+    },
+    "picosh/pgit": {
+        "tag": "v1.1.0",
+        "sha": "8cab5cef65315c9fba1aa5ee5554cd8f992857e8"
+    },
+    "picosh/pico": {
+        "tag": "v3.19.18",
+        "sha": "e9569606aadad6269c06c7e9d877d5abda5ccb7e"
+    },
+    "picosh/pubsub": {
+        "branch": "main",
+        "sha": "ec8f16c0eb885f280d63a7b9d62123db65274f96"
+    },
+    "pingcap/go-ycsb": {
+        "tag": "v1.0.1",
+        "sha": "fc7f654d3f2948796cc0010de5a04622fea83ab0"
+    },
+    "pingcap/ticdc": {
+        "tag": "v9.0.0-beta.2.pre",
+        "sha": "16f5ddeb62dee025dec646059b2ed6852032b13c"
+    },
+    "pingcap/tidb": {
+        "tag": "v8.5.3",
+        "sha": "dc2548aac79a712265e831cff2a3a896bc0a5a38"
+    },
+    "pingcap/tiflow": {
+        "tag": "v8.5.3",
+        "sha": "4d578e92b87cc67288a832da6b050434f51ef94e"
+    },
+    "pkg/sftp": {
+        "tag": "v1.13.9",
+        "sha": "320d62f9de173bbc3631acf1b07309c8d2753ee9"
+    },
+    "pocketbase/pocketbase": {
+        "tag": "v0.30.4",
+        "sha": "52a53b5b91810314dd37d3468b9f2b2f86f7926f"
+    },
+    "pressly/goose": {
+        "tag": "v3.26.0",
+        "sha": "3d1474de3049db2e1ba64a4fe724917292ae7790"
+    },
+    "prime-run/togo": {
+        "tag": "v1.0.5",
+        "sha": "9fe817edd97088061e61d98b2ecd82af755ab027"
+    },
+    "projectdiscovery/fastdialer": {
+        "tag": "v0.4.13",
+        "sha": "e6e9582fda420fc316033b5f814cb47a24d8307b"
+    },
+    "projectdiscovery/httpx": {
+        "tag": "v1.7.1",
+        "sha": "bbba4548445ce3c01b7326726b6574a5a4ef91f2"
+    },
+    "projectdiscovery/katana": {
+        "tag": "v1.2.2",
+        "sha": "6253b22ac5a90a7c5e2af870cf0c551cbc98c69d"
+    },
+    "projectdiscovery/nuclei": {
+        "tag": "v3.4.10",
+        "sha": "5bff7a2a90965a0ed8b03f2ff557f3220624dd57"
+    },
+    "prometheus-community/avalanche": {
+        "tag": "v0.7.0",
+        "sha": "b4639b2e685f9100ef8130e9255f7f902f5bcf17"
+    },
+    "prometheus-community/parquet-common": {
+        "branch": "main",
+        "sha": "7f4cb13e7d48c828a1c95ec1891a69c30a5cd87f"
+    },
+    "prometheus-community/postgres_exporter": {
+        "tag": "v0.18.1",
+        "sha": "320b684f3dcd3f09b6e694e43f9b389b1a8199e5"
+    },
+    "prometheus-community/promql-langserver": {
+        "tag": "v0.5.1",
+        "sha": "8ea8e6885b48ebcffdff7a2ede0565cdb3c9fe78"
+    },
+    "prometheus/alertmanager": {
+        "tag": "v0.28.1",
+        "sha": "b2099eaa2c9ebc25edb26517cb9c732738e93910"
+    },
+    "prometheus/client_golang": {
+        "tag": "v1.23.2",
+        "sha": "8179a560819f2c64ef6ade70e6ae4c73aecaca3c"
+    },
+    "prometheus/common": {
+        "tag": "v0.67.1",
+        "sha": "c41fe1488a2f6a4bd2b7abcdc8afe03429835630",
+        "maxv": "v1"
+    },
+    "prometheus/node_exporter": {
+        "tag": "v1.9.1",
+        "sha": "f2ec547b49af53815038a50265aa2adcd1275959"
+    },
+    "prometheus/otlptranslator": {
+        "tag": "v1.0.0",
+        "sha": "57de713e8b6c626d888cefba633272dece33a352"
+    },
+    "prometheus/procfs": {
+        "tag": "v0.17.0",
+        "sha": "61fe41207276bc95c4c391762e9ef137385e8a5d"
+    },
+    "prometheus/prometheus": {
+        "tag": "v3.7.1",
+        "sha": "0aeb4fddc93b64e4e95104d5e8ea8b55ad36fb61"
+    },
+    "prometheus/pushgateway": {
+        "tag": "v1.11.1",
+        "sha": "aff0d834b730375fc965135e3e2d17d15f82a76f"
+    },
+    "protocolbuffers/protobuf-go": {
+        "tag": "v1.36.10",
+        "sha": "f9fa50e26c0ffec610c509850484a5fdecdb26ec"
+    },
+    "pulumi/pulumi": {
+        "tag": "v3.203.0",
+        "sha": "8b0ee4d225d4d22a172c37cc42d813a397c33c22"
+    },
+    "putyy/res-downloader": {
+        "tag": "3.1.2",
+        "sha": "820a2671cf3eaa6ad7ce88f65a06b76f904eb775",
+        "use-releases": true
+    },
+    "puzpuzpuz/xsync": {
+        "tag": "v4.2.0",
+        "sha": "fa8af1daee105be4625c4f3f1d34911ead68c80d"
+    },
+    "qingstor/qingstor-sdk-go": {
+        "tag": "v4.4.1",
+        "sha": "aaa8916ddc39e2b27ccce26f5c6b1e4e018ee25f"
+    },
+    "qingstor/qscamel": {
+        "tag": "v2.0.27",
+        "sha": "9a23cd97c6f330bad325418eac56ce3a862973be"
+    },
+    "qingstor/qsctl": {
+        "tag": "v2.4.9",
+        "sha": "88f0c174a42c5679aa929ab6f96e59713cfc87b8"
+    },
+    "quasilyte/go-ruleguard": {
+        "tag": "v0.4.5",
+        "sha": "53ee6ef0c75c144ddf76c8a9be430ac32e206d3a"
+    },
+    "quay/clair": {
+        "tag": "v4.8.0",
+        "sha": "05680a2bd328410c3aa19de39f3226acc3c234d6"
+    },
+    "quay/claircore": {
+        "tag": "v1.5.44",
+        "sha": "e5d62589d4366473093e175568e8a134645a63dd"
+    },
+    "quic-go/quic-go": {
+        "tag": "v0.55.0",
+        "sha": "7c1ce0efe280e4d82acad43b8cd8284596361103"
+    },
+    "rclone/rclone": {
+        "tag": "v1.71.1",
+        "sha": "1a98c36a73581c43142385a396f29e8e923041a7"
+    },
+    "readeck/readeck": {
+        "repo": "https://codeberg.org",
+        "tag": "0.20.4",
+        "sha": "b0503446d1711f81ca00e5e6b4c8f9dfe124188c",
+        "use-releases": true
+    },
+    "reddit/achilles-sdk": {
+        "tag": "v0.13.9",
+        "sha": "3cfc237e22ef412335bac9f6f2cba3f0ad4ca9b5"
+    },
+    "reddit/baseplate.go": {
+        "tag": "v0.10.1",
+        "sha": "c75248c080e675043b8c69a38efe6cf88e76d671"
+    },
+    "redis/go-redis": {
+        "tag": "v9.15.1",
+        "sha": "a44df882570340438949258c6c29710ac3e236b3"
+    },
+    "redis/rueidis": {
+        "tag": "v1.0.67",
+        "sha": "1d5421eb357a7de6cb7bef52058419a018a5c19e"
+    },
+    "redpanda-data/benthos": {
+        "tag": "v4.57.1",
+        "sha": "6c7bdd1dc8c4ffe779e48bedd4b7063e7f3ede9b"
+    },
+    "redpanda-data/connect": {
+        "tag": "v4.67.5",
+        "sha": "ccb357e7e13007511c8582cac09d6c52e9995845"
+    },
+    "redpanda-data/kminion": {
+        "tag": "v2.2.14",
+        "sha": "c53f0c62159b508c3ce9e973512d6e6f47592958"
+    },
+    "rethinkdb/rethinkdb-go": {
+        "tag": "v6.2.2",
+        "sha": "cd20432e9a206321fc2e313ac4dc96ac5aaa4176"
+    },
+    "reviewdog/errorformat": {
+        "branch": "master",
+        "sha": "223c26dbe2122cc5ce2f3b47400ceaca2b50c496"
+    },
+    "reviewdog/reviewdog": {
+        "tag": "v0.21.0",
+        "sha": "df70ed74df59de7ebfd9276afabd62ea2de4d7dd"
+    },
+    "rhysd/actionlint": {
+        "tag": "v1.7.8",
+        "sha": "e7d448ef7507c20fc4c88a95d0c448b848cd6127"
+    },
+    "rhysd/changelog-from-release": {
+        "tag": "v3.9",
+        "sha": "ac0eec2f73a0c0ca0cb4ac3f1eea121105e07385"
+    },
+    "riverqueue/river": {
+        "tag": "v0.26.0",
+        "sha": "3941f3eca03eeea40c8b2cdbbff50179217ba2c5"
+    },
+    "rivo/tview": {
+        "branch": "master",
+        "sha": "e113793670e2125e32114b10037c3be83e9176d2"
+    },
+    "rogpeppe/go-internal": {
+        "tag": "v1.14.1",
+        "sha": "9ee3698d19c525c9cefe855433e5f6096b77c6f5"
+    },
+    "rollbar/rollbar-go": {
+        "tag": "v1.4.8",
+        "sha": "4c2ee8c66b8ae695aff08fc331445a4639036e68"
+    },
+    "rook/rook": {
+        "tag": "v1.18.4",
+        "sha": "682f3527f01aa917b108e198893b3e4972c7a8a3"
+    },
+    "rs/curlie": {
+        "tag": "v1.8.2",
+        "sha": "56211bad5a53e7cbd64217ef87951de4c6e8b570"
+    },
+    "rs/zerocert": {
+        "tag": "v1.0.1",
+        "sha": "2d298e4f4318ba415949daac89822a3e0d677ac5"
+    },
+    "rs/zerolog": {
+        "tag": "v1.34.0",
+        "sha": "db9d1bebd9c0810ec04bc7e4199655f85c5b479b"
+    },
+    "rsc/rf": {
+        "branch": "main",
+        "sha": "0cca67e288fe8ccb534f1e8452284e9a5403d1f3"
+    },
+    "rudderlabs/rudder-go-kit": {
+        "tag": "v0.63.3",
+        "sha": "f8303b8588abb74d5a173b2838efb80d66b78386"
+    },
+    "rudderlabs/rudder-server": {
+        "tag": "v1.61.0",
+        "sha": "709cdf53825bd2f452c1d3542a184366397b13aa"
+    },
+    "safedep/dry": {
+        "branch": "main",
+        "sha": "a93f871ae0ac676cc23b1ee8c5dac31fe36f417e"
+    },
+    "safedep/vet": {
+        "tag": "v1.12.7",
+        "sha": "9aebb9d68ec6b5046fd3bf6dca377f8350f3b67d"
+    },
+    "samber/go-batchify": {
+        "tag": "v0.1.0",
+        "sha": "0cd7ea3e5cbba72b068562867824fdd74be14dc5"
+    },
+    "samber/hot": {
+        "tag": "v0.10.0",
+        "sha": "f9ec0e9c0dec65facbf919eb17232e3d1bc5fbe7"
+    },
+    "samber/lo": {
+        "tag": "v1.52.0",
+        "sha": "a25c42dbd5103a67ed497b49bfefeaf6bb1df2ee"
+    },
+    "santhosh-tekuri/jsonschema": {
+        "tag": "v6.0.2",
+        "sha": "29cbed948d24a04700eb94436416b18a07953b71"
+    },
+    "scaleway/scaleway-sdk-go": {
+        "tag": "v1.0.0-beta.35",
+        "sha": "1fc11916a52027cd170adfc0689a1690009bd0b5"
+    },
+    "seaweedfs/seaweedfs": {
+        "tag": "3.97",
+        "sha": "76452ab593995ab52b75e681de5b221de1e3f006",
+        "use-releases": true
+    },
+    "securego/gosec": {
+        "tag": "v2.22.10",
+        "sha": "6be2b51fd78feca86af91f5186b7964d76cb1256"
+    },
+    "segmentio/chamber": {
+        "tag": "v3.1.3",
+        "sha": "7c8de43068d41125dae1abdd200cb298aa2197b3"
+    },
+    "segmentio/conf": {
+        "tag": "v1.3.1",
+        "sha": "6ce77f0bd6bd48906c0fa69a6577141296650619"
+    },
+    "segmentio/encoding": {
+        "tag": "v0.5.3",
+        "sha": "fd406855de30c54110d23eace25478ab9c6fa2cc"
+    },
+    "segmentio/golines": {
+        "tag": "v0.13.0",
+        "sha": "8f32f0f7e89c30f572c7f2cd3b2a48016b9d8bbf"
+    },
+    "segmentio/kafka-go": {
+        "tag": "v0.4.49",
+        "sha": "3f6808045dfce56553562afa2ede13fabd640603"
+    },
+    "segmentio/stats": {
+        "tag": "v5.6.5",
+        "sha": "619cf9ceb0d4a0f5c92cf95d0800dfd318a0cd26"
+    },
+    "segmentio/topicctl": {
+        "tag": "v1.22.0",
+        "sha": "83e63fd7c53cee79ce0d04ca3cdc4a177e716a42"
+    },
+    "seiyab/gost": {
+        "branch": "main",
+        "sha": "ffd2328c977092f1972b31ce70e1eb97e2c39470"
+    },
+    "sergi/go-diff": {
+        "tag": "v1.4.0",
+        "sha": "57c41f4cb9849a2e83cdbd7644b31e6d7a7e2586"
+    },
+    "sethvargo/ratchet": {
+        "tag": "v0.11.4",
+        "sha": "8b4ca256dbed184350608a3023620f267f0a5253"
+    },
+    "siderolabs/discovery-service": {
+        "tag": "v1.0.11",
+        "sha": "d186f97da70513a2088a3680ed358154414bfb62"
+    },
+    "siderolabs/image-factory": {
+        "tag": "v0.8.4",
+        "sha": "a3a7661df37083c3af0a929265a424f003c9db1a"
+    },
+    "siderolabs/omni": {
+        "tag": "v1.2.1",
+        "sha": "5e0a1335bbfd4d7ce2ab851071317c2727673fd6"
+    },
+    "siderolabs/omni-infra-provider-bare-metal": {
+        "tag": "v0.5.0",
+        "sha": "1a622b643571c69d8ffcae183ee64c73234cac50"
+    },
+    "siderolabs/sidero": {
+        "tag": "v0.6.11",
+        "sha": "6186aacbf3d1f029f0b20cb90221b052b4936982"
+    },
+    "siderolabs/talos": {
+        "tag": "v1.11.3",
+        "sha": "a0243ef77e6532ed2919689d305eeaf97458c0a1"
+    },
+    "sigstore/cosign": {
+        "tag": "v3.0.2",
+        "sha": "84449696f0658a5ef5f2abba87fdd3f8b17ca1be"
+    },
+    "sigstore/gitsign": {
+        "tag": "v0.13.0",
+        "sha": "b17948db1402b33caa005637f40e8df9eab56daf"
+    },
+    "sigstore/k8s-manifest-sigstore": {
+        "tag": "v0.5.4",
+        "sha": "e35f818810937a5cbc2aa50ce58fd6ec6285a47c"
+    },
+    "sigstore/policy-controller": {
+        "tag": "v0.13.1",
+        "sha": "ccbb37f3009753a72c7f6ee18002406b857b2204"
+    },
+    "sigstore/rekor": {
+        "tag": "v1.4.2",
+        "sha": "23797850121dc2608ef0b3684db460d1decafdfd"
+    },
+    "sigstore/sigstore": {
+        "tag": "v1.9.5",
+        "sha": "75efc00fadb75b2a4a83e656530c0ca4ca78b56e"
+    },
+    "sirupsen/logrus": {
+        "tag": "v1.9.3",
+        "sha": "d40e25cd45ed9c6b2b66e6b97573a0413e4c23bd"
+    },
+    "sixafter/graph": {
+        "tag": "v0.9.0",
+        "sha": "53bcadd426053edaa0cb0465a52e4e7a69556f95"
+    },
+    "siyuan-note/siyuan": {
+        "tag": "v3.3.5",
+        "sha": "779c6ede2855aee91f7f54b0b65b7ce3add40c2c"
+    },
+    "skeema/knownhosts": {
+        "tag": "v1.3.2",
+        "sha": "b9f50b4a05dbf3a2392d9ffba3399dd74315ab4c"
+    },
+    "skeema/mybase": {
+        "tag": "v1.2.0",
+        "sha": "d7631d95f794acfb96d8b181972b87e8c20ee437"
+    },
+    "skeema/skeema": {
+        "tag": "v1.13.0",
+        "sha": "2e041764b1fcb6c36925a6fb6bb4986e96a1838c"
+    },
+    "slack-go/slack": {
+        "tag": "v0.17.3",
+        "sha": "e29b7e304998262f189737ff254c7b539db7fa60"
+    },
+    "slimtoolkit/slim": {
+        "tag": "1.40.11",
+        "sha": "1b271555882eacdfb4e6598d6d0552e9b9b1449b",
+        "use-releases": true
+    },
+    "snowflakedb/gosnowflake": {
+        "tag": "v1.17.0",
+        "sha": "c9cc609f0ec5734bbba5cf82a17306062494359e"
+    },
+    "snyk/policy-engine": {
+        "tag": "v1.1.0",
+        "sha": "d5e0ed3ee85d209349693176cbf34932cebb11e6"
+    },
+    "sourcegraph/jsonrpc2": {
+        "tag": "v0.2.1",
+        "sha": "2cc94179e136b565cb9df7d9d0bff9fc06912ac9"
+    },
+    "sourcegraph/scip": {
+        "tag": "v0.6.0",
+        "sha": "09c0a1093772f7f7e85f0d4ad0ce10c8ed5285f1"
+    },
+    "sourcegraph/scip-go": {
+        "tag": "v0.1.26",
+        "sha": "ae3fc190639422b0a25bbfb491d4fe40fb384b56"
+    },
+    "sourcegraph/zoekt": {
+        "branch": "main",
+        "sha": "90faf6de70e39db5fb48839eabfba6c8add008f0"
+    },
+    "speakeasy-api/jsonpath": {
+        "tag": "v0.6.2",
+        "sha": "8301a0eab6bbf754758278c368b5b59b7d25368c"
+    },
+    "speakeasy-api/openapi": {
+        "tag": "v1.11.0",
+        "sha": "4215825d7690662c110b87f159440e5b5f5fd5ca"
+    },
+    "spegel-org/spegel": {
+        "tag": "v0.4.0",
+        "sha": "ec01a600a0382aa6fb0311bb0d459cf32ddb2b5b"
+    },
+    "spf13/afero": {
+        "tag": "v1.15.0",
+        "sha": "399bb34ad9fd8a252ad1d8bfaef96279b66dc774"
+    },
+    "spf13/cast": {
+        "tag": "v1.10.0",
+        "sha": "fc73346bfc4e6597bc520fb6eea04360299e77d2"
+    },
+    "spf13/cobra": {
+        "tag": "v1.10.1",
+        "sha": "7da941c3547e93b8c9f70bbd3befca79c6335388"
+    },
+    "spf13/pflag": {
+        "tag": "v1.0.10",
+        "sha": "0491e5702ad2bb108bc519a5221bcc0f52aa9564"
+    },
+    "spf13/viper": {
+        "tag": "v1.21.0",
+        "sha": "394040caccbdf5821fa6839386a35f0fb1b1ee9e"
+    },
+    "spotify/confidence-sdk-go": {
+        "tag": "v0.4.6",
+        "sha": "ce9f7144911f386302f9e1efb31accf6f14abe3f"
+    },
+    "spotify/flink-on-k8s-operator": {
+        "tag": "v0.5.5",
+        "sha": "c78ba25716fb4faafa71584aae8c65dc99bdad7b"
+    },
+    "spotinst/spotinst-sdk-go": {
+        "tag": "v2.0",
+        "sha": "508ac6e63cdff347a2090deb1b351895f094dfdb"
+    },
+    "sqlc-dev/sqlc": {
+        "tag": "v1.30.0",
+        "sha": "0e3f5404b0e69e3402bd81db0aaee2d7275a8785"
+    },
+    "squat/kilo": {
+        "tag": "0.6.0",
+        "sha": "0527880fa9a9befbd13a1cb2a55fb45e7858e23e"
+    },
+    "sst/opencode": {
+        "tag": "v0.15.8",
+        "sha": "d69beec087bb56e5e23acf654347a6af7a09ba7b"
+    },
+    "stefanprodan/podinfo": {
+        "tag": "6.9.2",
+        "sha": "e86405a8674ecab990d0a389824c7ebbd82973b5",
+        "use-releases": true
+    },
+    "steveyegge/beads": {
+        "tag": "v0.9.10",
+        "sha": "2678e572b9be6a8a28f2dafaacece51bd1c403b6"
+    },
+    "stretchr/testify": {
+        "tag": "v1.11.1",
+        "sha": "2a57335dc9cd6833daa820bc94d9b40c26a7917d"
+    },
+    "superfly/fly-go": {
+        "tag": "v0.1.63",
+        "sha": "0aa1898fad12dce186761ae6a606ee3f1e96bff8"
+    },
+    "superfly/flyctl": {
+        "tag": "v0.3.195",
+        "sha": "7b1f84127e34dad8a9ac7bf802fa00bfa3e4227f",
+        "use-releases": true
+    },
+    "superfly/macaroon": {
+        "tag": "v0.3.0",
+        "sha": "857834303bd278c9339f8ced78a0f8d6124bca7b"
+    },
+    "suzuki-shunsuke/pinact": {
+        "tag": "v3.4.2",
+        "sha": "e4d733870d948c7517b43642f0cdfa7a292666e3"
+    },
+    "swaggo/http-swagger": {
+        "tag": "v2.0.2",
+        "sha": "537f045bded0ad087c8a5191915e521e5130efa0"
+    },
+    "swaggo/swag": {
+        "tag": "v2.0.0-rc4",
+        "sha": "bc4852b06481184558727443e14529015e70936c"
+    },
+    "syncthing/syncthing": {
+        "tag": "v2.0.10",
+        "sha": "6f0acacbd2b1399606bf70cd8d93cd56dd356c72"
+    },
+    "syself/cluster-api-provider-hetzner": {
+        "tag": "v1.0.7",
+        "sha": "1636fb3e90b1eae9b371ab0872e70c02937b0543"
+    },
+    "tailscale/go-cache-plugin": {
+        "tag": "v0.1.1",
+        "sha": "d651c7918d9587c8f82b061d9d96805021ab07a3"
+    },
+    "tailscale/setec": {
+        "branch": "main",
+        "sha": "bc7a01a47c9cda0acbff2a49eda50708f59a47b1"
+    },
+    "tailscale/tailscale": {
+        "tag": "v1.88.4",
+        "sha": "85f4267ee3bcf6a4e6b6d4384b66ee4cb33f1434"
+    },
+    "tailscale/tailscale-client-go-v2": {
+        "branch": "main",
+        "sha": "39e569c3ed8d468d5b363e984f97223395b3c446"
+    },
+    "tektoncd/pipeline": {
+        "tag": "v1.5.0",
+        "sha": "81db63a50b6f0a404aae3d434e9a56fe4f8bf093"
+    },
+    "tendermint/tendermint": {
+        "tag": "v0.37.0-rc2",
+        "sha": "059798a4f5b0c9f52aa8655fa619054a0154088c"
+    },
+    "tetratelabs/wazero": {
+        "tag": "v1.9.0",
+        "sha": "96f2052f6d12cccc29193f5452c635b76d8a036d"
+    },
+    "thejerf/suture": {
+        "tag": "v4.0.6",
+        "sha": "8a2561c661dce2a30c484b08e865676059c1e63e"
+    },
+    "thenativeweb/eventsourcingdb-client-golang": {
+        "tag": "v1.4.0",
+        "sha": "03a0939ad035a6b460236e5f33a71eb524dbe914"
+    },
+    "theupdateframework/go-tuf": {
+        "tag": "v2.2.0",
+        "sha": "1980d8a478ed24bbb134449bc1f7e915adc9d150"
+    },
+    "thoughtworks/talisman": {
+        "tag": "v1.37.0",
+        "sha": "12fab7055d7e640d5dae43209bafc48bf5ef1fd7"
+    },
+    "tikv/client-go": {
+        "tag": "v2.0.7",
+        "sha": "c853ddc68c41ff9dad1ed8ce11c3f062a84bf220"
+    },
+    "traefik/traefik": {
+        "tag": "v3.5.3",
+        "sha": "5ab001b55b867d0065ae05099490690a514f95d3"
+    },
+    "traefik/yaegi": {
+        "tag": "v0.16.1",
+        "sha": "3fbebb36621c03b2981ccee03246ea40455bd792"
+    },
+    "transparency-dev/serverless-log": {
+        "branch": "main",
+        "sha": "515b4ca3205adbc4c16527297863c70e3d78fb58"
+    },
+    "transparency-dev/tessera": {
+        "tag": "v1.0.0",
+        "sha": "a04aaa15cdf9c9a795ed723726ee77da2b76252b"
+    },
+    "transparency-dev/tesseract": {
+        "branch": "main",
+        "sha": "3b626a146558756084118a46bf1d6c013c5a3be9"
+    },
+    "transparency-dev/witness": {
+        "branch": "main",
+        "sha": "b1d0cfc3d8979992c7e674b13fb494bf07c097ec"
+    },
+    "trinodb/trino-go-client": {
+        "tag": "v0.330.0",
+        "sha": "66c0bd8610d4fbdc2ad70b1f6f7633939931c152"
+    },
+    "trufflesecurity/trufflehog": {
+        "tag": "v3.90.11",
+        "sha": "ad6fc8fb446b8fafbf7ea8193d2d6bfd42f45690"
+    },
+    "tsenart/vegeta": {
+        "tag": "v12.12.0",
+        "sha": "03ca49e9b419c106db29d687827c4c823d8b8ece"
+    },
+    "tulir/whatsmeow": {
+        "branch": "main",
+        "sha": "02c50743e601c797b7b8bf27eba2de1154966cd6"
+    },
+    "twilio/twilio-go": {
+        "tag": "v1.28.4",
+        "sha": "2a8bcdbf53480aa0adf1f8d41374f075ea491b63"
+    },
+    "twmb/franz-go": {
+        "tag": "v1.20.0",
+        "sha": "e77393cdaa72478bd5ba9f67775460cd6da8bc1e"
+    },
+    "twpayne/chezmoi": {
+        "tag": "v2.66.0",
+        "sha": "29c8f6ce3301a436b3bf88c3c7cc9fa537f90034"
+    },
+    "u-root/u-root": {
+        "tag": "v0.15.0",
+        "sha": "b6c6143928b63f3e0c6d675d0b86c7338fb17cb1",
+        "maxv": "v1"
+    },
+    "uber-go/dig": {
+        "tag": "v1.19.0",
+        "sha": "af45368b8ef9faaff2102eceac6535b62bebb185"
+    },
+    "uber-go/mock": {
+        "tag": "v0.6.0",
+        "sha": "2d1c58167e30f380cf78e44a43b100a14767e817"
+    },
+    "uber-go/nilaway": {
+        "branch": "main",
+        "sha": "361559d802f09469419069ad6a0499149eecac6e"
+    },
+    "uber-go/zap": {
+        "tag": "v1.27.0",
+        "sha": "fcf8ee58669e358bbd6460bef5c2ee7a53c0803a"
+    },
+    "uber/kraken": {
+        "tag": "v0.1.11",
+        "sha": "979f00d6f01c412065c3eddeadca505ebbe9bee3"
+    },
+    "unikraft-cloud/crossplane-provider-unikraft-cloud": {
+        "tag": "v0.2.0",
+        "sha": "90e3506cbcb171330e4742e9f6b87e67452e2f62"
+    },
+    "unikraft-cloud/go-sdk": {
+        "tag": "v0.1.0",
+        "sha": "11de6eb1a67590807be22a62774f3ec5faf688b7"
+    },
+    "unikraft-cloud/terraform-provider-ukc": {
+        "tag": "v0.3.0",
+        "sha": "ca738a08b363646ccbfc6cd64aa47eba4acd73c4"
+    },
+    "unikraft/kraftkit": {
+        "tag": "v0.12.3",
+        "sha": "68ca88778e63247d5a558951423eadee5bd2bf34"
+    },
+    "unrolled/render": {
+        "tag": "v1.7.0",
+        "sha": "5e0563b79c70845ef40b5b5ffe2dd40a3a0ff4ff"
+    },
+    "upspin/upspin": {
+        "branch": "master",
+        "sha": "334f107fe3d98225d7adfbb35b74e066fbca9875"
+    },
+    "uptrace/bun": {
+        "tag": "v1.2.15",
+        "sha": "29e836e3e01f04ae223f8cbbbc347c30484d8517"
+    },
+    "uptrace/uptrace": {
+        "tag": "v2.0.1",
+        "sha": "46f9328bf4dff374479dfa7cfe8149474b2547eb"
+    },
+    "urfave/cli": {
+        "tag": "v3.4.1",
+        "sha": "c53cbcdbd6ab5bbc0f65aa23a50a91be343b170f"
+    },
+    "valkey-io/valkey-go": {
+        "tag": "v1.0.67",
+        "sha": "262cdd2405b31a1fd16abcfe0b339485f074a65c"
+    },
+    "valyala/fasthttp": {
+        "tag": "v1.67.0",
+        "sha": "b26ff4866918a81247d8ce1cbfe07c7da63b2940",
+        "maxv": "v2000"
+    },
+    "vektra/mockery": {
+        "tag": "v3.5.5",
+        "sha": "faf4e4a110ba4374c2c0ae05b59d6086b8ee5701"
+    },
+    "vercel/terraform-provider-vercel": {
+        "tag": "v3.17.0",
+        "sha": "24cce00f8cfd7a36a8dfed7d9e303bb71b8b42b3"
+    },
+    "viktomas/godu": {
+        "tag": "v1.5.2",
+        "sha": "53f7bd78fe504853ed92d1e85d7bea5dbf9bd794"
+    },
+    "vimeo/dials": {
+        "tag": "v0.18.0",
+        "sha": "f5bc6a27edf83301104bd98009217ccebf4579e9"
+    },
+    "vimeo/galaxycache": {
+        "tag": "v1.3.1",
+        "sha": "c72b4a5b64c86c0abae83882e00cbf19d7d82d51"
+    },
+    "vishvananda/netlink": {
+        "tag": "v1.3.1",
+        "sha": "17daef607c6442d47b0565343cf8a69f985a4cb7"
+    },
+    "vitessio/vitess": {
+        "tag": "v22.0.1",
+        "sha": "aafd40357555438f9df7b7e28afe7e0828502896"
+    },
+    "vmihailenco/msgpack": {
+        "tag": "v5.4.1",
+        "sha": "19c91dfdfa062658c39d9321be26163fc5833bd1"
+    },
+    "voidDB/voidDB": {
+        "tag": "v0.1.18",
+        "sha": "15db0ca2f755d8cd9a7c18fe9a2491045f5367df"
+    },
+    "vulcand/oxy": {
+        "tag": "v2.0.3",
+        "sha": "19a97c8ede4c375a20f126ddfd6553c1ca96389d"
+    },
+    "vulcand/predicate": {
+        "tag": "v1.3.0",
+        "sha": "3ea1b242ddd435656ed8bc3cf183ce689e33722f"
+    },
+    "vulcand/vulcand": {
+        "tag": "v0.9.2",
+        "sha": "16e7d32893f7629e1e9b8fae8a0d9023b7cd338f"
+    },
+    "wal-g/wal-g": {
+        "tag": "v3.0.7",
+        "sha": "6ea13b90a3198bd5c8f8ac2ae323f28e33cf9f06"
+    },
+    "warpstreamlabs/bento": {
+        "tag": "v1.11.0",
+        "sha": "2aae4033c522418487dfea0ee51825231a8faaca"
+    },
+    "windvalley/gossh": {
+        "tag": "v1.15.1",
+        "sha": "eb42f56615e8c044a0e8c8479ca4c7ddf27c089d"
+    },
+    "wk8/go-ordered-map": {
+        "tag": "v2.1.8",
+        "sha": "85ca4a2b29d3241fa4513f82be3d38fe2392a791"
+    },
+    "woodpecker-ci/woodpecker": {
+        "tag": "v3.10.0",
+        "sha": "9fa82d3a1c0093a3788eb01ead7d75683519dcfd"
+    },
+    "wundergraph/graphql-go-tools": {
+        "tag": "v2.0.0-rc.230",
+        "sha": "4a142a59d679a2462e6db195a07b1e8532b229ce"
+    },
+    "xlab/treeprint": {
+        "tag": "v1.2.0",
+        "sha": "044005a3b405f660f109e066d9f589755835c2ea"
+    },
+    "xorm/xorm": {
+        "repo": "https://gitea.com",
+        "tag": "v1.3.10",
+        "sha": "5ed154f8c55061b78ca09a88a321e052064b789e"
+    },
+    "yaml/go-yaml": {
+        "tag": "v4.0.0-rc.2",
+        "sha": "79a895ba05137f58781f9f6ff38a0f04c02816bc"
+    },
+    "yarpc/yab": {
+        "tag": "v0.26.0",
+        "sha": "982c33a075c2e548ff33c6ff916ff71bd18a5698"
+    },
+    "yarpc/yarpc-go": {
+        "tag": "v1.81.0",
+        "sha": "2c5103b0b75c3649e8e9eabd64914cac7c4f9278"
+    },
+    "yitsushi/totp-cli": {
+        "tag": "v1.9.2",
+        "sha": "f3307cfc5924b61175add63755876d7631adf71f"
+    },
+    "yokecd/yoke": {
+        "tag": "v0.17.0",
+        "sha": "a56668f84acc4ac1877f2d148b6bed6a57b69bc5"
+    },
+    "yuin/goldmark": {
+        "tag": "v1.7.13",
+        "sha": "9a7f4c9419f73381f0e7fa6899554fe21c4074cf"
+    },
+    "yuin/gopher-lua": {
+        "tag": "v1.1.1",
+        "sha": "1388221efeb4a239a053e5932c3d755699055684"
+    },
+    "yutopp/go-rtmp": {
+        "tag": "v0.0.7",
+        "sha": "c7fee44a6227cc8c7ceab8301e83a114c167fa19"
+    },
+    "zalando/gin-oauth2": {
+        "tag": "v1.5.12",
+        "sha": "c712c778c86ee01f52517b08cc59876b66a3bf96"
+    },
+    "zalando/go-keyring": {
+        "tag": "v0.2.6",
+        "sha": "4e6ecc1e40cf1105719b22318c893cbda2e62bcc"
+    },
+    "zalando/postgres-operator": {
+        "tag": "v1.14.0",
+        "sha": "6035fdd58ec1b11b5471cb4ef67eab9e6693f283"
+    },
+    "zalando/skipper": {
+        "tag": "v0.22.142",
+        "sha": "6b33af4044a79d3b2953a5a401ca2d978bbf8119"
+    },
+    "zarldev/goenums": {
+        "tag": "v0.4.4",
+        "sha": "8b83737bb6375473ca62fac25465e0a8fd754439"
+    },
+    "zclconf/go-cty": {
+        "tag": "v1.17.0",
+        "sha": "da4c600729aefcf628d6b042ee439e6927d1104e"
+    },
+    "zeromicro/go-zero": {
+        "tag": "v1.9.2",
+        "sha": "bbe5bbb0c0ccf8138215662ff463364724819df9"
+    },
+    "zyedidia/eget": {
+        "tag": "v1.3.4",
+        "sha": "19d78fc1eec5d0792b691f5e1b2998c7ae61d323"
+    },
+    "zyedidia/generic": {
+        "tag": "v1.2.1",
+        "sha": "c71d9cac8f9cf872c0d92ea1234082ad9d63b170"
+    },
+    "zyedidia/micro": {
+        "tag": "v2.0.14",
+        "sha": "04c577049ca898f097cd6a2dae69af0b4d4493e1"
+    }
+}

@@ -1,0 +1,3 @@
+# zerolint exclusions for evanphx/json-patch
+github.com/evanphx/json-patch/v5/internal/json.MustNotUnmarshalText
+struct{}

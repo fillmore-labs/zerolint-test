@@ -1,0 +1,3 @@
+---
+pointer:
+  - go.etcd.io/etcd/server/v3/etcdserver/errors.DiscoveryError

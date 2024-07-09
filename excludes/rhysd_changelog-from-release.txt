@@ -1,0 +1,1 @@
+# zerolint exclusions for rhysd/changelog-from-release

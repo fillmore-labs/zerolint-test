@@ -1,0 +1,2 @@
+# zerolint exclusions for argoproj/argo-cd
+github.com/aws/aws-sdk-go/service/sts.GetCallerIdentityInput

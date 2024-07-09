@@ -1,0 +1,4 @@
+---
+pointer:
+  - codeberg.org/crowci/crow/v4/server/pipeline.ErrBadRequest
+  - codeberg.org/crowci/crow/v4/server/pipeline.ErrNotFound

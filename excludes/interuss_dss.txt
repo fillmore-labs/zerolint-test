@@ -1,0 +1,2 @@
+# zerolint exclusions for interuss/dss
+github.com/interuss/dss/pkg/api.EmptyResponseBody

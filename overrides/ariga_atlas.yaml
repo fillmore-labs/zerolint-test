@@ -1,0 +1,3 @@
+---
+pointer:
+  - ariga.io/atlas/sql/internal/sqlx.UnsupportedTypeError

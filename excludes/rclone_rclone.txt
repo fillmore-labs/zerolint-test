@@ -1,0 +1,7 @@
+# zerolint exclusions for rclone/rclone
+github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/service.GetUserDelegationCredentialOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azfile/directory.DeleteOptions
+github.com/rclone/rclone/backend/onedrive/api.DeletedFacet
+storj.io/uplink.CopyObjectOptions
+storj.io/uplink.MoveObjectOptions
+struct{}

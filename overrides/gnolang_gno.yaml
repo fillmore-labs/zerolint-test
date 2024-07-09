@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/gnolang/gno/tm2/pkg/bft/rpc/lib/types.RPCError

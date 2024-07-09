@@ -1,0 +1,6 @@
+# zerolint exclusions for prometheus/prometheus
+github.com/Azure/azure-sdk-for-go/sdk/azcore/fake.AddPageOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute/v5.VirtualMachineScaleSetsClientListAllOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/compute/armcompute/v5.VirtualMachineScaleSetsClientListOptions
+github.com/docker/docker/api/types/swarm.GlobalService
+github.com/prometheus/prometheus/model/labels.SymbolTable

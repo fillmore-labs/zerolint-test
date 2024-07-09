@@ -1,0 +1,9 @@
+# zerolint exclusions for kubernetes-sigs/kueue
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[*k8s.io/api/core/v1.Node]
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[*sigs.k8s.io/kueue/apis/kueue/v1alpha1.Cohort]
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[*sigs.k8s.io/kueue/apis/kueue/v1alpha1.Topology]
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[*sigs.k8s.io/kueue/apis/kueue/v1beta1.AdmissionCheck]
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[*sigs.k8s.io/kueue/apis/kueue/v1beta1.ClusterQueue]
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[*sigs.k8s.io/kueue/apis/kueue/v1beta1.LocalQueue]
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[*sigs.k8s.io/kueue/apis/kueue/v1beta1.ResourceFlavor]
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[*sigs.k8s.io/kueue/apis/kueue/v1beta1.Workload]

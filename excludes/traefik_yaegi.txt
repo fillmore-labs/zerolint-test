@@ -1,0 +1,5 @@
+# zerolint exclusions for traefik/yaegi
+github.com/traefik/yaegi/interp.generic
+github.com/traefik/yaegi/interp_test.S1
+github.com/traefik/yaegi/interp_test.T
+struct{}

@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/qingstor/qingstor-sdk-go/v4/request/errors.QingStorError

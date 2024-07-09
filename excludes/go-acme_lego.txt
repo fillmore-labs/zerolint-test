@@ -1,0 +1,4 @@
+# zerolint exclusions for go-acme/lego
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/dns/armdns.RecordSetsClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/privatedns/armprivatedns.RecordSetsClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resourcegraph/armresourcegraph.ClientResourcesOptions

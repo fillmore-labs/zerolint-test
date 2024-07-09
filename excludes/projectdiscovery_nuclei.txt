@@ -1,0 +1,7 @@
+# zerolint exclusions for projectdiscovery/nuclei
+github.com/projectdiscovery/nuclei/v3/pkg/js/compiler.Compiler
+github.com/projectdiscovery/nuclei/v3/pkg/js/libs/mssql.MSSQLClient
+github.com/projectdiscovery/nuclei/v3/pkg/js/libs/mysql.MySQLClient
+github.com/projectdiscovery/nuclei/v3/pkg/js/libs/postgres.PGClient
+github.com/projectdiscovery/nuclei/v3/pkg/js/libs/smb.SMBClient
+github.com/projectdiscovery/nuclei/v3/pkg/js/utils/pgwrap.PgDriver

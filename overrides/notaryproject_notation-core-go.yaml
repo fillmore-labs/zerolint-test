@@ -1,0 +1,6 @@
+---
+pointer:
+  - github.com/notaryproject/notation-core-go/signature.InvalidSignatureError
+  - github.com/notaryproject/notation-core-go/signature.SignatureNotFoundError
+value:
+  - github.com/notaryproject/notation-core-go/revocation/internal/ocsp.NoServerError

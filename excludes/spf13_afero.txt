@@ -1,0 +1,1 @@
+# zerolint exclusions for spf13/afero

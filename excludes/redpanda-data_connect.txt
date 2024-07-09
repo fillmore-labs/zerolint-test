@@ -1,0 +1,18 @@
+# zerolint exclusions for redpanda-data/connect
+github.com/Azure/azure-sdk-for-go/sdk/data/aztables.CreateTableOptions
+github.com/Azure/azure-sdk-for-go/sdk/data/aztables.SubmitTransactionOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azqueue.DeleteMessageOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azqueue.GetQueuePropertiesOptions
+github.com/Azure/go-amqp.ReceiveOptions
+github.com/couchbase/gocb/v2.ClusterCloseOptions
+github.com/jackc/pgx/v5/pgproto3.CopyDone
+github.com/jackc/pgx/v5/pgproto3.EmptyQueryResponse
+github.com/parquet-go/parquet-go/compress/snappy.Codec
+github.com/parquet-go/parquet-go/compress/uncompressed.Codec
+github.com/parquet-go/parquet-go/encoding/plain.Encoding
+github.com/parquet-go/parquet-go/format.JsonType
+github.com/parquet-go/parquet-go/format.MicroSeconds
+github.com/parquet-go/parquet-go/format.MilliSeconds
+github.com/parquet-go/parquet-go/format.NanoSeconds
+github.com/parquet-go/parquet-go/format.UUIDType
+github.com/segmentio/encoding/thrift.CompactProtocol

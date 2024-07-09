@@ -1,0 +1,14 @@
+# zerolint exclusions for hyperledger/firefly
+github.com/hyperledger/firefly-common/pkg/ffapi.BoolField
+github.com/hyperledger/firefly-common/pkg/ffapi.Bytes32Field
+github.com/hyperledger/firefly-common/pkg/ffapi.FFStringArrayField
+github.com/hyperledger/firefly-common/pkg/ffapi.Int64Field
+github.com/hyperledger/firefly-common/pkg/ffapi.JSONField
+github.com/hyperledger/firefly-common/pkg/ffapi.StringField
+github.com/hyperledger/firefly-common/pkg/ffapi.TimeField
+github.com/hyperledger/firefly-common/pkg/ffapi.UUIDField
+github.com/hyperledger/firefly-signer/pkg/ffi2abi.ParamValidator
+github.com/hyperledger/firefly/pkg/blockchain.Capabilities
+github.com/hyperledger/firefly/pkg/identity.Capabilities
+github.com/hyperledger/firefly/pkg/sharedstorage.Capabilities
+github.com/hyperledger/firefly/pkg/tokens.Capabilities

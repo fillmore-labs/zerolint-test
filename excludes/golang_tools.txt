@@ -1,0 +1,9 @@
+# zerolint exclusions for golang/tools
+golang.org/x/tools/gopls/internal/protocol.InitializedParams
+golang.org/x/tools/internal/mcp.loggingCapabilities
+golang.org/x/tools/internal/mcp.SamplingCapabilities
+# golang.org/x/tools/go/analysis.Validate assumes that facts are pointers:
+golang.org/x/tools/go/analysis/internal/checker_test.EmptyFact
+golang.org/x/tools/go/analysis/passes/ctrlflow.noReturn
+golang.org/x/tools/go/analysis/passes/findcall.foundFact
+golang.org/x/tools/internal/gofix.goFixInlineAliasFact

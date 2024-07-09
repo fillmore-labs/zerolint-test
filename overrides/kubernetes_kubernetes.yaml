@@ -1,0 +1,4 @@
+---
+pointer:
+  - k8s.io/utils/exec/testing.FakeExitError
+  - k8s.io/kubernetes/pkg/kubelet/checkpointmanager/errors.CorruptCheckpointError

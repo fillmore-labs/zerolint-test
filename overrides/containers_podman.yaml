@@ -1,0 +1,4 @@
+---
+pointer:
+  - github.com/containers/podman/v5/pkg/errorhandling.ErrorModel
+  - github.com/containers/podman/v5/pkg/errorhandling.PodConflictErrorModel

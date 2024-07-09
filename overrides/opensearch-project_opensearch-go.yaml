@@ -1,0 +1,7 @@
+---
+pointer:
+  - github.com/opensearch-project/opensearch-go/v4.Error
+  - github.com/opensearch-project/opensearch-go/v4.MessageError
+  - github.com/opensearch-project/opensearch-go/v4.ReasonError
+  - github.com/opensearch-project/opensearch-go/v4.StructError
+

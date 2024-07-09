@@ -1,0 +1,5 @@
+---
+value:
+  - github.com/gophercloud/gophercloud.ErrDefault404
+pointer:
+  - github.com/gophercloud/gophercloud.ErrEndpointNotFound

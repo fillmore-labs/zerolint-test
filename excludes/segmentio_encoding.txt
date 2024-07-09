@@ -1,0 +1,4 @@
+# zerolint exclusions for segmentio/encoding
+github.com/segmentio/encoding/json.MustNotUnmarshalJSON
+github.com/segmentio/encoding/json.MustNotUnmarshalText
+struct{}

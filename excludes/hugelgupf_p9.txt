@@ -1,0 +1,1 @@
+# zerolint exclusions for hugelgupf/p9

@@ -1,0 +1,4 @@
+# zerolint exclusions for reddit/achilles-sdk
+github.com/reddit/achilles-sdk/pkg/encoding/json.MustNotUnmarshalText
+sigs.k8s.io/controller-runtime/pkg/handler.EnqueueRequestForObject
+struct{}

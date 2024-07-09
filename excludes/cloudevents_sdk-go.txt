@@ -1,0 +1,3 @@
+# zerolint exclusions for cloudevents/sdk-go
+github.com/cloudevents/sdk-go/v2/client.myErr
+go.opencensus.io/plugin/ochttp/propagation/tracecontext.HTTPFormat

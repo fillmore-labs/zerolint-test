@@ -1,0 +1,3 @@
+---
+pointer:
+  - k8s.io/utils/exec/testing.FakeExitError

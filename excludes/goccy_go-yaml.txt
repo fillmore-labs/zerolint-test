@@ -1,0 +1,3 @@
+# zerolint exclusions for goccy/go-yaml
+github.com/goccy/go-yaml_test.T
+struct{}

@@ -1,0 +1,16 @@
+---
+pointer:
+  - github.com/opentofu/opentofu/internal/encryption/keyprovider.ErrInvalidConfiguration
+  - github.com/opentofu/opentofu/internal/encryption/keyprovider.ErrInvalidMetadata
+  - github.com/opentofu/opentofu/internal/encryption/keyprovider.ErrKeyProviderFailure
+  - github.com/opentofu/opentofu/internal/encryption/method.ErrCryptoFailure
+  - github.com/opentofu/opentofu/internal/encryption/method.ErrDecryptionFailed
+  - github.com/opentofu/opentofu/internal/encryption/method.ErrDecryptionKeyUnavailable
+  - github.com/opentofu/opentofu/internal/encryption/method.ErrEncryptionFailed
+  - github.com/opentofu/opentofu/internal/encryption/method.ErrInvalidConfiguration
+  - github.com/opentofu/opentofu/internal/encryption/registry.InvalidKeyProviderError
+  - github.com/opentofu/opentofu/internal/encryption/registry.InvalidMethodError
+  - github.com/opentofu/opentofu/internal/encryption/registry.KeyProviderAlreadyRegisteredError
+  - github.com/opentofu/opentofu/internal/encryption/registry.KeyProviderNotFoundError
+  - github.com/opentofu/opentofu/internal/encryption/registry.MethodAlreadyRegisteredError
+  - github.com/opentofu/opentofu/internal/encryption/registry.MethodNotFoundError

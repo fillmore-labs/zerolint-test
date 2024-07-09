@@ -1,0 +1,1 @@
+# zerolint exclusions for nats-io/jsm.go

@@ -1,0 +1,3 @@
+# zerolint exclusions for golang/exp
+golang.org/x/exp/errors/fmt_test.A
+golang.org/x/exp/errors_test.errorT

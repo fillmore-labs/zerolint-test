@@ -1,0 +1,2 @@
+# zerolint exclusions for tsenart/vegeta
+github.com/prometheus/prometheus/model/labels.SymbolTable

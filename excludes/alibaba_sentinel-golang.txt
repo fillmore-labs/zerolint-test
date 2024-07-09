@@ -1,0 +1,2 @@
+# zerolint exclusions for alibaba/sentinel-golang
+github.com/apolloconfig/agollo/v4/component/log.DefaultLogger

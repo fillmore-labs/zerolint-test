@@ -1,0 +1,11 @@
+# zerolint exclusions for google/go-cloud
+github.com/Azure/azure-sdk-for-go/sdk/keyvault/azkeys.DecryptOptions
+github.com/Azure/azure-sdk-for-go/sdk/keyvault/azkeys.EncryptOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus.CompleteMessageOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus.NewSenderOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus.SendMessageOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus/admin.DeleteSubscriptionOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus/admin.DeleteTopicOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus/admin.GetSubscriptionOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus/admin.GetTopicOptions
+gocloud.dev/blob/azureblob.Options

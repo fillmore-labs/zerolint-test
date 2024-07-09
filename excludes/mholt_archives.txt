@@ -1,0 +1,2 @@
+# zerolint exclusions for mholt/archives
+github.com/dsnet/compress/bzip2.ReaderConfig

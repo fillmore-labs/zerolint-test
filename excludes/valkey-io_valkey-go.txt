@@ -1,0 +1,1 @@
+# zerolint exclusions for valkey-io/valkey-go

@@ -1,0 +1,4 @@
+# zerolint exclusions for ory/hydra
+github.com/ory/hydra/v2/oauth2/trust.GrantValidator
+github.com/ory/x/contextx.Default
+github.com/ory/x/contextx.TestContextualizer

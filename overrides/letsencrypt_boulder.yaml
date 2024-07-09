@@ -1,0 +1,3 @@
+---
+value:
+  - github.com/letsencrypt/boulder/errors.SubBoulderError

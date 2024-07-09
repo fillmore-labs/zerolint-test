@@ -1,0 +1,2 @@
+# zerolint exclusions for uber/kraken
+github.com/cenkalti/backoff.StopBackOff

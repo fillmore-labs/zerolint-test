@@ -1,0 +1,1 @@
+# zerolint exclusions for kevinburke/ssh_config

@@ -1,0 +1,3 @@
+# zerolint exclusions for nats-io/nats-server
+github.com/nats-io/nats-server/v2/server.VarzOptions
+struct{}

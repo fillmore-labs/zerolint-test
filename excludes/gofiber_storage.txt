@@ -1,0 +1,2 @@
+# zerolint exclusions for gofiber/storage
+github.com/couchbase/gocb/v2.ClusterCloseOptions

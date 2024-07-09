@@ -1,0 +1,2 @@
+# zerolint exclusions for uber-go/mock
+go.uber.org/mock/mockgen/internal/tests/sanitization/any.Any

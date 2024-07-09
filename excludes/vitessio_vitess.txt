@@ -1,0 +1,7 @@
+# zerolint exclusions for vitessio/vitess
+vitess.io/vitess/go/vt/sqlparser.Commit
+vitess.io/vitess/go/vt/sqlparser.Load
+vitess.io/vitess/go/vt/sqlparser.NullVal
+vitess.io/vitess/go/vt/sqlparser.OtherAdmin
+vitess.io/vitess/go/vt/sqlparser.Rollback
+vitess.io/vitess/go/vt/sqlparser.UnlockTables

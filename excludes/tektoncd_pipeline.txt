@@ -1,0 +1,2 @@
+# zerolint exclusions for tektoncd/pipeline
+github.com/tektoncd/pipeline/pkg/apis/resource/v1alpha1.PipelineResourceStatus

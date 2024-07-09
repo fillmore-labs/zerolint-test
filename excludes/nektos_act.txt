@@ -1,0 +1,4 @@
+# zerolint exclusions for nektos/act
+github.com/nektos/act/pkg/schema.BooleanDefinition
+github.com/nektos/act/pkg/schema.NullDefinition
+github.com/nektos/act/pkg/schema.NumberDefinition

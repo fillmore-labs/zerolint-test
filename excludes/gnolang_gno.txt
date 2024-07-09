@@ -1,0 +1,2 @@
+# zerolint exclusions for gnolang/gno
+github.com/gnolang/gno/tm2/pkg/bft/rpc/core/types.ResultHealth

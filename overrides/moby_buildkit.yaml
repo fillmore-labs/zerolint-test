@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/moby/buildkit/util/imageutil.ResolveToNonImageError

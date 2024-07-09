@@ -1,0 +1,4 @@
+---
+value:
+  - github.com/ovh/cds/sdk.Error
+  - github.com/ovh/cds/engine/vcs/bitbucketcloud.Error

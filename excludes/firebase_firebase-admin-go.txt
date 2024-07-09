@@ -1,0 +1,3 @@
+# zerolint exclusions for firebase/firebase-admin-go
+firebase.google.com/go/v4/auth.TOTPInfo
+firebase.google.com/go/v4/auth.TOTPMultiFactorInfo

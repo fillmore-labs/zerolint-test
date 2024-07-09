@@ -1,0 +1,3 @@
+---
+value:
+  - github.com/aws/smithy-go.InvalidParamsError

@@ -1,0 +1,17 @@
+# zerolint exclusions for hashicorp/vault
+github.com/armon/go-metrics.BlackholeSink
+github.com/aws/aws-sdk-go/service/iam.DeleteAccessKeyOutput
+github.com/aws/aws-sdk-go/service/s3.ListBucketsInput
+github.com/aws/aws-sdk-go/service/sts.GetCallerIdentityInput
+github.com/hashicorp/go-discover/provider/k8s.Provider
+github.com/hashicorp/go-metrics/compat.BlackholeSink
+github.com/hashicorp/vault-plugin-auth-alicloud.CLIHandler
+github.com/hashicorp/vault-plugin-auth-cf.CLIHandler
+github.com/hashicorp/vault-plugin-auth-gcp/plugin.CLIHandler
+github.com/hashicorp/vault-plugin-auth-jwt.CLIHandler
+github.com/hashicorp/vault-plugin-auth-kerberos.CLIHandler
+github.com/hashicorp/vault-plugin-auth-oci.CLIHandler
+github.com/hashicorp/vault/internal/observability/event.NoopSink
+github.com/hashicorp/vault/limits.RequestLimiter
+github.com/hashicorp/vault/sdk/database/helper/cacheutil.Cache
+github.com/hashicorp/vault/vault/observations.ObservationSystem

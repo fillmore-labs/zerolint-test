@@ -1,0 +1,11 @@
+# zerolint exclusions for warpstreamlabs/bento
+github.com/Azure/azure-sdk-for-go/sdk/data/aztables.CreateTableOptions
+github.com/Azure/azure-sdk-for-go/sdk/data/aztables.SubmitTransactionOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azqueue.DeleteMessageOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azqueue.GetQueuePropertiesOptions
+github.com/Azure/go-amqp.ReceiveOptions
+github.com/couchbase/gocb/v2.ClusterCloseOptions
+github.com/parquet-go/parquet-go/compress/snappy.Codec
+github.com/parquet-go/parquet-go/compress/uncompressed.Codec
+github.com/parquet-go/parquet-go/encoding/plain.Encoding
+struct{}

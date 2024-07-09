@@ -1,0 +1,13 @@
+# zerolint exclusions for GetStream/getstream-go
+github.com/GetStream/getstream-go.DeleteCallTypeRequest
+github.com/GetStream/getstream-go.DeleteExternalStorageRequest
+github.com/GetStream/getstream-go.DeleteRecordingRequest
+github.com/GetStream/getstream-go.DeleteTranscriptionRequest
+github.com/GetStream/getstream-go.EndCallRequest
+github.com/GetStream/getstream-go.GetCallTypeRequest
+github.com/GetStream/getstream-go.GetTaskRequest
+github.com/GetStream/getstream-go.ListCallTypesRequest
+github.com/GetStream/getstream-go.ListExternalStorageRequest
+github.com/GetStream/getstream-go.ListRecordingsRequest
+github.com/GetStream/getstream-go.ListTranscriptionsRequest
+github.com/GetStream/getstream-go.StopFrameRecordingRequest

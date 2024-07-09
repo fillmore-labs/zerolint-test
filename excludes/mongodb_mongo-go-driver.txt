@@ -1,0 +1,4 @@
+# zerolint exclusions for mongodb/mongo-go-driver
+go.mongodb.org/mongo-driver/v2/mongo/options.DropIndexesOptions
+go.mongodb.org/mongo-driver/v2/x/mongo/driver/mongocrypt.KmsContext
+struct{}

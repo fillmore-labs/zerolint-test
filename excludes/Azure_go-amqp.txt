@@ -1,0 +1,4 @@
+# zerolint exclusions for Azure/go-amqp
+github.com/Azure/go-amqp.DrainCreditOptions
+github.com/Azure/go-amqp.ReceiveOptions
+github.com/Azure/go-amqp.SendWithReceiptOptions

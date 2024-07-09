@@ -1,0 +1,9 @@
+# zerolint exclusions for tailscale/tailscale
+gvisor.dev/gvisor/pkg/tcpip.ErrClosedForSend
+gvisor.dev/gvisor/pkg/tcpip.ErrNoBufferSpace
+tailscale.com/tailcfg.TKADisableResponse
+tailscale.com/tailcfg.TKAInitFinishResponse
+tailscale.com/tailcfg.TKASubmitSignatureResponse
+tailscale.com/types/empty.Message
+# non-empty on Linux
+tailscale.com/derp/xdp.STUNServer

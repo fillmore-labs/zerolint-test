@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/jesseduffield/lazygit/pkg/gui/types.ErrKeybindingNotHandled

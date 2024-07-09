@@ -1,0 +1,5 @@
+# zerolint exclusions for GoogleCloudPlatform/kubectl-ai
+github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai.GetChatCompletionsOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/cognitiveservices/armcognitiveservices.AccountsClientListOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/cognitiveservices/armcognitiveservices.DeploymentsClientListOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/subscription/armsubscription.SubscriptionsClientListOptions

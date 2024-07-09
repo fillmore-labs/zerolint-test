@@ -1,0 +1,2 @@
+# zerolint exclusions for kubernetes/apimachinery
+k8s.io/apimachinery/pkg/api/errors.TestType

@@ -1,0 +1,6 @@
+---
+pointer:
+  - github.com/opentelekomcloud/gophertelekomcloud.ErrEndpointNotFound
+value:
+  - github.com/opentelekomcloud/gophertelekomcloud.ErrMultipleResourcesFound
+  - github.com/opentelekomcloud/gophertelekomcloud.ErrResourceNotFound

@@ -1,0 +1,40 @@
+---
+pointer:
+  - github.com/microsoft/fabric-sdk-go/fabric/admin/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/apacheairflowjob/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/copyjob/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/core/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/dashboard/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/dataflow/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/datamart/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/datapipeline/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/digitaltwinbuilder/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/digitaltwinbuilderflow/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/environment/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/eventhouse/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/eventstream/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/graphqlapi/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/kqldashboard/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/kqldatabase/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/kqlqueryset/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/lakehouse/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/mirroredazuredatabrickscatalog/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/mirroreddatabase/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/mirroredwarehouse/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/mlexperiment/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/mlmodel/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/mounteddatafactory/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/notebook/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/paginatedreport/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/reflex/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/report/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/semanticmodel/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/spark/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/sparkjobdefinition/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/sqldatabase/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/sqlendpoint/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/variablelibrary/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/warehouse/fake.nonRetriableError
+  - github.com/microsoft/fabric-sdk-go/fabric/warehousesnapshot/fake.nonRetriableError
+value:
+  - github.com/microsoft/fabric-sdk-go/fabric/fake.nonRetriableError

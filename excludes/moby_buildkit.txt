@@ -1,0 +1,2 @@
+# zerolint exclusions for moby/buildkit
+github.com/containerd/stargz-snapshotter/estargz.GzipDecompressor

@@ -1,0 +1,4 @@
+---
+pointer:
+  - github.com/pingcap/tidb/pkg/store/mockstore/unistore/tikv/kverrors.ErrDeadlock
+  - github.com/pingcap/tidb/pkg/store/mockstore/unistore/tikv/kverrors.ErrKeyAlreadyExists

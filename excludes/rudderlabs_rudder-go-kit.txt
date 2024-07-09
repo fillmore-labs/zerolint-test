@@ -1,0 +1,6 @@
+# zerolint exclusions for rudderlabs/rudder-go-kit
+github.com/aws/aws-sdk-go-v2/aws.MissingRegionError
+github.com/aws/aws-sdk-go-v2/service/s3/types.ParquetInput
+github.com/aws/aws-sdk-go-v2/service/s3/types.SelectObjectContentEventStreamMemberEnd
+github.com/aws/aws-sdk-go/service/s3.EndEvent
+github.com/aws/aws-sdk-go/service/s3.ParquetInput

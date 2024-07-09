@@ -1,0 +1,2 @@
+# zerolint exclusions for jackc/pgx
+github.com/jackc/pgx/v5_test.AnotherTable

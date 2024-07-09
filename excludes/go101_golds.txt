@@ -1,0 +1,1 @@
+# zerolint exclusions for go101/golds

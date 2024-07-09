@@ -1,0 +1,7 @@
+---
+pointer:
+  - github.com/minio/minio/internal/config/lambda/event.ErrARNNotFound
+  - github.com/minio/minio/internal/grid.RemoteErr
+value:
+  - github.com/minio/minio/cmd.decomError
+

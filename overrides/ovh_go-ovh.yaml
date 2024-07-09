@@ -1,0 +1,3 @@
+---
+pointer:
+  - github.com/ovh/go-ovh/ovh.APIError

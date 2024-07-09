@@ -1,0 +1,3 @@
+# zerolint exclusions for kptdev/kpt
+github.com/GoogleContainerTools/kpt/rollouts/api/v1alpha1.StrategyAllAtOnce
+sigs.k8s.io/cli-utils/pkg/inventory.NoInventoryObjError

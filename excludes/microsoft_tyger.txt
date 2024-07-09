@@ -1,0 +1,24 @@
+# zerolint exclusions for microsoft/tyger
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/authorization/armauthorization/v2.RoleAssignmentsClientCreateOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/containerservice/armcontainerservice/v4.ManagedClustersClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/keyvault/armkeyvault.VaultsClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/keyvault/armkeyvault.VaultsClientUpdateAccessPolicyOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/monitor/armmonitor.DiagnosticSettingsClientCreateOrUpdateOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/msi/armmsi.FederatedIdentityCredentialsClientCreateOrUpdateOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/msi/armmsi.UserAssignedIdentitiesClientCreateOrUpdateOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/msi/armmsi.UserAssignedIdentitiesClientDeleteOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/msi/armmsi.UserAssignedIdentitiesClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/msi/armmsi.UserAssignedIdentitiesClientListByResourceGroupOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/operationalinsights/armoperationalinsights.WorkspacesClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/postgresql/armpostgresqlflexibleservers/v4.AdministratorsClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/postgresql/armpostgresqlflexibleservers/v4.ConfigurationsClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/postgresql/armpostgresqlflexibleservers/v4.DatabasesClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/postgresql/armpostgresqlflexibleservers/v4.FirewallRulesClientListByServerOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/postgresql/armpostgresqlflexibleservers/v4.ServersClientGetOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources.ResourceGroupsClientCheckExistenceOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources.ResourceGroupsClientCreateOrUpdateOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armresources.TagsClientCreateOrUpdateAtScopeOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armsubscriptions.ClientListOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/resources/armsubscriptions.TenantsClientListOptions
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/storage/armstorage.NetworkSecurityPerimeterConfigurationsClientListOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azblob/service.GetAccountInfoOptions

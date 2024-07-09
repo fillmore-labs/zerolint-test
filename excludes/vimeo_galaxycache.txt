@@ -1,0 +1,2 @@
+# zerolint exclusions for vimeo/galaxycache
+github.com/vimeo/galaxycache.NullFetchProtocol

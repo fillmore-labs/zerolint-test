@@ -1,0 +1,5 @@
+# zerolint exclusions for loft-sh/vcluster
+github.com/loft-sh/vcluster/config.TranslatePatchLabels
+github.com/loft-sh/vcluster/pkg/controllers/resources/nodes.fakeNodeServiceProvider
+sigs.k8s.io/controller-runtime/pkg/handler.EnqueueRequestForObject
+sigs.k8s.io/controller-runtime/pkg/handler.TypedEnqueueRequestForObject[sigs.k8s.io/controller-runtime/pkg/client.Object]

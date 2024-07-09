@@ -1,0 +1,2 @@
+# zerolint exclusions for crewjam/saml
+github.com/crewjam/saml.OneTimeUse

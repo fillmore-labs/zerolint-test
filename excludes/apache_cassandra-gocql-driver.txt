@@ -1,0 +1,1 @@
+# zerolint exclusions for apache/cassandra-gocql-driver

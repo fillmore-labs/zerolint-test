@@ -1,0 +1,2 @@
+# zerolint exclusions for IBM/platform-services-go-sdk
+github.com/IBM/go-sdk-core/v5/core.NoAuthAuthenticator

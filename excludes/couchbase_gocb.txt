@@ -1,0 +1,22 @@
+# zerolint exclusions for couchbase/gocb
+github.com/couchbase/gocb/v2.ClusterCloseOptions
+github.com/couchbase/gocb/v2.failFastRetryStrategy
+github.com/couchbase/gocb/v2.JSONTranscoder
+github.com/couchbase/gocb/v2.LegacyTranscoder
+github.com/couchbase/gocb/v2.noopCleanupHooksWrapper
+github.com/couchbase/gocb/v2.noopClientRecordHooksWrapper
+github.com/couchbase/gocb/v2.noopCounter
+github.com/couchbase/gocb/v2.noopHooksWrapper
+github.com/couchbase/gocb/v2.NoopMeter
+github.com/couchbase/gocb/v2.NoopTracer
+github.com/couchbase/gocb/v2.noopValueRecorder
+github.com/couchbase/gocb/v2.NoRetryRetryAction
+github.com/couchbase/gocb/v2.RawBinaryTranscoder
+github.com/couchbase/gocb/v2.RawJSONTranscoder
+github.com/couchbase/gocb/v2.RawStringTranscoder
+github.com/couchbase/gocb/v2.transactionsInternalPs
+github.com/couchbase/gocb/v2.transactionsProviderPs
+github.com/couchbase/gocb/v2/search.MatchAllQuery
+github.com/couchbase/gocb/v2/search.MatchNoneQuery
+github.com/couchbase/gocbcore/v10.RangeScanCancelResult
+github.com/couchbase/gocbcore/v10.WaitUntilReadyResult

@@ -1,0 +1,2 @@
+# zerolint exclusions for u-root/u-root
+github.com/cenkalti/backoff/v4.ZeroBackOff

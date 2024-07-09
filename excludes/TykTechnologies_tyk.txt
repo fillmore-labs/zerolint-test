@@ -1,0 +1,7 @@
+# zerolint exclusions for TykTechnologies/tyk
+github.com/cenk/backoff.StopBackOff
+github.com/lonelycode/osin.AuthorizeTokenGenDefault
+github.com/TykTechnologies/graphql-go-tools/pkg/engine/datasource/graphql_datasource.DefaultSubscriptionClientFactory
+github.com/TykTechnologies/graphql-go-tools/pkg/engine/datasource/kafka_datasource.Factory
+github.com/TykTechnologies/graphql-go-tools/v2/pkg/engine/datasource/graphql_datasource.DefaultSubscriptionClientFactory
+github.com/TykTechnologies/graphql-go-tools/v2/pkg/engine/datasource/kafka_datasource.Factory

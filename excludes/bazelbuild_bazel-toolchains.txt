@@ -1,0 +1,2 @@
+# zerolint exclusions for bazelbuild/bazel-toolchains
+github.com/bazelbuild/bazelisk/repositories.GCSRepo

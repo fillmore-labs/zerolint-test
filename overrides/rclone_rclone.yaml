@@ -1,0 +1,10 @@
+---
+pointer:
+  - github.com/yunify/qingstor-sdk-go/v3/request/errors.QingStorError
+value:
+  - github.com/dropbox/dropbox-sdk-go-unofficial/v6/dropbox/files.DownloadAPIError
+  - github.com/dropbox/dropbox-sdk-go-unofficial/v6/dropbox/files.GetMetadataAPIError
+  - github.com/dropbox/dropbox-sdk-go-unofficial/v6/dropbox/files.ListFolderAPIError
+  - github.com/dropbox/dropbox-sdk-go-unofficial/v6/dropbox/files.UploadSessionAppendV2APIError
+  - github.com/dropbox/dropbox-sdk-go-unofficial/v6/dropbox/sharing.MountFolderAPIError
+  - github.com/rclone/rclone/backend/gofile/api.Error

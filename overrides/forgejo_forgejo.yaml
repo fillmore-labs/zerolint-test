@@ -1,0 +1,6 @@
+---
+pointer:
+  - forgejo.org/models/issues.ErrIssueContentHistoryNotExist
+value:
+  - forgejo.org/models/repo.ErrRepoNotExist
+  - forgejo.org/modules/git.ErrNotExist

@@ -1,0 +1,3 @@
+---
+suppress:
+  - github.com/graphql-go/graphql_test.customError
