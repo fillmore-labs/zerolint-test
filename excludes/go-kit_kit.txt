@@ -1,0 +1,4 @@
+# zerolint exclusions for go-kit/kit
+github.com/aws/aws-sdk-go/service/cloudwatch.PutMetricDataOutput
+go.opencensus.io/plugin/ochttp/propagation/b3.HTTPFormat
+go.opencensus.io/plugin/ochttp/propagation/tracecontext.HTTPFormat

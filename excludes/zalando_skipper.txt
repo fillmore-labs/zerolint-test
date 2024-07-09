@@ -1,0 +1,2 @@
+# zerolint exclusions for zalando/skipper
+github.com/zalando/skipper/filters/ratelimit.FailClosedPostProcessor

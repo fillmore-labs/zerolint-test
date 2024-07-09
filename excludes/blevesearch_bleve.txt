@@ -1,0 +1,8 @@
+# zerolint exclusions for blevesearch/bleve
+github.com/blevesearch/upsidedown_store_api/test.TestMergeCounter
+github.com/blevesearch/zapx/v11.ZapPlugin
+github.com/blevesearch/zapx/v12.ZapPlugin
+github.com/blevesearch/zapx/v13.ZapPlugin
+github.com/blevesearch/zapx/v14.ZapPlugin
+github.com/blevesearch/zapx/v15.ZapPlugin
+github.com/blevesearch/zapx/v16.ZapPlugin

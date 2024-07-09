@@ -1,0 +1,2 @@
+# zerolint exclusions for joyme123/thrift-ls
+github.com/joyme123/protocol.InitializedParams

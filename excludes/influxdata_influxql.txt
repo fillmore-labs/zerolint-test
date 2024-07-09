@@ -1,0 +1,9 @@
+# zerolint exclusions for influxdata/influxql
+github.com/influxdata/influxql.NilLiteral
+github.com/influxdata/influxql.ShowContinuousQueriesStatement
+github.com/influxdata/influxql.ShowDatabasesStatement
+github.com/influxdata/influxql.ShowQueriesStatement
+github.com/influxdata/influxql.ShowShardGroupsStatement
+github.com/influxdata/influxql.ShowShardsStatement
+github.com/influxdata/influxql.ShowSubscriptionsStatement
+github.com/influxdata/influxql.ShowUsersStatement

@@ -1,0 +1,15 @@
+# zerolint exclusions for hashicorp/consul
+github.com/armon/go-metrics.BlackholeSink
+github.com/hashicorp/consul/acl.EnterpriseMeta
+github.com/hashicorp/consul/acl.EnterprisePolicyMeta
+github.com/hashicorp/consul/acl.EnterpriseRule
+github.com/hashicorp/consul/agent/checks.OSServiceClient
+github.com/hashicorp/consul/agent/consul.EnterpriseConfig
+github.com/hashicorp/consul/agent/consul/rate.IPLimitConfig
+github.com/hashicorp/consul/agent/structs.APIGatewayJWTRequirement
+github.com/hashicorp/consul/agent/structs.JWTFilter
+github.com/hashicorp/consul/api.PeeringEstablishResponse
+github.com/hashicorp/go-discover/provider/k8s.Provider
+main.httpHeaders
+main.pluginContext
+main.vmContext

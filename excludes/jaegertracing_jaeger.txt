@@ -1,0 +1,6 @@
+# zerolint exclusions for jaegertracing/jaeger
+github.com/jaegertracing/jaeger/internal/storage/v1/api/metricstore.MinStepDurationQueryParameters
+go.opentelemetry.io/collector/pdata/ptrace.JSONMarshaler
+go.opentelemetry.io/collector/pdata/ptrace.JSONUnmarshaler
+go.opentelemetry.io/collector/pdata/ptrace.ProtoMarshaler
+go.opentelemetry.io/collector/pdata/ptrace.ProtoUnmarshaler

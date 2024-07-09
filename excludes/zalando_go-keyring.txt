@@ -1,0 +1,1 @@
+# zerolint exclusions for zalando/go-keyring

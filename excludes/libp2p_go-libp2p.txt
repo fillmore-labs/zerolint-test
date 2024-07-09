@@ -1,0 +1,2 @@
+# zerolint exclusions for libp2p/go-libp2p
+github.com/quic-go/quic-go.IdleTimeoutError

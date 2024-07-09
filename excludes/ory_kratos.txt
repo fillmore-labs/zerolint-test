@@ -1,0 +1,4 @@
+# zerolint exclusions for ory/kratos
+github.com/ory/kratos/selfservice/hook.AddressVerifier
+github.com/ory/x/contextx.Default
+github.com/ory/x/decoderx.HTTP

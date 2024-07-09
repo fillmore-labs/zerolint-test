@@ -1,0 +1,2 @@
+# zerolint exclusions for matryer/moq
+github.com/matryer/moq/pkg/moq/testpackages/genparamname.myType

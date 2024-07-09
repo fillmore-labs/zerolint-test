@@ -1,0 +1,11 @@
+# zerolint exclusions for quic-go/quic-go
+github.com/quic-go/quic-go/internal/qerr.HandshakeTimeoutError
+github.com/quic-go/quic-go/internal/qerr.IdleTimeoutError
+# Tests call reflect.TypeOf(...).Elem() on these:
+github.com/quic-go/quic-go/internal/wire.HandshakeDoneFrame
+github.com/quic-go/quic-go/internal/wire.PingFrame
+# Aliases:
+github.com/quic-go/quic-go.HandshakeTimeoutError
+github.com/quic-go/quic-go.IdleTimeoutError
+github.com/quic-go/quic-go/logging.HandshakeDoneFrame
+github.com/quic-go/quic-go/logging.PingFrame

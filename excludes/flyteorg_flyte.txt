@@ -1,0 +1,4 @@
+# zerolint exclusions for flyteorg/flyte
+github.com/aws/aws-sdk-go/service/batch.TerminateJobOutput
+github.com/aws/aws-sdk-go/service/cloudwatchevents.DeleteRuleOutput
+github.com/grpc-ecosystem/grpc-gateway/runtime.ProtoMarshaller

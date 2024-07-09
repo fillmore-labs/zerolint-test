@@ -1,0 +1,3 @@
+# zerolint exclusions for centrifugal/centrifugo
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus.CompleteMessageOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus.RenewSessionLockOptions
