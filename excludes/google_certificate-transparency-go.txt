@@ -1,0 +1,1 @@
+# zerolint exclusions for google/certificate-transparency-go

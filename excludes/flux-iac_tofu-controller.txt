@@ -1,0 +1,1 @@
+# zerolint exclusions for flux-iac/tofu-controller

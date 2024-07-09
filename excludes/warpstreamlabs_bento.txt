@@ -1,0 +1,26 @@
+# zerolint exclusions for warpstreamlabs/bento
+github.com/Azure/azure-sdk-for-go/sdk/data/aztables.CreateTableOptions
+github.com/Azure/azure-sdk-for-go/sdk/data/aztables.SubmitTransactionOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azqueue.DeleteMessageOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azqueue.GetQueuePropertiesOptions
+github.com/Azure/go-amqp.ReceiveOptions
+github.com/couchbase/gocb/v2.ClusterCloseOptions
+github.com/parquet-go/parquet-go/compress/snappy.Codec
+github.com/parquet-go/parquet-go/compress/uncompressed.Codec
+github.com/parquet-go/parquet-go/encoding/plain.Encoding
+#github.com/warpstreamlabs/bento/internal/bundle/errorsampling.mockProc (value methods)
+#github.com/warpstreamlabs/bento/internal/filepath/ifs.osPT
+#github.com/warpstreamlabs/bento/internal/impl/prometheus.noopStat (value methods)
+#github.com/warpstreamlabs/bento/internal/impl/pure.jsonDocumentScannerCreator
+#github.com/warpstreamlabs/bento/internal/impl/pure.noopProcessor
+#github.com/warpstreamlabs/bento/internal/impl/pure.tarScannerCreator
+#github.com/warpstreamlabs/bento/internal/impl/pure.toTheEndScannerCreator
+#github.com/warpstreamlabs/bento/internal/impl/sftp.osPT
+#github.com/warpstreamlabs/bento/internal/log.testErr (value methods)
+#github.com/warpstreamlabs/bento/public/service_test.BlueOutput
+#github.com/warpstreamlabs/bento/public/service_test.batchOfJSONWriter
+#github.com/warpstreamlabs/bento/public/service_test.mockInternalMessageAwareRateLimit
+#github.com/warpstreamlabs/bento/public/service_test.mockPublicMessageAwareRateLimit
+#github.com/warpstreamlabs/bento/public/service_test.mockPublicRateLimitV1
+#github.com/warpstreamlabs/bento/public/service_test.noopOutput
+struct{}
