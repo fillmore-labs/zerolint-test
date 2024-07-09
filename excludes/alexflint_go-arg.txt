@@ -1,0 +1,2 @@
+# zerolint exclusions for alexflint/go-arg
+github.com/alexflint/go-arg.child

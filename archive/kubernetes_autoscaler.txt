@@ -1,0 +1,7 @@
+# zerolint exclusions for kubernetes/autoscaler
+github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/containerservice/armcontainerservice/v4.AgentPoolsClientGetOptions
+k8s.io/autoscaler/cluster-autoscaler/cloudprovider/aws/aws-sdk-go/service/autoscaling.SetDesiredCapacityOutput
+k8s.io/autoscaler/cluster-autoscaler/cloudprovider/hetzner/hcloud-go/hcloud.converterImpl
+k8s.io/autoscaler/cluster-autoscaler/cloudprovider/kwok.KwokConfig
+# non-empty on Linux
+k8s.io/autoscaler/cluster-autoscaler/cloudprovider/kubemark.KubemarkCloudProvider

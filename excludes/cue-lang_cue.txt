@@ -1,0 +1,11 @@
+# zerolint exclusions for cue-lang/cue
+cuelang.org/go/encoding/gocode/gocodec.Config
+cuelang.org/go/internal/golangorgx/gopls/protocol.InitializedParams
+cuelang.org/go/pkg/tool/file.cmdAppend
+cuelang.org/go/pkg/tool/file.cmdCreate
+cuelang.org/go/pkg/tool/file.cmdGlob
+cuelang.org/go/pkg/tool/file.cmdMkdir
+cuelang.org/go/pkg/tool/file.cmdMkdirTemp
+cuelang.org/go/pkg/tool/file.cmdRead
+cuelang.org/go/pkg/tool/file.cmdRemoveAll
+cuelang.org/go/pkg/tool/http.httpCmd

@@ -1,0 +1,18 @@
+{
+    "Azure/azure-sdk-for-go": "&main",
+    "Azure/azure-service-operator": "v2.13.0",
+    "DataDog/datadog-agent": "7.65.2",
+    "cockroachdb/pebble": "v2.0.3",
+    "cosmos/cosmos-sdk": "v0.53.0",
+    "cosmos/evm": "v0.2.0",
+    "cosmos/ibc-go": "v10.2.0",
+    "grafana/loki": "v3.5.0",
+    "grafana/mimir": "v1.11.0-rc.0",
+    "hashicorp/consul": "v1.21.0",
+    "ignite/cli": "v29.0.0-rc.1",
+    "influxdata/kapacitor": "v1.7.6",
+    "kubernetes/autoscaler": "vertical-pod-autoscaler-1.3.1",
+    "microsoft/fabric-sdk-go": "v0.2.0",
+    "tinylib/msgp": "v1.3.0",
+    "volcano-sh/volcano": "v1.11.2"
+}
