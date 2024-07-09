@@ -1,0 +1,2 @@
+# zerolint exclusions for kubernetes-sigs/external-dns
+struct{}

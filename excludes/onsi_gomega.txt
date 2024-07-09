@@ -1,0 +1,2 @@
+# zerolint exclusions for onsi/gomega
+github.com/onsi/gomega/matchers_test.AnyType

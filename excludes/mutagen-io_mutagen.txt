@@ -1,0 +1,2 @@
+# zerolint exclusions for mutagen-io/mutagen
+github.com/mutagen-io/mutagen/pkg/api/models/forwarding.EndpointState

@@ -1,0 +1,4 @@
+# zerolint exclusions for go-gitea/gitea
+code.gitea.io/gitea/modules/auth/password/hash.DummyHasher
+github.com/golang-jwt/jwt/v5.SigningMethodEd25519
+github.com/nektos/act/pkg/workflowpattern.EmptyTraceWriter

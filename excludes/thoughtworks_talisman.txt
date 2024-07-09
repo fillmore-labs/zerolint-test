@@ -1,0 +1,2 @@
+# zerolint exclusions for thoughtworks/talisman
+talisman/detector/filecontent.Base64AggressiveDetector
