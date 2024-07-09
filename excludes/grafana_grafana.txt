@@ -1,0 +1,21 @@
+# zerolint exclusions for grafana/grafana
+github.com/apache/arrow-go/v18/arrow.Float64Type
+github.com/apache/arrow-go/v18/arrow.Int64Type
+github.com/apache/arrow-go/v18/arrow.Int8Type
+github.com/apache/arrow-go/v18/arrow.StringType
+github.com/dolthub/vitess/go/vt/sqlparser.NullVal
+github.com/grafana/alerting/images.UnavailableProvider
+github.com/grafana/grafana-app-sdk/logging.NoOpLogger
+github.com/grafana/grafana/pkg/apimachinery/utils_test.Spec2
+github.com/grafana/grafana/pkg/apis/secret/v0alpha1.Envelope
+github.com/grafana/grafana/pkg/registry/apis/service.ServiceAPIBuilder
+github.com/grafana/grafana/pkg/services/apiserver/options.GrafanaAggregatorOptions
+github.com/grafana/grafana/pkg/services/datasources.GetAllDataSourcesQuery
+github.com/grafana/grafana/pkg/services/live/pipeline.JsonFrameConverterConfig
+github.com/grafana/grafana/pkg/services/ngalert/api.contactPointsExtension
+github.com/grafana/grafana/pkg/services/pluginsintegration/managedplugins.Noop
+github.com/grafana/grafana/pkg/services/store.StorageSQLConfig
+gocloud.dev/blob/memblob.Options
+struct{}
+xorm.io/core.IdFilter
+xorm.io/core.QuoteFilter

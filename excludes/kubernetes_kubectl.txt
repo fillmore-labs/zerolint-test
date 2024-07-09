@@ -1,0 +1,2 @@
+# zerolint exclusions for kubernetes/kubectl
+k8s.io/cli-runtime/pkg/printers.JSONPrinter

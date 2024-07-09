@@ -1,0 +1,10 @@
+# zerolint exclusions for influxdata/telegraf
+github.com/aws/aws-sdk-go-v2/feature/ec2/imds.GetInstanceIdentityDocumentInput
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azeventhubs.AddEventDataOptions
+github.com/Azure/azure-sdk-for-go/sdk/messaging/azeventhubs.SendEventDataBatchOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azqueue.GetQueuePropertiesOptions
+github.com/Azure/azure-sdk-for-go/sdk/storage/azqueue.PeekMessageOptions
+github.com/docker/docker/api/types/swarm.GlobalJob
+github.com/docker/docker/api/types/swarm.GlobalService
+github.com/mdlayher/vsock.Config
+github.com/prometheus/prometheus/model/labels.SymbolTable

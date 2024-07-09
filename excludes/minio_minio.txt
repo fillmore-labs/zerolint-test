@@ -1,0 +1,8 @@
+# zerolint exclusions for minio/minio
+github.com/minio/minio/cmd.BucketQuotaSys
+github.com/minio/minio/cmd.BucketVersioningSys
+github.com/minio/minio/cmd.LifecycleSys
+github.com/minio/minio/cmd.PolicySys
+github.com/minio/minio/internal/event.ErrFilterNamePrefix
+github.com/minio/minio/internal/event.ErrFilterNameSuffix
+github.com/minio/minio/internal/event.ErrUnsupportedConfiguration

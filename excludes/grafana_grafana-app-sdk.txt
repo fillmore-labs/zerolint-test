@@ -1,0 +1,2 @@
+# zerolint exclusions for grafana/grafana-app-sdk
+github.com/grafana/grafana-app-sdk/k8s.noAlloc
