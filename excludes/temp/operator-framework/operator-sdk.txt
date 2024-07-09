@@ -1,0 +1,2 @@
+# zerolint exclusions for operator-framework/operator-sdk
+github.com/operator-framework/operator-lib/handler.InstrumentedEnqueueRequestForObject

@@ -1,0 +1,3 @@
+# zerolint exclusions for AdguardTeam/AdGuardHome
+github.com/AdguardTeam/AdGuardHome/internal/next/agh.EmptyServiceWithConfig[struct{}]
+github.com/miekg/dns.SVCBNoDefaultAlpn
